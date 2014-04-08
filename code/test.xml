@@ -1,0 +1,780 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="pt">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <base>http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal</base>
+    <generator>MediaWiki 1.21wmf11</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Multimédia</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussão</namespace>
+      <namespace key="2" case="first-letter">Usuário(a)</namespace>
+      <namespace key="3" case="first-letter">Usuário(a) Discussão</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Wikipédia Discussão</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Ficheiro Discussão</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Discussão</namespace>
+      <namespace key="10" case="first-letter">Predefinição</namespace>
+      <namespace key="11" case="first-letter">Predefinição Discussão</namespace>
+      <namespace key="12" case="first-letter">Ajuda</namespace>
+      <namespace key="13" case="first-letter">Ajuda Discussão</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Categoria Discussão</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Discussão</namespace>
+      <namespace key="102" case="first-letter">Anexo</namespace>
+      <namespace key="103" case="first-letter">Anexo Discussão</namespace>
+      <namespace key="104" case="first-letter">Livro</namespace>
+      <namespace key="105" case="first-letter">Livro Discussão</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cristiano Ronaldo</title>
+    <ns>0</ns>
+    <id>56997</id>
+    <revision>
+      <id>34400001</id>
+      <parentid>34393524</parentid>
+      <timestamp>2013-03-11T15:43:48Z</timestamp>
+      <contributor>
+        <username>Steve McClean</username>
+        <id>1076183</id>
+      </contributor>
+      <text xml:space="preserve" bytes="71655">{{Info/Futebolista
+ |nome             = Cristiano Ronaldo
+ |imagem           = Cristiano Ronaldo 4609.jpg
+ |imagem_tamanho   = 250px
+ |imagem_legenda   = Cristiano Ronaldo no [[Real Madrid]]
+ |nomecompleto     = Cristiano Ronaldo dos Santos Aveiro
+ |datadenascimento = {{dni|5|02|1985}}
+ |cidadenatal      = [[Funchal]]
+ |paisnatal        = {{PRT}}
+ |nacionalidade    = {{PORb}} [[Português]]
+ |religião         = [[Catolicismo Romano]]
+ |altura           = 1,85 m&lt;ref name=RMA&gt;{{citar web|url=http://www.realmadrid.com/cs/Satellite/es/1193040475259/1202773825396/jugador/Jugador/Cristiano_Ronaldo.htm|titulo=Ficha técnica - Cristiano Ronaldo|autor=realmadrid.com|língua2=es |data=|publicado=Real Madrid C.F. - Web Oficial - Official Web Site - Cristiano Ronaldo dos Santos Aveiro - El futbolista total. Talento, velocidad, habilidad y eficacia para un fútbol de fantasía |acessodata=}}&lt;/ref&gt;
+ |peso             = 80&amp;nbsp;kg&lt;ref name=RMA/&gt;
+ |pé               = [[Destro]]
+ |apelido          = ''CR'', ''CR7'', ''CR9'' ''Ronny'', ''Cris'', ''C Ronaldo''&lt;br /&gt;''El Deseado'', ''El Bicho''&lt;ref name=apodoesp&gt;{{citar web || url=http://es.wikipedia.org/wiki/Cristiano_Ronaldo || titulo= Apodo del Cristiano Ronaldo || acessodata=[[4 de Maio]] de [[2007]] || }}&lt;/ref&gt;
+ |actualclube      = {{ESPb}} [[Real Madrid Club de Fútbol|Real Madrid]]
+ |clubenumero      = 7
+ |posição          = [[Meia (futebol)|Meia]], [[Ala (futebol)|ala]] e [[Atacante (futebol)|Atacante]]
+ |site             = http://www.cristianoronaldoofficial.com/
+ |jovemanos        = 1993–1995&lt;br /&gt;1995–1997&lt;br /&gt;1997–2001
+ |jovemclubes      = {{PORb}} [[Clube Futebol Andorinha de Santo António|Andorinha]]&lt;br /&gt;{{PORb}} [[Clube Desportivo Nacional|Nacional da Madeira]]&lt;ref name=portugaldam&gt;{{citar web|url=http://www.portugoal.net/index.php/clubs/nacional|titulo=Clube Desportivo Nacional - NACIONAL DA MADEIRA|autor=PORTUGAL.net |data=12/05/2008}}&lt;/ref&gt;&lt;br /&gt;{{PORb}} [[Sporting Clube de Portugal|Sporting]]
+ |ano              = 2001–2003&lt;br /&gt;2003–2009&lt;br /&gt;2009–
+ |clubes           = {{PORb}} [[Sporting Clube de Portugal|Sporting]]&lt;br /&gt;{{ENGb}} [[Manchester United Football Club|Manchester United]]&lt;br /&gt;{{ESPb}} [[Real Madrid Club de Fútbol|Real Madrid]]
+ |jogos(golos)     = {{0|00}}25 {{0|0000}}(3)&lt;br /&gt;{{0|0}}196 {{0|000}}(84)&lt;br /&gt;{{0|0}}127 {{0|00}}(138)
+ |anoselecao       = 2001–2002&lt;br /&gt;2003&lt;br /&gt;2002–2003&lt;br /&gt;2004&lt;br /&gt;2003–
+ |selecaonacional  = {{PRTf}} &lt;small&gt;sub-17&lt;/small&gt;&lt;br /&gt;{{Flagicon|Portugal|size=20px}} [[Seleção Portuguesa de Futebol sub-20|Portugal &lt;small&gt;sub-20&lt;/small&gt;]]&lt;br /&gt;{{Flagicon|Portugal|size=20px}} [[Seleção Portuguesa de Futebol sub-21|Portugal &lt;small&gt;sub-21&lt;/small&gt;]]&lt;br /&gt;{{PRTf}} &lt;small&gt;sub-23&lt;/small&gt;&lt;br /&gt;{{PRTf}}
+ |partidasselecao  = {{0|000}}9 {{0|0000}}(6)&lt;br /&gt;{{0|000}}5 {{0|0000}}(3)&lt;br /&gt;{{0|000}}6 {{0|0000}}(1)&lt;br /&gt;{{0|000}}3 {{0|0000}}(1)&lt;br /&gt;{{0|0}}101 {{0|000}}(38)
+ |pcupdate         = 10 de Março de 2013
+ |tupdate          = 
+ |ntupdate         = 6 de Fevereiro de 2013
+ |medalhas         = 
+}}
+'''Cristiano Ronaldo dos Santos Aveiro''', ou simplesmente '''Cristiano Ronaldo''' &lt;small&gt;[[Ordem do Infante D. Henrique|OIH]]&lt;/small&gt; ([[Santo António (Funchal)|Santo António]], [[Funchal]], [[5 de fevereiro]] de [[1985]]),&lt;ref name=PCRTO&gt;{{Citar web|url=http://www.guardian.co.uk/football/2008/jun/08/manchesterunited.portugal?gusrc=rss&amp;feed=football|título=Profile: Cristiano Ronaldo | Football | The Observer|publicado=guardian.co.uk |acessodata=2009-07-01|último =|primeiro =|língua2=en}}&lt;/ref&gt; é um [[futebolista]] [[Portugal|português]] que joga como [[Médio ofensivo|médio ala]] e [[Extremo (futebol)|extremo]] no [[Real Madrid Club de Fútbol|Real Madrid]] e na [[Seleção Portuguesa de Futebol|Seleção Portuguesa]], na qual é [[capitão (futebol)|capitão]]. 
+
+Ronaldo tornou-se no jogador mais caro da história do futebol após a sua transferência em 2009 do [[Manchester United]] para o [[Real Madrid]], num acordo no valor de 80 milhões de [[libras esterlinas]] (94 milhões de euros).&lt;ref name=CRMURM /&gt; Este contrato estabeleceu a sua [[cláusula|cláusula de rescisão]] em {{fmtn|1000}} milhões de euros e estipulou uma quantia anual de 12 milhões de euros, o que faz dele um dos jogadores de futebol mais bem pagos do mundo.&lt;ref&gt;{{citar web|url=http://www.abola.pt/nnh/ver.aspx?id=259855&amp;rss=1|título=Cristiano Ronaldo é o jogador mais bem pago do mundo|autor=Hugo do Carmo|publicado=[[A Bola]]|data=27 de Abril de 2011|acessodata=27 de Abril de 2011}}&lt;/ref&gt; Em Abril de 2012 foi considerado o jogador de futebol mais valioso do mundo, após um estudo que atribuiu ganhos de 40 milhões de euros anuais ao jogador português.&lt;ref&gt;{{citar periódico|url=http://www.dn.pt/inicio/economia/interior.aspx?content_id=2399907&amp;seccao=Dinheiro%20Vivo|titulo=Cristiano Ronaldo vale mais do que Messi|ultimo=Brito|primeiro=Paula|data=3 de abril de 2012|jornal=[[Diário de Notícias]]|acessadoem=4 de abril de 2012}}&lt;/ref&gt;
+
+Ronaldo começou a sua carreira nas categorias de base do [[Clube Futebol Andorinha de Santo António|Clube de Futebol Andorinha de Santo António]]. Em 1995, foi para o [[Clube Desportivo Nacional]] e o seu sucesso com a equipa levou-o a assinar com o [[Sporting Clube de Portugal]] por duas temporadas. O talento precoce de Ronaldo chamou a atenção de [[Alexander Chapman Ferguson|Sir Alex Ferguson]], treinador do [[Manchester United Football Club|Manchester United]]. Em 2003, quando tinha apenas dezoito anos de idade, Ronaldo assinou um contrato com o clube inglês, que pagou cerca de 12,24 milhões de [[libras esterlinas]] (15 milhões de euros) ao Sporting Clube de Portugal. Já na temporada seguinte, Ronaldo ganhou o seu primeiro título com o Manchester United, a [[Copa da Inglaterra|Taça de Inglaterra]], e chegou à final do [[Campeonato Europeu de Futebol de 2004]] com [[Selecção Portuguesa de Futebol|Portugal]], na qual marcou o seu primeiro golo internacional, mas não evitou a surpreendente derrota frente à [[Seleção Grega de Futebol|Grécia]]. Ronaldo foi incluído na equipa ideal desta competição.
+
+Ronaldo foi o primeiro futebolista a vencer todos os quatro prémios principais [[Professional Footballers' Association|PFA]] e FWA, em 2007. Ronaldo ficou em terceiro lugar na votação de [[Melhor jogador do mundo pela FIFA em 2007|melhor jogador do mundo pela FIFA de 2007]] e em segundo lugar na votação da [[Ballon d'Or|Bola de Ouro de 2007]]. Em [[2008]], Ronaldo conquistou a sua primeira, e única até à data, [[Liga dos Campeões da UEFA|Liga dos Campeões]] com o [[Manchester United]], foi considerado o melhor avançado e o melhor jogador da competição e foi o maior marcador da mesma, assim como ganhou a [[Bota de ouro da UEFA|Bota de Ouro]], tornando-se no primeiro médio ala a consegui-lo, e ainda ganhou a Bota de Ouro da [[Premier League]]. Ronaldo ganhou três dos quatro principais prémios PFA e FWA, não ganhando apenas o prémio ''PFA Young Player of the Year'' e foi nomeado pela [[FIFPro]]&lt;ref name=MJMFIFPro&gt;{{Citar web |url=http://football.uk.reuters.com/european/news/31AF1E0C-A43A-11DD-8435-676EF73CFA52.php |título=Ronaldo named FIFPro World Player of the Year | Football | Reuters |publicado=football.uk.reuters.com |acessodata=2009-07-01 |último = |primeiro = |língua=inglês}}&lt;/ref&gt;, [[World Soccer]], [[Onze d'Or]] e pela [[FIFA]] ([[melhor jogador do mundo pela FIFA em 2008]])&lt;ref name=MJMFIFA&gt;{{Citar web |url=http://www.fifa.com/classicfootball/awards/gala/news/newsid=991507.html |título=FIFA.com - Ronaldo and Marta top the world |publicado=www.fifa.com  |acessodata=2009-07-01 |último = |primeiro = |língua=inglês}}&lt;/ref&gt;, tornando-se no primeiro jogador do Manchester United a ganhar a Bola de Ouro&lt;ref name=BO2008&gt;{{Citar web |url=http://www.francefootball.fr/FF/breves2008/20081202_030150_cristiano-ronaldo-ballon-d-or-2008.html |título=Cristiano Ronaldo, Ballon d'Or 2008 : France Football |publicado=www.francefootball.fr |acessodata=2009-07-01 |último = |primeiro = |língua=francês}}&lt;/ref&gt; em quarenta anos, após [[George Best]]. Foi o primeiro jogador a ganhar o [[Prémio FIFA Ferenc Puskás]], em 2009, atribuído ao melhor golo do ano. Ronaldo marcou esse golo a 40 metros da baliza do [[F.C. Porto]] num jogo dos quartos-de-final da Liga dos Campeões, enquanto jogava pelo Manchester United. [[Johan Cruyff]], três vezes vencedor da Bola de Ouro, disse numa entrevista a 2 de Abril de 2008, &quot;''Ronaldo é melhor do que [[George Best]] e [[Denis Law]], que foram dois grandes e brilhantes jogadores na história do Manchester United''.&quot;&lt;ref name=JCPTV&gt;{{Citar web |url=http://www.presstv.ir/detail.aspx?id=49967&amp;sectionid=3510211 |título=Cryuff: Ronaldo, United's best ever |publicado=www.presstv.ir |acessodata=2009-07-01 |último = |primeiro = |língua=inglês}}&lt;/ref&gt;. Ronaldo ficou em segundo lugar na votação de [[Melhor jogador do mundo pela FIFA em 2009|melhor jogador do mundo pela FIFA de 2009]] e segundo lugar na votação da Bola de Ouro de 2009.
+
+Ronaldo tornou-se no maior marcador numa temporada na história do [[Real Madrid]], com 53 golos, superando o recorde anterior do clube de 49 golos por [[Ferenc Puskás]]. Seis dias depois, Ronaldo quebrou o recorde de mais golos marcados numa temporada no [[La Liga|campeonato espanhol]], com 40, superando a marca de [[Telmo Zarra]] estabelecida em 1951 (38 golos) e a marca de [[Hugo Sánchez]] estabelecida em 1990 (38 golos). Ronaldo também quebrou o recorde de Telmo Zarra de mais golos por minuto, com um golo marcado a cada 70,7 minutos. O [[Marca (jornal)|jornal Marca]], o outorgador oficial do Troféu [[Pichichi]] (o prémio de melhor marcador da Liga), afirmou que Ronaldo marcou 41 golos (o [[Marca (jornal)|jornal Marca]] atribuiu mais um golo a Ronaldo que a Liga, que o atribuiu a [[Képler Laveran Lima Ferreira|Pepe]]). Ao marcar 40 golos, ganhou de novo a Bota de Ouro, tornando-se no primeiro jogador a vencer o troféu em dois campeonatos diferentes. Ronaldo ficou em terceiro na votação de melhor jogador a jogar na Europa na temporada de 2010&amp;ndash;2011, atrás de [[Lionel Messi]] e de [[Xavi Hernández]], e em segundo lugar na eleição da [[Bola de Ouro da FIFA de 2011]], atrás de Lionel Messi e à frente de Xavi Hernández.
+
+== Carreira ==
+=== Início da carreira ===
+Baptizado em homenagem ao ex-[[presidente dos Estados Unidos]] [[Ronald Reagan]], que era o actor preferido do seu pai,&lt;ref&gt;{{citar web|url=http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/3144881.stm|titulo=Ronaldo set to shine|publicado=BBC Sports|acessodata=28/05/2011}}&lt;/ref&gt; Ronaldo começou a jogar aos oito anos nas categorias de base do [[Clube Futebol Andorinha de Santo António]]. Em 1995, Ronaldo assinou por um clube local, o [[Clube Desportivo Nacional]], e após dois anos nas categorias de base do clube, foi jogar nas categorias de base do [[Sporting Clube de Portugal]] por causa de uma dívida de 450 mil escudos do [[Clube Desportivo Nacional]] para com este clube.&lt;ref name=PCRAB&gt;{{Citar web
+|url=http://worldsoccer.about.com/od/players/p/players_ronaldo.htm
+|título=Cristiano Ronaldo - Profile of Soccer Player Cristiano Ronaldo
+|publicado=worldsoccer.about.com
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt;
+
+=== Sporting Clube de Portugal===
+Ronaldo juntou-se aos outros jovens jogadores do Sporting Clube de Portugal e conseguiu tornar-se no único jogador a ter jogado no Sporting sub-16, sub-17, sub-18, B, e na equipa principal, tudo numa só temporada.&lt;ref name=CRKMEN&gt;{{Citar web
+|url=http://www.manchestereveningnews.co.uk/sport/football/manchester_united/s/1005/1005391_clash_of_the_titans.html
+|título=Clash of the Titans - Manchester United - Football - Sport - Manchester Evening News
+|publicado=www.manchestereveningnews.co.uk
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt; Ronaldo marcou dois golos pelo Sporting na sua estreia pela equipa principal contra o [[Moreirense Futebol Clube|Moreirense]], defendendo pela primera vez [[Selecção Portuguesa de Futebol|Portugal]] no [[União das Associações Europeias de Futebol|Campeonato Europeu de Sub-17]].&lt;ref name=CEFS17&gt;{{Citar web
+|url=http://www.uefau17.com/history/index.htm
+|título=UEFA Under 17 Football Championships - Luxembourg 2006 - Tournament History
+|publicado=www.uefau17.com
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt;
+
+Quando Ronaldo tinha quinze anos, foi-lhe diagnosticado um problema no coração, uma condição que poderia tê-lo forçado a desistir de jogar [[futebol]]. O Sporting informou a mãe de Ronaldo, Maria Dolores Aveiro, do problema, a qual, ciente dos riscos, lhe deu autorização para ir ao hospital. Aí, foi submetido a uma operação na qual a área do coração que lhe estava a causar o problema foi cauterizada a laser. A cirurgia foi realizada no período da manhã e Ronaldo recebeu alta do hospital até ao final da tarde, retomando os treinos da equipa apenas alguns dias depois.&lt;ref name=OSCCRTS&gt;{{Citar web
+|url=http://www.thesun.co.uk/sol/homepage/news/article2185215.ece
+|título=Heart op that saved Man United's Cristiano Ronaldo | The Sun |News
+|publicado=www.thesun.co.uk
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt;
+
+Ronaldo foi procurado primeiro pelo Arsenal, mas o técnico [[Arsène Wenger]], não chegou a acordo com a direcção do Sporting.&lt;ref name=PCR101&gt;{{Citar web
+|url=http://cristianoronaldo101.com/cristiano-ronaldo-profile-and-biography/
+|título=Cristiano Ronaldo profile and biography | Cristiano Ronaldo 101
+|publicado=cristianoronaldo101.com
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt; No entanto, chamou à atenção de [[Alex Ferguson|Sir Alex Ferguson]] treinador do [[Manchester United Football Club|Manchester United]], no verão de 2003, quando o Sporting derrotou o Manchester United por 3&amp;ndash;1 na inauguração do estádio [[Estádio Alvalade XXI|Alvalade XXI]], em [[Lisboa]]. O desempenho de Ronaldo impressionou inclusive os jogadores do Manchester United, que no voo de volta a [[Inglaterra]], pediram a Sir Alex Ferguson para o contratar para substituir [[David Beckham]], que se transferira para o [[Real Madrid Club de Fútbol|Real Madrid]].&lt;ref name=PCRWCS&gt;{{Citar web
+|url=http://www.wldcup.com/euro/2004/players_present/472_cristiano_ronaldo_dos_santos_aveiros.html
+|título=World Cup Soccer. All the top world soccer news daily. News from international soccer. World Cup 2006, Euro 2004, champion's league, premiership football, bundesliga, serie a, j-league.
+|publicado=www.wldcup.com
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt;
+
+=== Manchester United ===
+==== 2003-06 ====
+[[File:Cristiano Ronaldo.jpg|thumb|Ronaldo no United durante a temporada 2006–2007.]]
+O Manchester United contratou-o em 2003, por 15 milhões de [[euro]]s,&lt;ref&gt;{{Citar web
+|url=http://www.tvi24.iol.pt/sporting/ronaldo-quanto-custou-ronaldo-ao-manchester-real-madrid-manchester-united/1069324-1457.html
+|título=Lembra-se quanto custou Cristiano Ronaldo ao M. United? - Desporto Sporting &gt; TVI24
+|publicado=www.tvi24.iol.pt
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+}}&lt;/ref&gt; e renovou o vínculo no dia 13 de Abril de 2007 até 2012.&lt;ref name=CRRMUTDUE&gt;{{Citar web
+|url=http://noticias.uol.com.br/ultnot/lusa/2007/04/13/ult3841u1213.jhtm
+|título=Cristiano Ronaldo renova com o Manchester até 2012 - 13/04/2007 - Lusa - Esporte
+|publicado=noticias.uol.com.br
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+}}&lt;/ref&gt;&lt;ref name=sgknsgikb&gt;{{citar web || url=http://web3.cmvm.pt/english/sdi2004/emitentes/docs/fsd6380.pdf || titulo= SPORTING – Sociedade Desportiva de Futebol, SAD || acessodata=[[12 de Agosto]] de [[2003]] || }}&lt;/ref&gt;&lt;ref name=xeckmans&gt;{{citar web || url=http://home.skysports.com/player.aspx?plid=14937&amp;clid=1&amp;cpid=8 || titulo= Cristiano Ronaldo - Sky Sports - MAN UTD || acessodata=[[18 de Julho]] de [[2007]] || }}&lt;/ref&gt;Ele pediu o número 28 (o seu número no Sporting), como ele não queria que a pressão de viver até a expectativa ligada à camisa número 7, que já havia sido usado por jogadores como George Best, Bryan Robson, [[Éric Cantona]] e [[David Beckham]]. &quot;Depois que entrei, o gerente perguntou-me o número que eu gostaria. Eu disse 28. Mas Ferguson disse: 'Não, você vai ter No. 7&quot;, eo camisa famoso foi uma fonte extra de motivação. Era forçados a viver até uma honra &quot;.
+
+Apesar de ser jovem ganhou no Manchester United vários títulos, como a [[Taça de Inglaterra]] 2003&amp;ndash;2004, a [[Taça da Liga Inglesa|Taça da Liga]] 2005&amp;ndash;2006, a [[FA Premier League 2006-07|Premier League 2006&amp;ndash;07]], a [[Supertaça de Inglaterra]] 2007, a [[Premier League 2007-08|Premier League 2007-08]], a [[Liga dos Campeões da UEFA de 2007-08|Liga dos Campeões 2007&amp;ndas;2008]], o [[Campeonato Mundial de Clubes da FIFA 2008]], a [[Premier League 2008-09|Premier League 2008&amp;ndash;2009]], a Taça da Liga 2008-09. Em 2008, o extremo tornou-se no segundo jogador a conquistar, na mesma temporada, o prémio de [[FIFA World Player|Melhor Jogador do Mundo da FIFA]], a [[Bota de Ouro]] e a [[Ballon d'Or|Bola de Ouro]] da revista [[France Football]], um feito só realizado pelo avançado [[brasil]]eiro [[Ronaldo Luís Nazário de Lima|Ronaldo]], em 1997.
+
+No dia 5 de Junho de 2008, a [[SKY|Sky Sports]] informou que Ronaldo havia manifestado interesse em transferir-se para o [[Real Madrid Club de Fútbol|Real Madrid]].&lt;ref name=CRQSSS&gt;{{Citar web
+|url=http://www.skysports.com/story/0,19528,11661_3654140,00.html
+|título=Ronaldo breaks silence
+|publicado=www.skysports.com
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt; O Manchester United apresentou uma queixa de aliciamento do Real Madrid à [[Federação Internacional de Futebol Associado|FIFA]] a 9 de Junho, mas a FIFA recusou tomar qualquer decisão sobre o caso após o Real Madrid negar publicamente.&lt;ref name=RMNAMUTD&gt;{{Citar web
+|url=http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/7416981.stm
+|título=Real deny Man Utd Ronaldo claims
+|publicado=news.bbc.co.uk
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt; A especulação de que uma transferência aconteceria no ano seguinte continuou até 6 de Agosto, quando Ronaldo confirmou que iria permanecer no Manchester United, por pelo menos mais um ano.&lt;ref name=FMUTDCRBBCS&gt;{{Citar web
+|url=http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/7546390.stm
+|título=I will stay at Man Utd - Ronaldo
+|publicado=news.bbc.co.uk
+ |acessodata=2009-07-01
+|último =
+|primeiro =
+ |língua=inglês
+}}&lt;/ref&gt; No entanto, em Junho de 2009, o Manchester United permitiu que o jogador e o Real Madrid discutissem pormenores de contrato, uma vez que tinha aceite a proposta de compra.&lt;ref name=CRMURM&gt;{{Citar web
+|url=http://www.manutd.com/default.sps?pagegid={F9E570E6-407E-44BC-800F-4A3110258114}&amp;newsid=6634291
+|titulo=Ronaldo bid accepted - Manchester United Official Web Site
+|publisher=www.manutd.com
+|accessdate=2009-07-01
+|last =
+|first =
+|language=inglês
+}}&lt;/ref&gt;
+
+=== Real Madrid ===
+==== 2009-10 ====
+[[File:Real Madrid in Toronto.jpg|thumb|300px|[[Kaká]] ''(esquerda)'' e [[Cristiano Ronaldo]] ''(direita)'' são dois actuais ''galácticos''.]]
+Depois de muitas especulações, o Real Madrid chegou a acordo com o Manchester United para a transferência do então melhor jogador do mundo em 2009, pela quantia anunciada de 94 milhões de euros a 11 de Junho de 2009.&lt;ref name=CRMURM&gt;{{citar web || url=http://www.manutd.com/default.sps?pagegid={F9E570E6-407E-44BC-800F-4A3110258114}&amp;newsid=6634291 || lingua= inglês || titulo= Record Ronaldo bid accepted - ManUtd.com||acessodata=11 de junho de 2009}}&lt;/ref&gt;
+O jogador tornou-se, deste modo, a mais cara contratação da história do futebol mundial até o momento, superando os valores da contratação de [[Zinédine Zidane]], também pelo Real Madrid.&lt;ref name=CRMURM/&gt;
+A sua contratação foi a segunda a ser anunciada pelo Real Madrid para a disputa da temporada 2009&amp;ndash;2010 (a primeira havia sido de outra estrela do futebol mundial, a do brasileiro [[Kaká]]). Os especialistas da área começaram a discutir duas questões polémicas: a primeira era como seria o relacionamento de tantos craques e se o excesso de vaidade não poderia atrapalhar o desempenho da equipa, como aconteceu na primeira fase galáctica do Real Madrid, que contava com craques como: [[Ronaldo Luís Nazário de Lima|Ronaldo]], [[Raúl González|Raúl]], Zinédine Zidane, [[Roberto Carlos da Silva|Roberto Carlos]], [[Luís Figo]], [[David Beckham]], entre outros. A segunda delas e a mais polémica era se realmente um jogador de futebol valia tanto dinheiro. À equipa ainda foram adicionados outros grandes nomes como o espanhol [[Xabi Alonso]], que actuava pelo [[Liverpool F.C.]] da Inglaterra, e o jovem avançado francês [[Karim Benzema]] que jogava no [[Olympique Lyonnais]].
+
+No dia 28 de Julho, o jogador galáctico marcou o seu primeiro golo pela equipa &quot;merengue&quot; na vitória por 4&amp;ndash;2 à [[Liga Deportiva Universitaria de Quito|Liga Quito]] na [[Copa da Paz|Taça da Paz]] (competição amigável). A 29 de Agosto, Ronaldo coroou a sua estreia na Liga com um golo, marcando o segundo do Real Madrid de penálti em casa, contra o Deportivo La Coruña (o Real Madrid venceria por 3&amp;ndash;2). A 15 de Setembro, Ronaldo marcou os seus primeiros golos na Liga dos Campeões, ambos de bola parada, contra o FC Zurique, numa vitória por 5&amp;ndash;2. Quebrou um recorde do Real Madrid, quando marcou num jogo para o campeonato contra o Villareal e assim se tornou o primeiro jogador a marcar nas suas primeiros quatro presenças na Liga.
+
+Sofreu uma lesão no tornozelo a 10 de Outubro, enquanto estava no jogo internacional por Portugal contra a Hungria, ficando lesionado até 25 de Novembro, o que fez com que perdesse o jogo da fase de grupos da Liga dos Campeões contra o [[AC Milan]]. Ronaldo fez o seu primeiro jogo pós-lesão numa derrota por 1&amp;ndash;0 no clássico contra o Barcelona, a 29 de Novembro. A 6 de Dezembro, foi expulso pela primeira vez na sua carreira na vitória do Real Madrid por 4-2 contra o Almería, num jogo em que falhou um penálti, mas também marcou um golo. Recebeu o primeiro amarelo por tirar a camisola durante a comemoração de um golo, e o segundo depois de pontapear um adversário três minutos mais tarde. Não actuou pelo Real Madrid na Liga contra o [[Valencia C.F.|Valência C.F.]], devido à suspensão. Depois de ter regressado da suspensão, marcou um belo golo na vitória por 6&amp;ndash;0 no Santiago Bernabéu contra o [[Real Zaragoza|Real Saragoça]], na 15.ª jornada do campeonato espanhol. Na 23.ª jornada do campeonato espanhol, marcou um golo na vitória contra o [[Villarreal C.F.]] no Santiago Bernabéu por 6-2, e com decisiva participação nos outros golos. No campeonato espanhol marcou, na primeira época, 26 golos, sendo sempre muito decisivo e participativo nas vitórias do Real Madrid, apesar de ter acabado a época em 2.º lugar. Ajudou o seu clube a passar aos oitavos-de-final da Liga dos Campeões, onde marcou 7 golos na competição, acabando o Real Madrid por ser eliminado nesta mesma fase da Liga dos Campeões pelo Olympique Lyonnais. Ronaldo acabou o ano de 2010 com uma média de golos de 46, após 48 jogos realizados, o que dá uma média de 0,95 golos por jogo.
+
+[[Ficheiro:Cristiano Ronaldo Real Madrid Gareth Bale Tottenham.jpg|thumb|direita|210px|Ronaldo a jogar num jogo da [[Liga dos Campeões da UEFA de 2010-11]], contra o [[Tottenham Hotspur]].]]
+
+==== 2010-11 ====
+No dia 15 de Maio de 2011, Ronaldo tornou-se no maior marcador numa temporada na história do Real Madrid com 53 golos, superando o recorde anterior de 49 golos de Ferenc Puskás. Ronaldo superou o recorde de maior número de golos marcados numa temporada na Liga, com 40 golos, superando a marca de Telmo Zarra (38 golos), de 1951, e a marca de [[Hugo Sánchez]] (38 golos), de 1990, com o jornal desportivo Marca a entregar-lhe oficialmente o troféu Pichichi (maior goleador da Liga), alegando que marcou 41 golos (o jornal desportivo Marca atribuiu-lhe um golo que a Liga atribuiu a Pepe num jogo contra a Real Sociedad).&lt;ref&gt;{{citar web| autor=[[Marca (jornal)|Marca.com]]| título=Pichichi y Zamora | data=18 Maio de 2011| trabalho= | url=http://www.marca.com/deporte/futbol/trofeos/2010-2011/pichichi-zamora/pichichi-primera.html | acessodata=18 Maio de 2011}}&lt;/ref&gt;
+
+==== 2011-12 ====
+Ronaldo ficou em terceiro lugar na eleição de melhor futebolista a jogar na Europa na temporada de 2010-11, atrás de [[Lionel Messi]] e de [[Xavi Hernández]], e em segundo lugar na atribuição da [[Bola de Ouro da FIFA de 2011]], atrás de Lionel Messi e à frente de Xavi Hernández.
+
+No dia 31 de Março de 2012, Ronaldo chegou aos 133 jogos com a camisola do Real Madrid frente ao [[Club Atlético Osasuna|Osasuna]] e marcou um golo, fazendo com que chegasse aos 133 golos com uma média de 1 golo por jogo.&lt;ref&gt;{{citar web| autor=Blod do Rai| data=31 Março de 2012| trabalho= | url=http://rai10futebol.blogspot.com.br/2012/03/cristiano-ronaldo-um-pouco-mais-sobre-o.html | acessodata=31 Março de 2012}}&lt;/ref&gt;
+
+Ronaldo acabou esta época com 46 golos (batendo o seu anterior recorde de 40 golos numa só edição do campeonato) no campeonato e 60 em todas as competições (batendo o seu anterior recorde de 53 golos em todas as competições), ambos recordes pessoais.
+
+==== 2012-13 ====
+[[:en:AS Diário|AS]] informou que o presidente Sheikh Mansour do [[Manchester City Football Club|Manchester City]] fez uma oferta por Ronaldo de R$ 200 milhões no verão. O acordo teria sido jogador de futebol mais bem pago do mundo Ronaldo, com um salário que seria em torno de £ 20 milhões por ano. No entanto, presidente do Real Madrid Florentino Pérez recusou, que apontou a cláusula de contrato de Ronaldo de 1000 milhões.&lt;ref name=meubalet&gt;{{citar web || url=http://www.as.com/english/articulo/man-city-offered-200-million/20120906dasdenspo_8/Ten || titulo= Man City offered 200 million for Cristiano this summer || acessodata=25 de Janeiro de 2013 || }}&lt;/ref&gt;
+
+[[File:Lass, Ozil, Benzema and Ronaldo line up.jpg|250px|left|thumb|Ronaldo na companhia de [[Karim Benzema|Benzema]], [[Mesut Ozil|Ozil]] e [[Lassana Diarra|Lass]] em 2012.]]
+A temporada de 2012, começou da melhor forma para Ronaldo, ao vencer a [[Supercopa da Espanha|Supertaça da Espanha]] frente ao Barcelona. Com dois golos em Camp Nou, na 1ª mão (Barcelona 2-2 Real Madrid) e com outros dois golos em Bernabéu, na 2ª mão (Real 2-1 Barcelona), Cristiano ganhou mais um título em Espanha.&lt;ref name=sergioasenjo&gt;{{citar web || url=http://www.realmadrid.com/cs/Satellite/en/Actualidad_Primer_Equipo_en/1330114051866/noticia/Cronica/3-2:_The_Supercup_to_be_decided_in_Madrid.htm || titulo= 3-2: The Supercup to be decided in Madrid || acessodata=23 de Agosto de 2012 || }}&lt;/ref&gt;&lt;ref name=cortoiusjk&gt;{{citar web || url=http://www.bloomberg.com/news/2012-08-30/real-madrid-beats-barcelona-2-1-to-win-spanish-soccer-super-cup.html || titulo= Real Madrid Beats Barcelona 2-1 to Win Spanish Soccer Super Cup || acessodata=30 de Agosto de 2012 || }}&lt;/ref&gt;
+
+Ronaldo ficou em segundo lugar na atribuição da [[Bola de Ouro da FIFA de 2012]], atrás de [[Lionel Messi]] e à frente de [[Andrés Iniesta]], e em segundo lugar na eleição de melhor futebolista a jogar na Europa, atrás de Iniesta.&lt;ref name=fsbgibs9ug&gt;{{citar web || url=http://www.realmadrid.com/cs/Satellite/en/Actualidad_Primer_Equipo_en/1330113134342/noticia/Noticia/Cristiano_Ronaldo,_finalist_for_the_UEFA_Best_Player_in_Europe_award.htm || titulo= Cristiano Ronaldo, finalist for the UEFA Best Player in Europe award || acessodata=29 de Agosto de 2012 || }}&lt;/ref&gt;&lt;ref name=attribuitiom&gt;{{citar web || url=http://www.goal.com/en-india/news/138/spain/2012/09/03/3349427/cristiano-ronaldo-scores-150th-real-madrid-goal-against || titulo= Cristiano Ronaldo scores 150th Real Madrid goal against Granada || acessodata=2 de Setembro de 2012 || }}&lt;/ref&gt;
+
+Fez três golos em 9 de janeiro, contra o Celta de Vigo pelo segundo jogo da Copa do Rei da Espanha.&lt;ref name=celtadevigo&gt;{{citar web || url=http://globoesporte.globo.com/temporeal/futebol/09-01-2013/realmadrid-celta-de-vigo/ || titulo= Real Madrid x Celta de Vigo - GLOBOESPORTE.com || acessodata=9 de Janeiro de 2013 || }}&lt;/ref&gt;O primeiro jogo foi vencido pelo Celta por 2 a 1.&lt;ref name=cesggo&gt;{{citar web || url=http://www.foxsports.com.br/noticias/78003-celta-de-vigo-surpreende-e-vence-real-madrid-pela-copa-do-rei || titulo= Celta de Vigo surpreende e vence Real Madrid pela Copa do Rei || acessodata=5 de Janeiro de 2013 || }}&lt;/ref&gt;&lt;ref name=foxxis&gt;{{citar web || url=http://www.abola.pt/nnh/ver.aspx?id=370202 || titulo= Taça do Rei: Celta Vigo vence Real Madrid (2-1) || acessodata=12 de Dezembro de 2012 || }}&lt;/ref&gt;&lt;ref name=sgonm&gt;{{citar web || url=http://esportes.terra.com.br/futebol/noticias/0,,OI6375973-EI1861,00-Real+Madrid+perde+para+Celta+Atletico+vence+com+gols+brasileiros.html || titulo= Real Madrid perde para Celta; Atlético vence com gols brasileiros || acessodata=18 de Dezembro de 2012 || }}&lt;/ref&gt; Marcou de novo três golos agora contra o Getafe a [[27 de janeiro]], numa vitória por 4 a 0.&lt;ref name=novehorags&gt;{{citar web || url=http://www.ogol.com.br/noticia.php?id=97115 || titulo= Cristiano Ronaldo brilha na goleada do Real Madrid contra o Getafe || acessodata=27 de Janeiro de 2013 || }}&lt;/ref&gt;Com golos aos 62, 65 e o último de penálti aos 72 minutos.&lt;ref name=osgosipn&gt;{{citar web || url=http://globoesporte.globo.com/temporeal/futebol/27-01-2013/realmadrid-getafe/ || titulo= Real Madrid x Getafe - TEMPO REAL || acessodata=26 de Janeiro de 2013 || }}&lt;/ref&gt;Estes golos frente ao Getafe, permitiram a Ronaldo ultrapassar a marca dos 300 golos por todos os clubes que já passou.&lt;ref name=300golosghs&gt;{{citar web || url=http://esportes.terra.com.br/futebol/em-grande-fase-cristiano-ronaldo-espera-superar-recorde-no-espanhol,4fd8494267f7c310VgnCLD2000000dc6eb0aRCRD.html || titulo= Em grande fase, Cristiano Ronaldo mira recorde no Espanhol || acessodata=27 de Janeiro de 2013 || }}&lt;/ref&gt;&lt;ref name=fatespine&gt;{{citar web || url=http://esportes.terra.com.br/futebol/internacional/espanha/campeonato-espanhol/com-tres-gols-de-c-ronaldo-real-acorda-no-2-tempo-e-goleia-getafe,9e20fd5fdfb7c310VgnVCM4000009bcceb0aRCRD.html || titulo= Com três gols de C. Ronaldo, Real acorda no 2º tempo e goleia Getafe || acessodata=28 de Janeiro de 2013 || }}&lt;/ref&gt;&lt;ref name=espinefats&gt;{{citar web || url=http://br.reuters.com/article/sportsNews/idBRSPE90Q01020130127 || titulo= Cristiano Ronaldo ultapassa marca dos 300 gols em vitória sobre Getafe || acessodata=29 de Janeiro de 2013 || }}&lt;/ref&gt;&lt;ref name=quriwtiu&gt;{{citar web || url=http://globoesporte.globo.com/temporeal/futebol/30-01-2013/realmadrid-barcelona/ || titulo= Real Madrid x Barcelona - COPA DO REI || acessodata=30 de Janeiro de 2013 || }}&lt;/ref&gt;Em [[2 de fevereiro]], acabou fazendo o gol contra que deu a derrota ao sua equipe por 1 a 0 contra o [[Granada Club de Fútbol|Granada]] fora de casa.&lt;ref name=owngoalgra&gt;{{citar web || url=http://globoesporte.globo.com/temporeal/futebol/02-02-2013/granada-realmadrid/ || titulo= Granada 1 x 0 Real Madrid - TEMPO REAL || acessodata=2 de Fevereiro de 2013 || }}&lt;/ref&gt;&lt;ref name=merenguegran&gt;{{citar web || url=http://www.ogol.com.br/noticia.php?id=98141 || titulo= Real perde para o Granada e diferença para o Barça pode aumentar || acessodata=3 de Fevereiro de 2013 || }}&lt;/ref&gt;Fez três gols contra o Sevilla em [[9 de fevereiro]], em casa.&lt;ref name=mardukf&gt;{{citar web || url=http://www.dnoticias.pt/actualidade/danca/369251-cristiano-ronaldo-festeja-28-anos-com-festa-entre-familia-e-amigos-em-madri || titulo= Cristiano Ronaldo festeja 28 anos com festa entre família e amigos em Madrid || acessodata=9 de Fevereiro de 2013 || }}&lt;/ref&gt;E saiu de campo aplaudido pelos torcedores do Real Madrid.&lt;ref name=mardukjkl&gt;{{citar web || url=http://globoesporte.globo.com/temporeal/futebol/09-02-2013/realmadrid-sevilla/ || titulo= Real Madrid x Sevilla - TEMPO REAL - GLOBOESPORTE.com || acessodata=10 de Fevereiro de 2013 || }}&lt;/ref&gt; Marcou o golo de empate do Real Madrid sobre o [[Manchester United Football Club|Manchester United]] no Santiago Bernabeu no primeiro jogo dos oitavos de final da [[Liga dos Campeões da UEFA]].&lt;ref name=anfousbf&gt;{{citar web || url=http://esportes.terra.com.br/futebol/internacional/liga-dos-campeoes/alex-ferguson-exalta-atuacao-de-de-gea-e-comemora-empate-com-o-real-em-madri,06b38c2804fcc310VgnCLD2000000dc6eb0aRCRD.html || titulo= Alex Ferguson exalta atuação de De Gea e comemora empate com o Real em Madri || acessodata=13 de Fevereiro de 2013 || }}&lt;/ref&gt;&lt;ref name=cstearcamaisunitedl&gt;{{citar web || url=http://globoesporte.globo.com/futebol/liga-dos-campeoes/noticia/2013/02/cr7-marca-mas-real-madrid-para-em-united-de-de-gea-em-ida-das-oitavas.html || titulo= CR7 marca, mas Real para em De Gea e empata com United nas oitavas || acessodata=14 de Fevereiro de 2013 || }}&lt;/ref&gt;E ajudou a sua equipe a virar o jogo por 2 a 1 sobre o Deportivo La Coruña fora de casa.&lt;ref name=mohhmansgaijk&gt;{{citar web || url=http://www.ogol.com.br/jogo.php?id=2260089 || titulo= Deportivo 1-2 Real Madrid || acessodata=[[21 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt;&lt;ref name=viradadosculees&gt;{{citar web || url=http://www.ogol.com.br/noticia.php?id=100782 || titulo= Com ajuda de Cristiano Ronaldo, Real vira no fim e bate o Deportivo La Coruna || acessodata=[[22 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt;&lt;ref name=diarioesportiv&gt;{{citar web || url=http://globoesporte.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2013/02/em-dia-de-kaka-real-madrid-vence-o-lanterna-antes-de-classicos-com-barca.html || titulo= Em dia de Kaká, Real vira sobre lanterna antes de clássicos com Barça || acessodata=[[23 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt; Fez 2 golos contra o Barcelona e ajudou a sua equipa a classificar-se para a final da Copa do Rei da Espanha vencendo o jogo por 3 a 1 fora de casa.&lt;ref name=ggjggjk&gt;{{citar web || url=http://esportes.terra.com.br/futebol/internacional/espanha/copa-do-rei/barcelona-x-real-madrid,4bbd301c2781d310VgnVCM20000099cceb0aRCRD.html || titulo= Com show de C. Ronaldo, Real arrasa Barça no Camp Nou e avança || acessodata=[[24 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt;&lt;ref name=gerivaldo&gt;{{citar web || url=http://www.ogol.com.br/noticia.php?id=101155 || titulo= Real Madrid passa pelo Barça no Camp Nou e está na final da Copa do Rei || acessodata=[[25 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt;&lt;ref name=givaldogigi&gt;{{citar web || url=http://globoesporte.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2013/02/cr7-faz-dois-real-vence-o-barcelona-fora-de-casa-vai-final-da-copa-do-rei.html || titulo= CR7 faz dois, Real humilha Barça no Camp Nou e vai à final da Copa do Rei || acessodata=[[26 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt;&lt;ref name=wagnerartes&gt;{{citar web || url=http://globoesporte.globo.com/temporeal/futebol/26-02-2013/barcelona-realmadrid/ || titulo= Barcelona x Real Madrid - TEMPO REAL - GLOBOESPORTE || acessodata=[[27 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt; A [[3 de março]], foi dito que Cristiano Ronaldo aceitaria diminuir seu salário para retornar ao United segundo o jornal The Sun.&lt;ref name=repukkenjk&gt;{{citar web || url=http://espn.estadao.com.br/noticia/313643_ferguson-rechaca-volta-de-cristiano-ronaldo-e-garante-hospitalidade-na-terca || titulo= Ferguson rechaça volta de Cristiano Ronaldo e garante hospitalidade na terça || acessodata=[[2 de Março]] de [[2013]] || }}&lt;/ref&gt; A publicação revela que Ronaldo aceitaria uma redução em seu salário para retornar ao Manchester United. Nem sequer uma proposta milionária do Paris Saint-Germain, que estaria disposto a pagar cerca £ 130 milhões (R$ 386 milhões), faria o atacante mudar os seus planos.&lt;ref name=trestiposde&gt;{{citar web || url=http://globoesporte.globo.com/futebol/futebol-internacional/noticia/2013/03/cr7-aceitaria-diminuir-salario-para-retornar-ao-united-diz-jornal.html || titulo= CR7 aceitaria diminuir salário para retornar ao United, diz jornal || acessodata=[[2 de Março]] de [[2013]] || }}&lt;/ref&gt;Em [[5 de março]], Cristiano Ronaldo fez o golo que eliminou o seu ex-clube da Liga dos Campeões, vencendo o jogo por 2 a 1 fora de casa.&lt;ref name=pjaturner&gt;{{citar web || url=http://www.ogol.com.br/noticia.php?id=101940 || titulo= CR7 silencia Old Trafford e Real avança com virada na Liga dos Campeões || acessodata=[[5 de Março]] de [[2013]] || }}&lt;/ref&gt;Marcou os dois golos que deram a vitória do Real Madrid sobre o Celta de Vigo por 2 a 1 fora de casa em [[10 de março]].&lt;ref name=snoubbsf&gt;{{citar web || url=http://globoesporte.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2013/03/kaka-sai-do-banco-sofre-penalti-e-ajuda-real-vencer-celta-fora-de-casa.html || titulo= Kaká sai do banco, sofre pênalti e ajuda Real a vencer Celta fora de casa || acessodata=[[10 de Março]] de [[2013]] || }}&lt;/ref&gt;&lt;ref name=viringuijjk&gt;{{citar web || url=http://www.ogol.com.br/noticia.php?id=102506 || titulo= Espanhol: Com gols de CR7, Real Madrid vence Celta de Vigo || acessodata=[[11 de Março]] de [[2013]] || }}&lt;/ref&gt;
+
+== Selecção Portuguesa ==
+[[File:Cristiano Ronaldo 20120609.jpg|thumb|right|200px|Ronaldo jogando por Portugal, em 2012]]
+Foi convocado pela primeira vez para a [[Selecção Portuguesa de Futebol]] para um amigável frente ao [[Seleção Cazaque de Futebol|Cazaquistão]], jogo que Portugal venceu por 1&amp;ndash;0.
+
+=== Euro 2004 ===
+Ronaldo foi convocado para o [[Euro 2004]] que foi realizado em Portugal, tendo marcado o seu primeiro golo pela ''Selecção das Quinas'' frente à [[Selecção Grega de Futebol|Grécia]] na fase de grupos, jogo que Portugal perdeu por 2&amp;ndash;1. Marcou também na vitória por 2&amp;ndash;1 na semifinal frente à [[Selecção Holandesa de Futebol|Holanda]]. Neste mesmo ano representou Portugal nos Jogos Olímpicos.
+
+A 5 de Julho de 2004 foi feito Oficial da [[Ordem do Infante D. Henrique]].&lt;ref&gt;http://www.ordens.presidencia.pt/&lt;/ref&gt;
+
+=== Campeonato do Mundo de 2006 ===
+Na fase de qualificação, foi o segundo melhor marcador na zona europeia, com sete golos, e marcou o seu primeiro golo num Campeonato do Mundo frente ao [[Seleção Iraniana de Futebol|Irão]], de grande penalidade.
+
+Foi muito criticado devido à piscadela de olho que deu em direcção ao banco de Portugal, logo após a expulsão de [[Wayne Rooney]], nos quartos-de-final frente à [[Selecção Inglesa de Futebol|Inglaterra]], jogo que Portugal venceu. No dia 4 de Julho, o árbitro explicou à imprensa que o cartão vermelho mostrado a Rooney foi devido a uma infracção e não foi influenciado pela contestação de Ronaldo.
+
+A reacção controversa da imprensa inglesa, fez com que Ronaldo ponderasse a saída do Manchester United, e supostamente terá dito ao diário Marca que gostaria de ser transferido para o Real Madrid. Em resposta à especulação, Alex Ferguson pediu a [[Carlos Queiroz]], o então adjunto do Manchester United, que fosse conversar com Ronaldo, com o fim de tentar mudar a sua decisão. Ronaldo ficou, e assinou a extensão do seu contrato em Abril de 2007 por mais 5 épocas.
+
+Foi considerado um dos melhores jogadores jovens do [[Copa do Mundo FIFA de 2006|Campeonato do Mundo de 2006]], competição em que Portugal se classificou em 4.º lugar, à frente de selecções como as do [[Seleção Brasileira de Futebol|Brasil]], [[Seleção Argentina de Futebol|Argentina]], [[Seleção Inglesa de Futebol|Inglaterra]], [[Seleção Neerlandesa de Futebol|Holanda]] e [[Seleção Espanhola de Futebol|Espanha]]. No jogo contra a Holanda, saiu magoado ainda no primeiro tempo por causa de uma violenta entrada do [[defesa central]] [[Khalid Boulahrouz]], que mais tarde seria expulso.
+
+=== Euro 2008 ===
+Na campanha de qualificação para o [[Euro 2008]], Ronaldo marcou oito golos, mas terminou o Campeonato com apenas um golo frente à [[Seleção Checa de Futebol|Républica Checa]]. Portugal acabaria por ser eliminado pela [[Selecção Alemã de Futebol|Alemanha]].
+
+=== Copa do Mundo FIFA de 2010 ===
+[[File:Cristiano Ronaldo Portugal vs Brazil.jpg|thumb|Ronaldo jogando contra o [[Seleção Brasileira de Futebol|Brasil]] no Campeonato do Mundo de 2010.]]
+Com a contratação de [[Carlos Queiroz]] como novo seleccionador das ''Quinas'', Ronaldo foi nomeado o novo [[capitão (futebol)|capitão]] da Selecção Portuguesa de Futebol, sucedendo assim a [[Nuno Gomes]], capitão no Euro 2008.
+
+Depois da sua lesão frente ao [[Olympique de Marseille]] no jogo da Liga dos Campeões, Ronaldo ficou em dúvida para os dois últimos encontros frente à [[Selecção Húngara de Futebol|Hungria]] e [[Seleção Maltesa de Futebol|Malta]]. Ronaldo pensou ter recuperado a tempo do jogo frente à Hungria, e com muita controvérsia e discordância do Real Madrid, foi mesmo utilizado por Queiroz frente aos Húngaros. Ronaldo fez a assistência para o golo de [[Simão Sabrosa|Simão]], jogo que Portugal ganhou por 3&amp;ndash;0. Porém, Ronaldo ressentiu-se da lesão, agravando-a, e foi substituído aos 27 minutos da partida, acabando por falhar o jogo frente a Malta. Com a passagem da Selecção Portuguesa às eliminatórias, Ronaldo era a maior dúvida para o duplo encontro frente à [[Seleção da Bósnia e Herzegovina de Futebol|Bósnia e Herzegovina]]. Contra a vontade do Real Madrid, Queiroz convocou Ronaldo para que este fosse reavaliado pela equipa médica da Selecção Portuguesa e depois de passar pelos devidos testes, foi anunciado a sua inaptidão para os dois jogos. Portugal eliminou a selecção da Bósnia e Herzegovina, e assim se apurou para a fase final do Campeonato do Mundo de 2010.
+
+A 21 de Junho, no jogo frente à [[Seleção Norte-Coreana de Futebol|Coreia do Norte]], Ronaldo marcou o sexto golo na vitória de Portugal por 7&amp;ndash;0 acabando assim com um jejum de dezasseis meses sem marcar pela Selecção. Portugal acabou por ser eliminado pela [[Seleção Espanhola de Futebol|Espanha]] nos oitavos-de-final, pelo resultado mínimo. Os espanhóis viriam a ser campeões da competição.
+
+=== Euro 2012 ===
+Ronaldo marcou dois golos por Portugal contra a Bósnia e Herzegovina na segunda mão do ''play-off'' de acesso à fase final do Euro 2012, num jogo em que Portugal, depois de ter empatado em Zenica por 0&amp;ndash;0 na primeira mão, venceu por 6&amp;ndash;2 em Lisboa na segunda mão, apurando-se para a fase final da competição.
+
+Marcou dois golos no jogo contra a [[Seleção Neerlandesa de Futebol|Holanda]] no terceiro jogo da fase de grupos do Euro 2012&lt;ref name=&quot;DN&quot;&gt;{{citar web|url=http://www.dn.pt/desporto/seleccao/interior.aspx?content_id=2614268|título=Ronaldo calou os críticos e Portugal está nos &quot;quartos&quot;|autor=|data=|publicado=Diário de Notícias|acessodata=18-06-2012}}&lt;/ref&gt; e outro contra a [[Seleção Checa de Futebol|República Checa]].
+
+Portugal acabou por ser eliminado nas meias finais, na decisão por pontapés da marca da grande penalidade, frente à actual campeã europeia e bi-campeã mundial [[Seleção Espanhola de Futebol|Espanha]].&lt;ref&gt;{{citar web|url=http://globoesporte.globo.com/futebol/eurocopa/noticia/2012/06/espanha-bate-portugal-nos-penaltis-vai-decisao-e-pode-fazer-historia.html|título=Espanha bate Portugal nos pénaltis, vai à decisão e pode fazer história|autor=|data=|publicado=globoesporte.com|acessodata=27-06-2012}}&lt;/ref&gt;
+
+Ronaldo marcou 7 golos com Portugal, na UEFA Euro 2012 na campanha de qualificação, incluindo dois ataques contra a Bósnia no play-off para o torneio, e terminou atrás de [[Miroslav Klose]] e de [[Klaas-Jan Huntelaar]]. Portugal foi sorteados no Grupo B com [[Seleção Holandesa de Futebol|Holanda]], [[Seleção Dinamarquesa de Futebol|Dinamarca]] e [[Seleção Alemã de Futebol|Alemanha]], que foi amplamente referido como o '''grupo da morte'' do torneio.&lt;ref name=ksgni&gt;{{citar web || url=http://blog.oddslife.com/2012/05/can-portugal-escape-the-group-of-death/ || titulo= Can Portugal escape the group of death || acessodata=[[10 de Junho]] de [[2012]] || }}&lt;/ref&gt; Em uma entrevista com a revista Kicker, Ronaldo afirmou que:&lt;ref name=kusanjii&gt;{{citar web || url=http://www.goal.com/en-ie/news/3934/euro-2012/2012/05/26/3128031/cristiano-ronaldo-i-will-only-reach-the-top-when-i-win-a || titulo= Cristiano Ronaldo: I will only reach the top when I win a trophy with Portugal || acessodata=[[29 de Maio]] de [[2012]] || }}&lt;/ref&gt;&lt;ref name=bluemary&gt;{{citar web || url=http://www.dailymail.co.uk/sport/euro2012/article-2144217/EURO-2012-Portugal-star-man-Cristiano-Ronaldo.html || titulo= EURO 2012: Portugal estrela homem: Cristiano Ronaldo || acessodata=[[14 de Maio]] de [[2012]] || }}&lt;/ref&gt;&lt;ref name=yamazakii&gt;{{citar web || url=http://www.irishexaminer.com/archives/2012/0609/sport/ronaldos-time-to-prove-greatness-196839.html || titulo= Ronaldo’s time to prove greatness || acessodata=[[12 de Março]] de [[2009]] || }}&lt;/ref&gt;&lt;ref name=maisumbmis&gt;{{citar web || url=http://keepingscore.blogs.time.com/2012/06/05/euro-2012-can-cristiano-ronaldo-do-a-maradona-for-portugal/ || titulo= Euro 2012: Can Cristiano Ronaldo Do a Maradona for Portugal? || acessodata=[[5 de Junho]] de [[2009]] || }}&lt;/ref&gt;
+
+{{quote1|''eu só serei plenamente satisfeito com minha carreira, quando eu levantar um troféu com Portugal.''|quote2}}
+
+Após a derrota de abertura contra a Alemanha, Cristiano Ronaldo foi criticado por sob a execução, mostrando frustração em seu e erros de seus companheiros de equipe e para caminhada para as quartas-de-final logo após o jogo, em vez de agradecer a multidão com a equipe. Seu companheiro de equipe, [[Nani]] depois defendeu afirmando que ele havia deixado o campo desde que precisava ser tratada de imediato, para uma possível lesão. Ele também afirmou que ele vinha treinando bem e contribuindo para a equipe, e que ele estava sob excessiva da pressão porque o futebol é um esporte de equipe, mas que logo iria silenciar seus críticos. [[Luís Figo]] no entanto criticado seu comportamento afirmando que ele é o responsabilidade capitão para sempre defender o grupo, apesar do resultado.&lt;ref name=statsg&gt;{{citar web || url=http://www.dailymail.co.uk/sport/euro2012/article-2160316/Euro-2012-Cristiano-Ronaldo-flopped.html?ito=feeds-newsxml || titulo= What's gone wrong with Ronaldo? Portugal's superstar has flopped || acessodata=[[26 de Maio]] de [[2012]] || }}&lt;/ref&gt;
+
+=== Pós-Copa ===
+Cristiano Ronaldo marcou um golo em [[6 de fevereiro]] de [[2013]], contra o [[Seleção Equatoriana de Futebol|Equador]] em uma derrota por 3 a 2 dentro de casa.&lt;ref name=sigosog&gt;{{citar web || url=http://www.ogol.com.br/jogo.php?id=2584396 || titulo= Portugal 2 - 3 Equador - OGOL.com || acessodata=[[6 de Fevereiro]] de [[2013]] || }}&lt;/ref&gt;Com o seu golo marcado aos 23 minutos.
+
+== Vida pessoal ==
+Ronaldo já teve inúmeros relacionamentos, incluindo casos com a [[actriz]] [[Índia|indiana]] [[Bipasha Basu]], com a [[modelo]] e [[apresentador]]a [[Portugal|portuguesa]] [[Merche Romero]] e com a actriz [[Inglaterra|inglesa]] [[Gemma Atkinson]]. Actualmente namora a modelo [[Rússia|russa]] [[Irina Shayk]].&lt;ref&gt;ego.globo.com, [http://ego.globo.com/Gente/Noticias/0,,MUL1605339-9798,00-IRINA+SHAYK+NAMORADA+DE+CRISTIANO+RONALDO+EXIBE+SUAS+BELAS+PERNAS+EM+NY.html Irina Shayk, namorada de Cristiano Ronaldo, exibe as suas belas pernas em NY], página visitada a 10 de Julho de 2010.&lt;/ref&gt; Em Julho de 2010, revelou que foi pai de um rapaz, não revelando a identidade da mãe.&lt;ref&gt;{{citar web|url=http://desporto.publico.pt/noticia.aspx?id=1445075|titulo=Cristiano Ronaldo anuncia ter sido pai de um rapaz|autor=[[Jornal Público]] |data=|publicado=[[4 de Julho]] de [[2010]] |acessodata=}}&lt;/ref&gt;
+
+No ano de 2005, o seu pai morre, e em 2007 com 22 anos, lança uma [[biografia]] intitulada &quot;Momentos&quot;, onde fala da sua vida pessoal e dos seus amores. Cristiano Ronaldo é [[católico]] praticante, e tem o hábito de, antes de todos os seus jogos, beijar três vez um [[crucifixo]] que carrega no peito. É filho de Maria Dolores e José Dinis Aveiro, morto em [[2005]] vítima do [[alcoolismo]], pouco antes de um jogo entre Portugal e Rússia. Tem um irmão mais velho, Hugo, e duas irmãs mais velhas, Elma e Cátia Liliana, também conhecida pelo seu antigo nome artístico como cantora, Ronalda. Cristiano Ronaldo é abstémio de álcool, drogas e tabaco, ou seja, não fuma, não usa drogas nem consome álcool. Em 2010, ganhou o prémio de não-fumador do ano.
+
+Em Janeiro de 2011, foi considerado o futebolista mais popular na rede social [[Facebook]], com mais de três milhões de seguidores.&lt;ref&gt;{{Citar web|url=http://jn.sapo.pt/PaginaInicial/Gente/Interior.aspx?content_id=1463074|título=Facebook: Ronaldo é o mais popular|publicado=''[[Jornal de Notícias]]''|mes=7 de Janeiro|ano=2010 |acessodata=7 de Janeiro de 2010|último =|primeiro =|língua2=pt}}&lt;/ref&gt; Em 16 de fevereiro de 2011, alcança os vinte milhões de fãs no Facebook.&lt;ref&gt;[http://www.facebook.com/?ref=logo#!/Cristiano Página de Cristiano Ronaldo no Facebook]&lt;/ref&gt;. Em 29 de junho de 2011, alcança os trinta milhões de fãs, e, em 14 de Fevereiro de 2012, o craque alcança 40 milhões de fãs. A 14 de outubro de 2012, alcança 50 milhões de fãs no Facebook. Somente 24 dos 194 países que compõe a [[Organização das Nações Unidas]] possuem mais habitantes do que Cristiano Ronaldo possui subscrições na sua página no Facebook. Em 21 de Dezembro de 2012, ultrapassa a marca de 15 milhões de seguidores no [[Twitter]], também ela um recorde.
+
+É a imagem de marca da [[Armani]], do [[Banco Espírito Santo]], da [[Nike]], da Time Force, da [[Castrol]] e da [[Toyota]]&lt;ref&gt;[http://www.facebook.com/Cristiano Facebook de Cristiano Ronaldo, onde podem ser vistas algumas de suas campanhas]&lt;/ref&gt; e do champô [[Unilever|Linic/Clear]] &lt;ref&gt;[http://www.clearanticaspa.com.br/home.php Xampu Clear, que teve Cristiano Ronaldo como homem-propaganda]&lt;/ref&gt;. Em [[2013]], tornou-se embaixador da [[Save the Children]], contra a fome e a pobreza que assolam crianças no mundo inteiro.
+
+=== Biografia ===
+Em Dezembro de 2009 lançou, com o Real Madrid, a biografia &quot;Sueños cumplidos&quot; {{es}} ou &quot;Sonhos realizados&quot; (traduzido para português). Esta biografia deve ser a primeira de uma série lançada sobre os jogadores do Real Madrid.&lt;ref name=&quot;PCRTO&quot;/&gt;&lt;ref name=ASCR&gt;{{Citar web|url=http://www.mirror.co.uk/sunday-mirror/tm_headline=secret-agony-of--31mronaldo&amp;method=full&amp;objectid=18943891&amp;siteid=98487-name_page.html|título=SECRET AGONY OF £31M RONALDO - mirror.co.uk|publicado=www.mirror.co.uk |acessodata=2009-07-01|último =|primeiro =|língua2=en }}&lt;/ref&gt;
+
+== Estatísticas ==
+Actualizado a 27 de Junho de 2012.
+
+=== Clubes ===
+&lt;ref&gt;{{Citar web |url=http://www.footballdatabase.eu/football.joueurs.cristiano.ronaldo.2058.en.html |título=Football : Cristiano Ronaldo |língua=inglês |publicado=FootballDatabase |obra= |data= |acessodata=5 de março de 2012}}&lt;/ref&gt;&lt;ref name=nationalfootball&gt;{{Citar web |url=http://www.national-football-teams.com/v2/player.php?id=5403 |título=Player - Cristiano Ronaldo |língua=inglês |publicado=National Football Teams |obra= |data= |acessodata=5 de março de 2012}}&lt;/ref&gt;
+* [http://pt.uefa.com/uefachampionsleague/season=2012/clubs/player=63706/profile/index.html Lista detalhada com os últimos jogos de Cristiano Ronaldo pelo clube e seleção.] UEFA.com
+* [http://www.realmadrid.com/cs/Satellite/es/1193040475259/1202773825396/jugador/Jugador/Ronaldo.htm Lista detalhada com as estatísticas de Cristiano Ronaldo por temporada no clube Real Madrid]
+{| class=&quot;wikitable&quot; style=&quot;font-size:90%; text-align: center&quot;
+|-
+!rowspan=&quot;2&quot;|Clube
+!rowspan=&quot;2&quot;|Temporada
+!colspan=&quot;3&quot;|Liga
+!colspan=&quot;3&quot;|Taça
+!colspan=&quot;3&quot;|Taça da&lt;br /&gt;Liga
+!colspan=&quot;3&quot;|Competições&lt;br /&gt;europeias
+!colspan=&quot;3&quot;|Outros
+!colspan=&quot;3&quot;|Total
+|-
+!Jogos
+!Golos
+!{{tooltip|Assist.|Assistências}}
+!Jogos
+!Golos
+!{{tooltip|Assist.|Assistências}}
+!Jogos
+!Golos
+!{{tooltip|Assist.|Assistências}}
+!Jogos
+!Golos
+!{{tooltip|Assist.|Assistências}}
+!Jogos
+!Golos
+!{{tooltip|Assist.|Assistências}}
+!Jogos
+!Golos
+!{{tooltip|Assist.|Assistências}}
+|-
+|rowspan=&quot;2&quot;|[[Sporting Clube de Portugal|Sporting]]
+|2002&amp;ndash;03
+|25||3||colspan=1|–||3||2||colspan=1|–||colspan=3|–||3||0||colspan=1|–||0||0||0||31||5||colspan=1|–
+|-
+!Total
+!25!!3!!colspan=1|–!!3!!2!!colspan=1|–!!colspan=3|–!!3!!0!!colspan=1|–!!0!!0!!0!!31!!5!!colspan=1|–
+|-
+|rowspan=&quot;7&quot;|[[Manchester United FC|Manchester United]]
+|2003&amp;ndash;04
+|29||4||3||5||2||3||1||0||0||5||0||1||0||0||0||40||6||7
+|-
+|2004&amp;ndash;05
+|33||5||4||7||4||4||2||0||0||8||0||2||0||0||0||50||9||10
+|-
+|2005&amp;ndash;06
+|33||9||6||2||0||0||4||2||1||8||1||1||colspan=3|–||47||12||8
+|-
+|2006&amp;ndash;07
+|34||17||13||7||3||1||1||0||0||11||3||5||colspan=3|–||53||23||19
+|-
+|2007&amp;ndash;08
+|34||31||7||3||3||0||0||0||0||11||8||1||1||0||0||49||42||8
+|-
+|2008&amp;ndash;09
+|33||18||6||2||1||0||4||2||0||12||4||2||2||1||1||53||26||9
+|-
+!Total
+!196!!84!!39!!26!!13!!8!!12!!4!!1!!55!!16!!12!!3!!1!!1!!292!!118!!61
+|-
+|rowspan=&quot;4&quot;|[[Real Madrid CF|Real Madrid]]
+|2009&amp;ndash;10
+|29||26||7||0||0||0||colspan=3|–||6||7||0||colspan=3|–||35||33||7
+|-
+|2010&amp;ndash;11
+|34||41¹||10||8||7||1||colspan=3|–||12||6||4||colspan=3|–||54||54¹||15
+|-
+|2011&amp;ndash;12
+|38||46||11||5||3||0||colspan=3|–||10||10||3||2||1||0||55||60||14
+|-
+! Total
+!101!!112!!28!!13!!10!!1!!colspan=3|–!!28!!23!!7!!2!!1!!0!!144!!147!!36
+|-
+!colspan=&quot;2&quot;|Total de carreira
+!322!!199!!67!!42!!25!!9!!12!!4!!1!!86!!39!!19!!5!!2!!1!!467!!269!!97
+|}
+
+¹&lt;small&gt;Na contagem da temporada 2010&amp;ndash;11, houve uma polémica referente ao golo de Cristiano Ronaldo num jogo contra a [[Real Sociedad]]. O jornal desportivo Marca atribuiu-lhe o golo, totalizando 41, já a Liga atribuiu-o a [[Pepe]].&lt;/small&gt;
+
+=== Real Madrid ===
+{| class=&quot;wikitable plainrowheaders sortable&quot;
+|+Melhores Marcadores do Real Madrid
+!scope=col|Rank
+!scope=col|Jogador
+!scope=col|Golos
+!scope=col|Épocas
+|- 
+|1.
+!scope=row|{{flagicon|ESP}} [[Raúl González Blanco|Raúl González]]
+|align=center|{{nts|323}}
+|1994-2010
+|-
+|2.
+!scope=row|{{flagicon|ARG}} [[Alfredo Di Stéfano]]
+|align=center|{{nts|308}}
+|1953-1964
+|-
+|3.
+!scope=row|{{flagicon|ESP}} [[Carlos Alonso González|Carlos Santillana]]
+|align=center|{{nts|290}}
+|1971-1988
+|-	
+|4.
+!scope=row|{{flagicon|HUN}} [[Ferenc Puskás]]
+|align=center|{{nts|238}}
+|1958-1966 
+|-
+|5.
+!scope=row|{{flagicon|MEX}} [[Hugo Sánchez]]
+|align=center|{{nts|208}}
+|1985-1992	
+|-
+|6.
+!scope=row|{{flagicon|ESP}} [[Santiago Bernabéu]]
+|align=center|{{nts|194}}
+|1912-1927
+|-
+|7.
+!style=background:#cedff2 scope=row|{{flagicon|POR}} {{sortname|Cristiano|Ronaldo}}
+|style=background:#cedff2 align=center|{{nts|185}}
+|style=background:#cedff2 |2009-
+|-
+|8.
+!scope=row|{{flagicon|ESP}} [[Francisco Gento]]
+|align=center|{{nts|179}}
+|1953-1971
+|-
+|9.
+!scope=row|{{flagicon|ESP}} [[Pirri]]
+|align=center|{{nts|171}}
+|1964-1980
+|-
+|10.
+!scope=row|{{flagicon|ESP}} [[Emilio Butragueño]]
+|align=center|{{nts|171}}
+|1984-1995
+|}
+
+=== Selecção Portuguesa ===
+&lt;ref name=nationalfootball /&gt;
+{| class=&quot;wikitable&quot; align=center style=&quot;font-size:90%; text-align: center;&quot;
+|- style=&quot;background:beige&quot;
+!rowspan=&quot;2&quot;|Ano
+|- style=&quot;background:beige&quot;
+!Jogos
+!Gols
+|-
+|-
+|align=&quot;center&quot;|2003
+|align=&quot;center&quot;|2
+|align=&quot;center&quot;|0
+|-
+|align=&quot;center&quot;|2004
+|align=&quot;center&quot;|16
+|align=&quot;center&quot;|7
+|-
+|align=&quot;center&quot;|2005
+|align=&quot;center&quot;|10
+|align=&quot;center&quot;|2
+|-
+|align=&quot;center&quot;|2006
+|align=&quot;center&quot;|14
+|align=&quot;center&quot;|6
+|-
+|align=&quot;center&quot;|2007
+|align=&quot;center&quot;|10
+|align=&quot;center&quot;|5
+|-
+|align=&quot;center&quot;|2008
+|align=&quot;center&quot;|8
+|align=&quot;center&quot;|1
+|-
+|align=&quot;center&quot;|2009
+|align=&quot;center&quot;|7
+|align=&quot;center&quot;|1
+|-
+|align=&quot;center&quot;|2010
+|align=&quot;center&quot;|11
+|align=&quot;center&quot;|3
+|-
+|align=&quot;center&quot;|2011
+|align=&quot;center&quot;|9
+|align=&quot;center&quot;|7
+|-
+|align=&quot;center&quot;|2012
+|align=&quot;center&quot;|8
+|align=&quot;center&quot;|3
+|-
+! Total !! 95 !! 35
+|}
+
+{| class=&quot;wikitable&quot;
+|+ '''&lt;big&gt;Golos marcados&lt;/big&gt;'''
+|-
+! # !! Data !! Local !! Adversário !! Golos !! Resultado !! Competição
+|-
+| 1. || 12 de Junho de 2004 || [[Estádio do Dragão]], [[Porto]], Portugal || {{GRCf}}|| '''1''' &amp;ndash; 2 || 1 &amp;ndash; 2 || [[Campeonato Europeu de Futebol de 2004|Euro 2004]]
+|-
+| 2. || 30 de Junho de 2004 || [[Estádio José Alvalade]], [[Lisboa]], [[Portugal]] || {{NLDf}}|| '''2''' &amp;ndash; 0 || 2 &amp;ndash; 1 || Euro 2004
+|-
+|3. || 4 de Setembro de 2004 || Skonto Stadions, [[Riga]], [[Letónia]] || {{LVAb}} [[Selecção Letã de Futebol|Letónia]]|| '''1''' &amp;ndash; 0 || 2 &amp;ndash; 1 || [[Eliminatórias da Copa do Mundo de Futebol de 2006|Elim. Camp. do Mundo 2006]]
+|-
+|4. || 8 de Setembro de 2004 || [[Estádio Dr. Magalhães Pessoa]], [[Leiria]], Portugal || {{ESTf}}|| '''1''' &amp;ndash; 0 || 4 &amp;ndash; 0 || Elim. Camp. do Mundo 2006
+|-
+|5. || 13 de Outubro de 2004 || Estádio José Alvalade, Lisboa, Portugal || {{RUSf}}|| '''2''' &amp;ndash; 0 || 7 &amp;ndash; 1 || Elim. Camp. do Mundo 2006
+|-
+|6. || 13 de Outubro de 2004 || Estádio José Alvalade, Lisboa, Portugal || {{RUSf}}|| '''4''' &amp;ndash; 0 || 7 &amp;ndash; 1 || Elim. Camp. do Mundo 2006
+|-
+|7. || 17 de Novembro de 2004 || Stade Josy Barthel, [[Luxemburgo (cidade)|Cidade de Luxemburgo]], [[Luxemburgo]] || {{LUXf}}|| 0 &amp;ndash; '''2'''  || 0 &amp;ndash; 5 || Elim. Camp. do Mundo 2006
+|-
+|8. || 4 de Junho de 2005 || [[Estádio da Luz]], Lisboa, Portugal || {{SVKf}}|| '''2''' &amp;ndash; 0 || 2 &amp;ndash; 0 || Elim. Camp. do Mundo 2006
+|-
+|9. || 8 de Junho de 2005 || [[A. Le Coq Arena]], [[Talim]], [[Estónia]] || {{ESTf}}|| 0 &amp;ndash; '''1''' || 0 &amp;ndash; 1 || Elim. Camp. do Mundo 2006
+|-
+|10. || 1 de Março de 2006 || [[LTU Arena]], [[Düsseldorf]], [[Alemanha]] || {{SAUf}}||0 &amp;ndash; '''1''' || 0 &amp;ndash; 3 || [[Jogo amigável|Amigável]]
+|-
+|11. || 1 de Março de 2006 || LTU Arena, Düsseldorf, Alemanha || {{SAUf}}|| 0 &amp;ndash; '''3''' || 0 &amp;ndash; 3 || Amigável
+|-
+|12. || 17 de Junho de 2006 || [[Commerzbank-Arena]], [[Frankfurt]], Alemanha || {{IRNb}} [[Selecção Iraniana de Futebol|Irão]]|| '''2''' &amp;ndash; 0 || 2 &amp;ndash; 0 || [[Campeonato Mundial de Futebol FIFA 2006|Campeonato do Mundo 2006]]
+|-
+|13. || 7 de Outubro de 2006 || [[Estádio do Bessa]], Porto, Portugal || {{AZEf}}|| '''1''' &amp;ndash; 0 || 3 &amp;ndash; 0 || [[Qualificações para Campeonato Europeu de Futebol de 2008|Elim. Euro 2008]]
+|-
+|14. || 7 de Outubro de 2006 || Estádio do Bessa, Porto, Portugal || {{AZEf}}|| '''3''' &amp;ndash; 0 || 3 &amp;ndash; 0 || Elim. Euro 2008
+|-
+|15. || 15 de Novembro de 2006 || [[Estádio Cidade de Coimbra]], [[Coimbra]], Portugal || {{KAZf}}|| '''2''' &amp;ndash; 0 || 3 &amp;ndash; 0 || Elim. Euro 2008
+|-
+|16. || 24 de Março de 2007 || Estádio José Alvalade, Lisboa, Portugal || {{BELf}}|| '''2''' &amp;ndash; 0 || 4 &amp;ndash; 0 || Elim. Euro 2008
+|-
+|17. || 24 de Março de 2007 || Estádio José Alvalade, Lisboa, Portugal || {{BELf}}|| '''4''' &amp;ndash; 0 || 4 &amp;ndash; 0 || Elim. Euro 2008
+|-
+|18. || 22 de Agosto de 2007 || [[Hanrapetakan Stadium]], [[Erevã]], [[Arménia]] || {{ARMb}} [[Selecção Arménia de Futebol|Arménia]]|| 0 &amp;ndash; '''1''' || 1 &amp;ndash; 1 || Elim. Euro 2008
+|-
+|19. || 8 de Setembro de 2007 || Estádio da Luz, Lisboa, Portugal || {{POLb}} [[Selecção Polaca de Futebol|Polónia]]|| '''2''' &amp;ndash; 1 || 2 &amp;ndash; 2 || Elim. Euro 2008
+|-
+|20. || 17 de Outubro de 2007 || Almaty Central Stadium, [[Almaty]], [[Cazaquistão]] || {{KAZf}}|| 0 &amp;ndash; '''2''' || 1 &amp;ndash; 2 || Elim. Euro 2008
+|-
+|21. || 11 de Junho de 2008 || [[Stade de Genève]], [[Genebra]], [[Suíça]] || {{CZEb}} [[Selecção Checa de Futebol|República Checa]]|| 1 – '''2''' || 1 – 3 || [[Campeonato Europeu de Futebol de 2008|Euro 2008]]
+|-
+|22. || 11 de Fevereiro de 2009 || [[Estádio Algarve]], [[Faro]], Portugal || {{FINf}}|| 0 &amp;ndash; '''1''' || 0 &amp;ndash; 1 || Amigável
+|-
+|23. || 21 de Junho de 2010 || [[Cape Town Stadium]], [[Cidade do Cabo]], [[África do Sul]] || {{PRKf}}|| '''6''' &amp;ndash; 0 || 7 &amp;ndash; 0 || [[Campeonato do Mundo FIFA de 2010|Campeonato do Mundo de 2010]]
+|-
+|24. || 8 de Outubro de 2010 || Estádio do Dragão, Porto, Portugal || {{DNKf}}|| '''3''' &amp;ndash; 1 || 3 &amp;ndash; 1 || [[Qualificações para Campeonato Europeu de Futebol de 2012|Elim. Euro 2012]]
+|-
+|25. || 12 de Outubro de 2010 || Estádio Laugardalsvöllur, [[Reykjavík|Reiquiavique]], [[Islândia]] || {{ISLf}} || 0 &amp;ndash; '''1''' || 1 &amp;ndash; 3 || Elim. Euro 2012
+|-
+|26. || 9 de Fevereiro de 2011 || Stade de Genève, Genebra, Suíça || {{ARG}} || 1 &amp;ndash; '''1''' || 2 &amp;ndash; 1 || Amigável
+|-
+|27. || 10 de Agosto de 2011 || Estádio Algarve, Faro, Portugal || {{LUXf}} || '''2''' &amp;ndash; 0 || 5 &amp;ndash; 0 || Amigável
+|-
+|28. || 2 de Setembro de 2011 || GSP Stadium, [[Nicósia]], [[Chipre]] || {{CYPf}} || 0 &amp;ndash; '''1''' || 0 &amp;ndash; '''4''' || Elim. Euro 2012
+|-
+|29. || 2 de Setembro de 2011 || GSP Stadium, Nicósia, Chipre || {{CYPf}} || 0 &amp;ndash; '''2''' || 0 &amp;ndash; '''4''' || Elim. Euro 2012
+|-
+|30. || 11 de Outubro de 2011 || Parken, [[Copenhaga]], [[Dinamarca]] || {{DENf}} || 1 &amp;ndash; '''2''' || 1 &amp;ndash; '''2''' || Elim. Euro 2012
+|-
+|31. || 15 de Novembro de 2011 || Estádio da Luz, Lisboa, Portugal || {{BIHf}} || 1 &amp;ndash; '''0''' || 6 &amp;ndash; '''2''' || Elim. Euro 2012
+|-
+|32. || 15 de Novembro de 2011 || Estádio da Luz, Lisboa, Portugal || {{BIHf}} || 3 &amp;ndash; '''1''' || 6 &amp;ndash; '''2''' || Elim. Euro 2012
+|-
+|33. || 17 de Junho de 2012 || [[Metalist Stadium]], [[Carcóvia]], [[Ucrânia]] || {{HOLf}} || '''1''' &amp;ndash; 1 || '''2''' &amp;ndash; 1 || [[Campeonato Europeu de Futebol de 2012|Euro 2012]]
+|-
+|34. || 17 de Junho de 2012 || Metalist Stadium, Carcóvia, Ucrânia || {{HOLf}} || '''2''' &amp;ndash; 1 || '''2''' &amp;ndash; 1 || Euro 2012
+|-
+|35. || 21 de Junho de 2012 || [[Estádio Nacional]], [[Varsóvia]], [[Polónia]] || {{CZEb}} [[Selecção Checa de Futebol|República Checa]]|| '''1''' &amp;ndash; 0 || '''1''' &amp;ndash; 0 || Euro 2012
+|-
+|}
+
+== Títulos ==
+=== Clube ===
+; {{PORb}} Sporting
+* [[Primeira Liga]] (1): [[Campeonato Português de Futebol 2001/2002|2001&amp;ndash;02]]
+* [[Taça de Portugal]] (1): [[Taça de Portugal (2001-02)|2001&amp;ndash;02]]
+* [[Supertaça Cândido de Oliveira]] (1): [[Supertaça Cândido de Oliveira (2001-02)|2002]]
+
+; {{INGb}} Manchester United
+* [[FA Cup]]: 2004
+* [[Premier League]]: [[FA Premier League 2006-07|2006&amp;ndash;07]],  [[Premier League 2007-08|2007&amp;ndash;08]] e [[Premier League 2008-09|2008&amp;ndash;09]]
+* [[Carling Cup]]: 2006 e 2009
+* [[FA Community Shield]]: 2007 e 2008
+* [[Liga dos Campeões da UEFA]]: [[Liga dos Campeões da UEFA de 2007-08|2007&amp;ndash;2008]]
+* [[Copa do Mundo de Clubes da FIFA]]: [[Copa do Mundo de Clubes da FIFA de 2008|2008]]
+
+; {{ESPb}} Real Madrid 
+* [[Copa del Rey]]: 2010&amp;ndash;11
+* [[Campeonato Espanhol de Futebol|La Liga]]: [[La Liga 2011-12|2011&amp;ndash;12]]
+* [[Supercopa da Espanha|Supercopa de España]]: 2012
+* [[Troféu Santiago Bernabéu]]: 2010 e 2011
+
+=== Prémios individuais ===
+* [[File:Pallone d'oro.svg|15px]] [[Ballon d'Or]]: 2008
+* [[File:FIFA World Player of the Year.svg|15px]] [[Melhor jogador do mundo pela FIFA]]: [[Melhor jogador do mundo pela FIFA em 2008|2008]] &amp;ndash; [[Federação Internacional de Futebol|FIFA]]
+* [[Time do Ano da UEFA]]: 2004, 2007, 2008, 2009, 2010, 2011, 2012 
+* [[Sir Matt Busby]] Player of the Year &amp;ndash; Jogador do Ano no Manchester United: 2003&amp;ndash;04, 2006&amp;ndash;07, 2007&amp;ndash;08
+* Melhor jogador jovem do mundo pela [[FIFPro]]: 2004, 2005
+* Equipa do [[Campeonato Europeu de Futebol|Euro]]: [[Campeonato Europeu de Futebol de 2004|2004]], [[Campeonato Europeu de Futebol de 2012|2012]]
+* [[Trofeo Bravo]]: 2004
+* Futebolista Português do Ano: 2005, 2006, 2007, 2008, 2009
+* Jogador do Mês na [[Premier League]]: Novembro de 2006, Dezembro de 2006, Janeiro de 2008, Março de 2008
+* Equipa do Ano pela [[PFA]]: 2005&amp;ndash;06, 2006&amp;ndash;07, 2007&amp;ndash;08, 2008&amp;ndash;09
+* [[FIFPro]] ''World XI'': 2006&amp;ndash;07, 2007&amp;ndash;08, 2008&amp;ndash;09, 2009&amp;ndash;10
+* [[Futebolista Inglês do Ano pela FWA|Futebolista do Ano pela FWA]]: 2006&amp;ndash;07, 2007&amp;ndash;08
+* [[Futebolista Inglês do Ano pela PFA|Futebolista do Ano pela PFA]]: 2006&amp;ndash;07, 2007&amp;ndash;08
+* Futebolista Jovem do Ano pela [[PFA]]: 2006&amp;ndash;07
+* [[Barclays]] Player of the Season: 2006&amp;ndash;07, 2007&amp;ndash;08
+* [[Bota de Ouro da UEFA]]: 2007&amp;ndash;08, 2010&amp;ndash;11
+* Avançado do ano da [[UEFA]]: 2007&amp;ndash;08
+* Jogador do ano da [[UEFA]]: 2007&amp;ndash;08
+* [[Barclays]] Merit Award: 2007&amp;ndash;08
+* Melhor jogador do mundo pela [[FIFPro]]: 2008 &amp;ndash; FIFPro
+* Melhor jogador do mundo pela revista ''[[World Soccer]]'': 2008
+* [[Onze d'Or]]: 2008
+* [[Campeonato Mundial de Clubes da FIFA 2008|Bola de Prata do Mundial de Clubes da FIFA]]: 2008
+* [[Prémio FIFA Ferenc Puskás]]: 2009
+* [[Prémio Arco-íris]] 2010 pelo seu contributo na luta contra a discriminação
+
+=== Melhor marcador ===
+* [[Premier League 2007-08|Premier League 2007&amp;ndash;08]]: '''31''' golos em 34 jogos
+* [[Liga dos Campeões da UEFA de 2007-08|Liga dos Campeonões 2007&amp;ndash;08]]: '''8''' golos em 11 jogos
+* [[La Liga 2010-11|Liga Espanhola 2010&amp;ndash;11]] '''40''' golos em 36 jogos
+
+{{Referências|col=2}}
+
+== {{Ligações Externas}} ==
+{{s-start}}
+{{succession box |
+  title=[[Melhor jogador do mundo pela FIFA|Melhor Jogador do Mundo]]&lt;br /&gt;''Cristiano Ronaldo''&lt;br /&gt;{{bandera|POR}}| 
+  before=''[[Kaká]]'' &lt;br /&gt;{{bandera|BRA}}&lt;br /&gt; [[2007]]|
+  after=''[[Lionel Messi]]'' &lt;br /&gt;{{bandera|ARG}}&lt;br /&gt; [[2009]]|
+  years='''[[Melhor jogador do mundo pela FIFA em 2008|2008]]'''
+}}
+{{s-end}}
+
+{{commonscat|Cristiano Ronaldo}}
+{{wikiquote|Cristiano Ronaldo}}
+* {{Link|es|2=http://www.realmadrid.com/cs/Satellite/es/1193040475259/1202773825396/jugador/Jugador/Cristiano_Ronaldo.htm |3=Real Madrid - Ficha técnica do futebolista}}
+* {{Link|en|2=http://www.fifa.com/worldfootball/statisticsandrecords/players/player=201200/ |3=Estatísticas em Fifa.com}}
+* {{Link|en|2=http://www.footballdatabase.com/index.php?page=player&amp;Id=1210&amp;b=true&amp;pn=Cristiano_Ronaldo_dos_Santos_Aveiro |3=Estatísticas em FootballDatabase.com}}
+* {{Link|pt|2=http://www.footbalistic.com/br/players/2554/cristiano_ronaldo |3=Perfil e Estatísticas em Footbalistic.com}}
+* {{Link|pt|2=http://www.madeirafutebol.com/cr9_ronaldo/index.htm |3=O Madeirense Cristiano Ronaldo}}
+* [http://www.ogol.com.br/jogador.php?id=1579/ Perfil em Ogol] {{pt}}
+* [http://www.goal.com/en/people/portugal/1945/cristiano-ronaldo/ Perfil em Goal.com] {{en}}
+* [http://br.soccerway.com/players/cristiano-ronaldo-dos-santos-aveiro/382/ Perfil em Soccerway] {{pt}}
+* [http://www.futebol365.pt/jogadores/info_jogador.asp?id=6380/ Bet365] {{pt}}
+
+{{Elenco Real Madrid}}{{Sporting Clube de Portugal}}{{Manchester United Football Club}}{{Real Madrid CF}}{{Bloco de navegação
+|titlestyle = background:gold; color:black;
+|title=Prêmios
+|FIFA World Player
+|Melhor Jogador de Clubes da UEFA
+|Futebolista Inglês do Ano pela FWA
+|Ballon d'Or
+|Bota de Ouro
+|Onze d'Or
+|Prémio Ferenc Puskás
+|Trofeo Bravo
+|Futebolista do Ano da PFA
+}}{{Bloco de navegação
+|titlestyle = background:#DD0000;color:yellow;border:2px solid green;
+|title=Equipas de Portugal
+|Seleção Portuguesa de Futebol de 2004
+|Seleção Portuguesa de Futebol de 2004 - Olimpíadas
+|Seleção Portuguesa de Futebol de 2006
+|Seleção Portuguesa de Futebol de 2008
+|Seleção Portuguesa de Futebol de 2010
+|Seleção Portuguesa de Futebol de 2012
+}}
+{{Portal3|Madeira|Portugal|Futebol}}
+
+{{DEFAULTSORT:Cristiano Ronaldo}}
+[[Categoria:Naturais do Funchal]]
+[[Categoria:Futebolistas da Madeira]]
+[[Categoria:Futebolistas nos Jogos Olímpicos de Verão de 2004]]
+[[Categoria:Oficiais da Ordem do Infante D. Henrique]]
+[[Categoria:Jogadores da Copa do Mundo FIFA de 2006]]
+[[Categoria:Jogadores da Copa do Mundo FIFA de 2010]]
+[[Categoria:Futebolistas do Sporting Clube de Portugal]]
+[[Categoria:Futebolistas do Manchester United F.C.]]
+[[Categoria:Futebolistas do Real Madrid]]
+[[Categoria:Melhores jogadores do mundo pela FIFA]]
+[[Categoria:Desportistas premiados com o Globo de Ouro (Portugal)]]
+[[Categoria:Católicos de Portugal]]
+[[Categoria:Jogadores da Eurocopa de 2012]]
+
+{{Bom interwiki|ar}}
+{{Link FA|hu}}
+{{Link FA|vi}}
+{{Link FA|uz}}
+
+[[ar:كريستيانو رونالدو]]
+[[az:Kriştiano Ronaldo]]
+[[be:Крышціяну Раналду]]
+[[be-x-old:Крыштыяну Раналду]]
+[[bg:Кристиано Роналдо]]
+[[bn:ক্রিস্তিয়ানো রোনালদো]]
+[[br:Cristiano Ronaldo]]
+[[bs:Cristiano Ronaldo]]
+[[ca:Cristiano Ronaldo dos Santos Aveiro]]
+[[ckb:کریستیانۆ ڕۆناڵدۆ]]
+[[cs:Cristiano Ronaldo]]
+[[cv:Криштиану Роналду]]
+[[cy:Cristiano Ronaldo]]
+[[da:Cristiano Ronaldo]]
+[[de:Cristiano Ronaldo]]
+[[el:Κριστιάνο Ρονάλντο]]
+[[en:Cristiano Ronaldo]]
+[[eo:Cristiano Ronaldo dos Santos Aveiro]]
+[[es:Cristiano Ronaldo]]
+[[et:Cristiano Ronaldo]]
+[[eu:Cristiano Ronaldo]]
+[[fa:کریستیانو رونالدو]]
+[[fi:Cristiano Ronaldo]]
+[[fo:Cristiano Ronaldo]]
+[[fr:Cristiano Ronaldo]]
+[[ga:Cristiano Ronaldo]]
+[[gl:Cristiano Ronaldo]]
+[[he:כריסטיאנו רונאלדו]]
+[[hi:क्रिस्टियानो रोनाल्डो]]
+[[hr:Cristiano Ronaldo]]
+[[hu:Cristiano Ronaldo]]
+[[hy:Կրիշտիանու Ռոնալդու]]
+[[id:Cristiano Ronaldo]]
+[[io:Cristiano Ronaldo]]
+[[is:Cristiano Ronaldo]]
+[[it:Cristiano Ronaldo]]
+[[ja:クリスティアーノ・ロナウド]]
+[[jv:Cristiano Ronaldo]]
+[[ka:კრიშტიანუ რონალდუ]]
+[[kk:Криштиану Роналду]]
+[[ko:크리스티아누 호날두]]
+[[ku:Cristiano Ronaldo]]
+[[la:Christianus Ronaldo]]
+[[lb:Cristiano Ronaldo]]
+[[lt:Cristiano Ronaldo]]
+[[lv:Krištianu Ronaldu]]
+[[mk:Кристијано Роналдо]]
+[[ml:ക്രിസ്റ്റ്യാനോ റൊണാൾഡോ]]
+[[mn:Кристиано Рональдо]]
+[[mr:क्रिस्तियानो रोनाल्डो]]
+[[ms:Cristiano Ronaldo]]
+[[mt:Cristiano Ronaldo]]
+[[mwl:Cristiano Ronaldo]]
+[[my:ခရစ်စတီးယားနို ရော်နယ်လ်ဒို]]
+[[mzn:کریستیانو رونالدو]]
+[[ne:क्रिष्टियानो रोनाल्डो]]
+[[nl:Cristiano Ronaldo]]
+[[nn:Cristiano Ronaldo]]
+[[no:Cristiano Ronaldo]]
+[[oc:Cristiano Ronaldo]]
+[[pl:Cristiano Ronaldo]]
+[[ro:Cristiano Ronaldo]]
+[[ru:Криштиану Роналду]]
+[[scn:Cristiano Ronaldo]]
+[[sh:Cristiano Ronaldo]]
+[[simple:Cristiano Ronaldo]]
+[[sk:Cristiano Ronaldo]]
+[[sl:Cristiano Ronaldo]]
+[[so:Cristiano Ronaldo]]
+[[sq:Cristiano Ronaldo]]
+[[sr:Кристијано Роналдо]]
+[[sv:Cristiano Ronaldo]]
+[[szl:Cristiano Ronaldo]]
+[[ta:கிறிஸ்டியானோ ரொனால்டோ]]
+[[te:క్రిస్టియానో రోనాల్డో]]
+[[th:คริสเตียโน โรนัลโด]]
+[[tr:Cristiano Ronaldo]]
+[[tt:Криштиану Роналду]]
+[[uk:Кріштіану Роналду]]
+[[ur:کرسٹیانو رونالڈو]]
+[[uz:Cristiano Ronaldo]]
+[[vi:Cristiano Ronaldo]]
+[[vo:Cristiano Ronaldo]]
+[[xmf:კრიშტიანუ რონალდუ]]
+[[zh:基斯坦奴·朗拿度]]
+[[zh-yue:基斯坦奴朗拿度]]</text>
+      <sha1>bqcxm263ka6bsppr2a7agvpt046bhh9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

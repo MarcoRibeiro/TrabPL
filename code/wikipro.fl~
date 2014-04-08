@@ -1,0 +1,47 @@
+
+%x page
+%x external
+%x internal
+%x date
+%x author
+%x revision
+%x title
+%x subsection
+%x section
+
+%option noyywrap
+
+%%
+
+
+
+
+
+%%
+int main(int argc, char *argv[]){
+    int i=1;
+
+    if(argc<2) {
+        printf("\nNao ha ficheiro!\n\n");
+        return 1;
+    }
+
+    system("mkdir -p files ;cp -R views/css files/ ;cp -R views/font files/ ;cp -R views/img files/ ;cp -R views/js files/");
+
+    for(i=1;i<argc;i++){
+        yyin = fopen(argv[i], "r");
+        if(yyin==NULL){
+            printf("\nFicheiro '%s' nao encontrado\n\n", argv[i]);
+            return 1;
+            }
+        wikiIndex = criaListaLigada(comparaTit);
+        yylex();
+        //aplicaFuncLista(wikiIndex, imprimeArt, NULL);
+        criarIndice(wikiIndex);
+        fclose(yyin);
+    }
+    
+    
+    return 0;
+    
+}

@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>SUPERwiki</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js/jquery-1.5.2.js" ></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/Molengo_400.font.js"></script>
+<script type="text/javascript" src="js/Expletus_Sans_400.font.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="js/html5.js"></script>
+<style type="text/css">.bg, .box2{behavior:url("js/PIE.htc");}</style>
+<![endif]-->
+</head>
+<body id="page1">
+<div class="body1">
+  <div class="main">
+    <!-- header -->
+    <header>
+      <div class="wrapper">
+        <nav>
+          <ul id="menu">
+            <li><a href="index.html">home</a></li>
+            <li><a href="sobre.html">sobre</a></li>
+            <li><a href="artigos.html">artigos</a></li>
+            <li><a href="enunciado.html">enunciado</a></li>
+            <li><a href="relatorio.html">relatÓrio</a></li>
+          </ul>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+          <ul>
+            <li class="end"></li>
+          </ul>
+        </nav>
+        <ul id="icon">
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </div>
+      <div class="wrapper">
+        <h1><a href="index.html" id="logo">Learn Center</a></h1>
+      </div>
+      <div id="slogan"> SUPERwiki</div>
+      <ul class="banners">
+        <li><a href="#"><img src="images/banner1.jpg" alt=""></a></li>
+        <li><a href="#"><img src="images/banner2.jpg" alt=""></a></li>
+        <li><a href="#"><img src="images/banner3.jpg" alt=""></a></li>
+      </ul>
+    </header>
+    <!-- / header -->
+  </div>
+</div>
+<div class="body2">
+
+</div>
+<script type="text/javascript">Cufon.now();</script>
+<div align=center>Trabalho Prático 1 - Processamento de Linguagens 2014</div></body>
+</html>

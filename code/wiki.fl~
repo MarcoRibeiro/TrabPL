@@ -1,0 +1,30 @@
+%option noyywrap
+
+%x PAGE INFOBOX
+
+%%
+	
+	char titulo[1000];
+	int boa = 0;
+
+
+<*>\<page\>					{BEGIN PAGE;}
+
+<PAGE>\<title\>.*/\<\/title\>			{strcpy(titulo,yytext + 7);}
+
+<PAGE>\<\/page\> 				{if(boa){printf("%s\n",titulo);} boa=0; strcpy(titulo,""); BEGIN INITIAL;}
+
+<PAGE>\{\{[iI]nfo\/Taxonomia			{boa=1;}
+
+\}\}						{}
+
+<*>.|\n						{}
+
+
+%%
+int main(int argc, char *argv[]){
+	
+	yyin = fopen(test.xml,"r");//yyin e um apontador para o stdin
+	yylex();
+	return 1;
+}

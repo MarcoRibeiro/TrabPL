@@ -1,0 +1,158 @@
+%{
+#include "pagina.h"
+#include "htmlgen.h"
+  
+	ArrayPaginas array;
+	
+%}
+
+
+%x PAGINA
+%x TITULO
+%x REVISAO
+%x DATAHORA
+%x NOMEAUTOR
+%x LINKEXTERNO
+%x LINKINTERNO
+%x SECCAO
+%x SUBSECCAO
+
+%option yylineno
+%option noyywrap
+
+%%
+	
+	Pagina pagina = iniciarPagina();
+	
+"<page>"		{BEGIN(PAGINA);pagina = iniciarPagina();}
+
+<PAGINA>{
+	"<title>" 		{BEGIN(TITULO);}
+	"<revision>"	{BEGIN(REVISAO);}
+	.|[\n\t\r]		{;}
+	"</page>"		{inserirPagina(array,pagina);BEGIN(INITIAL);}
+		}
+
+<TITULO>{
+	[^<]+			{inserirTitulo(pagina,yytext);}
+	"</title>"	    BEGIN(PAGINA);
+		}
+
+<REVISAO>{
+	"<timestamp>"	{BEGIN(DATAHORA);}
+	"<username>"	{BEGIN(NOMEAUTOR);}
+	==              {BEGIN(SECCAO);}
+   	===             {BEGIN(SUBSECCAO);}
+	[w]{3}\.	    {BEGIN(LINKEXTERNO);}
+	[[]{2}			{BEGIN(LINKINTERNO);}
+	.|[\n\t\r]		{;}
+	"</revision>"	{BEGIN(PAGINA);}
+		 }
+
+<DATAHORA>{
+	[^<]+		        {inserirData(pagina,yytext);}
+	"</timestamp>"		{BEGIN(REVISAO);}
+		  }
+
+<NOMEAUTOR>{
+	[^<]+		 	{inserirNomeAutor(pagina,yytext);}
+	"</username>"	{BEGIN(REVISAO);}
+			}
+
+<LINKEXTERNO>{
+	[a-zA-Z0-9_\.-]+\.[a-zA-Z]+ 	{inserirLinkExterno(pagina,yytext);}
+	.|[\n\t\r]						{BEGIN(REVISAO);}
+			 }
+
+<LINKINTERNO>{
+	[^]:]+/"|" 		{inserirLinkInterno(pagina,yytext);}	
+	[^]:|]+/]] 		{inserirLinkInterno(pagina,yytext);}	
+	.|[\n\t\r]		{BEGIN(REVISAO);}	
+			 }
+
+<SECCAO>{
+	[^=]+		{inserirSeccao(pagina,yytext);}
+	==			{BEGIN(REVISAO);}		
+		}
+
+<SUBSECCAO>{
+	[^=]+       {inserirSubseccao(pagina,yytext);}
+
+    .|[\n\t\r]	{;}
+    ===         {BEGIN(REVISAO);}
+
+			}
+
+.|[\n\t\r]           {;} 
+
+<<EOF>> { ; return 1;}
+
+%%
+
+int main(int argc, char *argv[]){
+	array = iniciar();
+	yylex();
+	/*printf("Titulo : %s\n",array->paginas[2]->titulo);
+				printf("Links Internos : %d\n",array->paginas[2]->numLinksInt);
+				printf("Links Externos : %d\n",array->paginas[2]->numLinksExt);
+				printf("Nome : %s\n",array->paginas[2]->nomeAutor);
+				printf("Data : %s\n",array->paginas[2]->data);
+				
+
+
+printf("Titulo : %s\n",array->paginas[1]->titulo);
+				printf("Links Internos : %d\n",array->paginas[1]->numLinksInt);
+				printf("Links Externos : %d\n",array->paginas[1]->numLinksExt);
+				printf("Nome : %s\n",array->paginas[1]->nomeAutor);
+				printf("Data : %s\n",array->paginas[1]->data);
+		
+*/
+
+	int conta=0;
+	Pagina doc;
+	int i=0;
+	while (i < 26) {
+		if (array->paginas[i] != NULL ) {
+			char a = array->paginas[i]->titulo[0];
+			printf("----------%s\n", &a);
+			
+			while (array->paginas[i]) {
+				printf("Titulo : %s\n",array->paginas[i]->titulo);
+				conta++;
+				printf("Links Internos : %d\n",array->paginas[i]->numLinksInt);
+				Links aux = array->paginas[i]->linksExternos;
+ 				while(aux){
+ 					printf("LINK -->> %s\n",aux->link);
+ 					aux=aux->proximo;
+ 				}
+				printf("Links Externos : %d\n",array->paginas[i]->numLinksExt);
+				printf("Nome : %s\n",array->paginas[i]->nomeAutor);
+				printf("Data : %s\n",array->paginas[i]->data);
+				printf("num seccoes : %d\n",array->paginas[i]->numSeccoes);
+				Seccoes aux1 = array->paginas[i]-> seccoes;
+				while(aux1){
+ 					printf("seccoes -->> %s\n",aux1->seccao);
+ 					SubSeccoes aux2 =aux1->subSeccoes;
+ 						while(aux2){
+ 							printf("sub -->> %s\n",aux2->subSeccao);
+ 							aux2=aux2->proximo;
+ 						}
+				printf("num Subseccoes : %d\n",aux1->numSubseccoes);
+ 					aux1=aux1->proxima;
+ 				}
+				
+
+				array->paginas[i] = array->paginas[i]->proxima;
+		
+					
+
+
+
+
+			}
+		}
+		i++;
+	}
+	printf("total --------> %d\n", conta);
+	return 0;
+}
