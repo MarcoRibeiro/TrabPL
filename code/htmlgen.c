@@ -17,6 +17,39 @@ void imprimeLinkInternos(FILE * out,Pagina pagina){
 
 
 
+void imprimeSeccoes(FILE * out,Pagina pagina){
+	Seccoes aux = pagina->seccoes;
+	while(aux){
+		fprintf(out, "<li>%s", aux->seccao);
+		SubSeccoes auxSub = aux->subSeccoes;
+		fputs("<ul class=\"circle\">",out);
+
+		while(auxSub){
+			fprintf(out, "<li>-->%s</li>", auxSub->subSeccao);
+			auxSub=auxSub->proximo;
+		} 
+		fputs("</ul>",out);
+		fputs("</li>",out);
+		aux=aux->proxima;
+	}
+}
+
+void imprimeLinkExternos(FILE * out,Pagina pagina){
+	Links olink = pagina->linksExternos;
+	while(olink){
+		fprintf(out, "<tr><td><a href=\"http://www.%s\">%s</a></tr></td><br>", olink->link, olink->link);
+		olink=olink->proximo;
+			}
+
+}
+void imprimeAutor(FILE * artpage, Pagina artigo){
+	fprintf(artpage, "%s", artigo->nomeAutor);
+}
+
+
+
+
+
 //imprime artigo na pagina para func criarpagina
 
 
@@ -77,7 +110,8 @@ fputs("<div class=\"body2\">", artpage);
         fputs("<div class=\"wrapper\">", artpage);
           fputs("<article class=\"col1\">", artpage);
            fputs("<div class=\"pad_left1\">", artpage);
-              fprintf(artpage, "<h2 class=\"pad_bot1\">%s</h2>", artigo->titulo);//aqui o titulo do artigo
+           
+              fprintf(artpage,"<a href=\"http://www.wikipedia.pt/wiki/%s\"><h2 class=\"pad_bot1\">%s</h2></a>" , artigo->titulo,artigo->titulo);//aqui o titulo do artigo
             fputs("</div>", artpage);
             fputs("<div class=\"wrapper\">", artpage);
               fputs("<figure class=\"left marg_right1\"></figure>", artpage);
@@ -87,10 +121,11 @@ fputs("<div class=\"body2\">", artpage);
                 imprimeLinkInternos(artpage,artigo);
                 fputs("<p class=\"pad_bot1 pad_top2\"><strong>Links Externos</strong> <br>", artpage);
                 fputs("</p>", artpage);
-                fputs("<a href=\"google.com\">insereLinksExternos</a>", artpage);//inserelinksexternos
+                //fputs("<a href=\"google.com\">insereLinksExternos</a>", artpage);//inserelinksexternos
+                imprimeLinkExternos(artpage,artigo);
 		fputs("<p class=\"pad_bot1 pad_top2\"><strong>Autor</strong> <br>", artpage);
                 fputs("</p>", artpage);
-		fputs("<a href=\"google.com\">insereAutor</a>", artpage);//insereautor
+                fprintf(artpage,"%s",artigo->nomeAutor );//insereautor
 		fputs("<p class=\"pad_bot1 pad_top2\"><strong>Última revisão</strong> <br>", artpage);
                 fputs("</p>", artpage);
 		fputs("<a href=\"google.com\">insereRevision</a>", artpage);//insere revisao	            
@@ -100,9 +135,11 @@ fputs("<div class=\"body2\">", artpage);
             fputs("<div class=\"pad_left1\">", artpage);
               fputs("<h2>SecÇÕes</h2>", artpage);
             fputs("</div>", artpage);
-            	fputs("<ul class=\"list1\">", artpage);
-           	  fputs("<li><a href=\"#\">funcao InsereSeccao</a></li>", artpage);//insere seccoes
-           	 fputs("</ul>", artpage);      
+            	fputs("<ul class=\"circle\">", artpage);
+            	
+           	  imprimeSeccoes(artpage,artigo);//insere seccoes
+           	  
+           	  fputs("</ul>", artpage);      
           fputs("</article>", artpage);
         fputs("</div>", artpage);
       fputs("</div>", artpage);
@@ -417,7 +454,7 @@ void criaPagina(Pagina pagina){
 
 FILE * file;
 char *nome = (char*)malloc(strlen(pagina->titulo)+10);
-strcat(nome, "TrabaPL/final/");
+//strcat(nome, "final/");
 strcat(nome, pagina->titulo);
 strcat(nome, ".html");
 file = fopen(nome, "w+");

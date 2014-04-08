@@ -69,7 +69,10 @@ void inserirSeccao(Pagina pagina, char* seccao) {
 	novaSeccao->proxima=aux;
 	pagina->seccoes=novaSeccao;
 	pagina->numSeccoes++;
+
 }
+
+
 void inserirSubseccao(Pagina pagina, char* subseccao){
 	Seccoes seccao = pagina->seccoes;
 	SubSeccoes novaSub = (SubSeccoes)malloc(sizeof(struct subSeccoes));
