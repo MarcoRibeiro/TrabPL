@@ -15,17 +15,30 @@ void imprimeLinkInternos(FILE * out,Pagina pagina){
 
 }
 
+Seccoes inverte(Seccoes sec){
+	Seccoes seca = NULL;
+	
+	while(sec){
+		Seccoes novo = sec->proxima;
+		sec->proxima = seca;
+		seca = sec;
+		sec = novo;
+	}
+	return seca;
+	
+}
 
 
 void imprimeSeccoes(FILE * out,Pagina pagina){
 	Seccoes aux = pagina->seccoes;
+	aux=inverte(aux);
 	while(aux){
 		fprintf(out, "<li>%s", aux->seccao);
 		SubSeccoes auxSub = aux->subSeccoes;
 		fputs("<ul class=\"circle\">",out);
 
 		while(auxSub){
-			fprintf(out, "<li>-->%s</li>", auxSub->subSeccao);
+			fprintf(out, "<li>&nbsp &nbsp %s</li>", auxSub->subSeccao);
 			auxSub=auxSub->proximo;
 		} 
 		fputs("</ul>",out);
