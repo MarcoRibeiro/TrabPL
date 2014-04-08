@@ -3,6 +3,7 @@ NAME=superWiki
 objects=pagina.o htmlgen.o
 flag=-c
 FLEX=flexWiki
+PASTA=TrabaPL/final/
 
 $(NAME):$(NAME).c $(objects)
 	cc -o $(NAME) $(NAME).c $(objects) 
@@ -13,7 +14,8 @@ pagina.o:pagina.c pagina.h estruturas.h
 htmlgen.o:htmlgen.c htmlgen.h estruturas.h
 	gcc $(flag) htmlgen.c
 clean:
-	$(RM) $(objects) $(NAME).c
+	$(RM) $(objects) $(NAME).c 
+	$(RM) -f -r $(PASTA)
 test:$(NAME)
 	./$(NAME) < $(IN)
 

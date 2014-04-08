@@ -929,7 +929,7 @@ YY_RULE_SETUP
 case 5:
 YY_RULE_SETUP
 #line 33 "flexWiki.fl"
-{inserirPagina(array,pagina);BEGIN(INITIAL);}
+{inserirPagina(array,pagina);criaPagina(pagina);BEGIN(INITIAL);}
 	YY_BREAK
 
 
@@ -2122,8 +2122,16 @@ void yyfree (void * ptr )
 
 
 int main(int argc, char *argv[]){
+	
+    system("cd .. ;mkdir -p final ;cp -R SUPERwiki-views/css final/ ;cp -R SUPERwiki-views/images final/ ;cp -R SUPERwiki-views/js final/");
+
+
 	array = iniciar();
 	yylex();
+
+
+
+
 	/*printf("Titulo : %s\n",array->paginas[2]->titulo);
 				printf("Links Internos : %d\n",array->paginas[2]->numLinksInt);
 				printf("Links Externos : %d\n",array->paginas[2]->numLinksExt);

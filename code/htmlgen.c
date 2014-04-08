@@ -9,7 +9,7 @@
 void imprimeLinkInternos(FILE * out,Pagina pagina){
 	Links olink = pagina->linksInternos;
 	while(olink){
-		fprintf(out, "<tr><td><a href=\"http://www.wikipedia.pt/wiki/%s\">%s</a></tr></td>", olink->link, olink->link);
+		fprintf(out, "<tr><td><a href=\"http://www.wikipedia.pt/wiki/%s\">%s</a></tr></td><br>", olink->link, olink->link);
 		olink=olink->proximo;
 			}
 
@@ -84,7 +84,7 @@ fputs("<div class=\"body2\">", artpage);
               fputs("<p class=\"pad_bot1 pad_top2\"><strong>Links Internos</strong> <br>", artpage);
                 fputs("</p>", artpage);
                 //fprintf(artpage, "<a href=\"wikipedia.com\%s\">%s</a>", artigo->linksinternos);//inserelinksinternos
-                //imprimeLinkInternos(artpage,artigo);
+                imprimeLinkInternos(artpage,artigo);
                 fputs("<p class=\"pad_bot1 pad_top2\"><strong>Links Externos</strong> <br>", artpage);
                 fputs("</p>", artpage);
                 fputs("<a href=\"google.com\">insereLinksExternos</a>", artpage);//inserelinksexternos
@@ -417,7 +417,7 @@ void criaPagina(Pagina pagina){
 
 FILE * file;
 char *nome = (char*)malloc(strlen(pagina->titulo)+10);
-strcat(nome, "data/");
+strcat(nome, "TrabaPL/final/");
 strcat(nome, pagina->titulo);
 strcat(nome, ".html");
 file = fopen(nome, "w+");
