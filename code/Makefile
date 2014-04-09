@@ -1,4 +1,4 @@
-IN=test6.xml
+IN=test.xml
 NAME=superWiki
 objects=pagina.o htmlgen.o
 flag=-c

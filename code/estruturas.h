@@ -24,6 +24,7 @@ typedef struct pagina{
 	char * data;
 	char * hora;
 	char * nomeAutor;
+	char * imagem;
 	int numSeccoes;
 	int numLinksExt;
 	int numLinksInt;

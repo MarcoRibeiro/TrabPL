@@ -11,6 +11,7 @@ void inserirHora(Pagina pagina, char * hora);
 void inserirLinkInterno(Pagina pagina, char* linkInterno);
 void inserirLinkExterno(Pagina pagina, char* linkExterno);
 void inserirSeccao(Pagina pagina, char* seccao);
+void inserirImagem(Pagina pagina, char* imagem);
 void inserirSubseccao(Pagina pagina, char* subseccao);
 void inserirPagina(ArrayPaginas paginas,Pagina pagina);
 ArrayPaginas iniciar();

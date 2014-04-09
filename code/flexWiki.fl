@@ -24,7 +24,7 @@
 
 %%
 	
-	int numImagem = 0 ;
+	
 	
 "<page>"		{BEGIN(PAGINA);pagina = iniciarPagina();}
 
@@ -46,13 +46,22 @@
 <REVISAO>{
 	"<timestamp>"	{BEGIN(DATA);}
 	"<username>"	{BEGIN(NOMEAUTOR);}
+	"|imagem"[ ]*=[ ]*		{BEGIN(IMAGEM);}
 	==              {BEGIN(SECCAO);}
    	===            {BEGIN(SUBSECCAO);}
-	[w]{3}\.	    {BEGIN(LINKEXTERNO);}
+   	[w]{3}\.	    {BEGIN(LINKEXTERNO);}
 	[[]{2}			{BEGIN(LINKINTERNO);}
 	.|[\n\t\r]		{;}
 	"</revision>"	{BEGIN(PAGINA);}
 		 }
+
+<IMAGEM>{
+	[^\.]+		{inserirImagem(pagina,yytext);}
+	".png"		{BEGIN(REVISAO);}
+	".bmp"		{BEGIN(REVISAO);}
+	".jpg"		{BEGIN(REVISAO);}
+
+}
 
 <DATA>{
 	[^T]+		        {inserirData(pagina,yytext);BEGIN(HORA);}
@@ -61,7 +70,7 @@
 
 <HORA>{
 	T[^Z]+					{inserirHora(pagina,yytext+1);BEGIN(HORA);}
-	"Z</timestamp>"		{BEGIN(REVISAO);}
+	"Z</timestamp>"			{BEGIN(REVISAO);}
 }
 
 <NOMEAUTOR>{
@@ -107,14 +116,14 @@ int main(int argc, char *argv[]){
 	array = iniciar();
 	yylex();
 	geraIndice(array);
-	/*printf("link Int %d\n",array->paginas[5]->numLinksInt);
-	printf("link Ext %d\n",array->paginas[5]->numLinksExt);
-	printf("seccoes %d\n",array->paginas[5]->numSeccoes);
-	printf("titulo %s\n",array->paginas[5]->titulo);
-	printf("data %s\n",array->paginas[5]->data);
-	printf("hora %s\n",array->paginas[5]->hora);
-	printf("nomeAutor %s\n",array->paginas[5]->nomeAutor);
-*/
+	printf("link Int %d\n",array->paginas[0]->numLinksInt);
+	printf("link Ext %d\n",array->paginas[0]->numLinksExt);
+	printf("seccoes %d\n",array->paginas[0]->numSeccoes);
+	printf("titulo %s\n",array->paginas[0]->titulo);
+	printf("data %s\n",array->paginas[0]->data);
+	printf("imagem %s\n",array->paginas[0]->imagem);
+	printf("nomeAutor %s\n",array->paginas[0]->nomeAutor);
+
 	system("google-chrome ~/TrabaPL/code/final/index.html");
 
 	return 0;

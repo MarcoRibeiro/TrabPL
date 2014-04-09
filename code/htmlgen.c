@@ -17,7 +17,15 @@ void imprimeLinkInternos(FILE * out,Pagina pagina){
 
 }
 
+void troca(char * w, char c, char x){
+	int i;
+	for(i=0;i<strlen(w);i++){
+		if(w[i]==c){
+			w[i]=x;
+		}
+	}
 
+}
 
 
 
@@ -153,8 +161,8 @@ fputs("<div class=\"body2\">", artpage);
 		fputs("<p class=\"pad_bot1 pad_top2\"><strong>Última revisão</strong> <br>", artpage);
                 fputs("</p>", artpage);
 		fprintf(artpage, "%s - %s\n", artigo->data,artigo->hora);//insere revisao	 
-		           
-               fputs("<img src=\"http://upload.wikimedia.org/wikipedia/commons/d/da/Cristiano_Ronaldo_4609.jpg\" alt=\"\" title=\"\" border=\"none\" />", artpage);
+		           troca(artigo->imagem,' ','_');
+               fprintf(artpage,"<a href=\"http://http://pt.wikipedia.org/wiki/Ficheiro:%s.jpg\" alt=\"\" title=\"\" border=\"none\" />sajdasjdja</a>", artigo->imagem);
                 fputs("</div>", artpage);
           fputs("</article>", artpage);
           fputs("<article class=\"col2 pad_left2\">", artpage);

@@ -18,9 +18,17 @@ Pagina iniciarPagina() {
 	pagina->data="";
 	pagina->hora="";
 	pagina->titulo="";
+	pagina->imagem="";
 	return pagina;
 
 }
+
+void inserirImagem(Pagina pagina, char* imagem){
+	char * verdImagem = (char *) malloc(sizeof(char*[strlen(imagem) + 1]));
+	strcpy(verdImagem, imagem);
+	pagina->imagem = verdImagem;
+}
+
 
 void inserirTitulo(Pagina pagina, char * titulo) {
 	char * verdTitulo = (char *) malloc(sizeof(char*[strlen(titulo) + 1]));
