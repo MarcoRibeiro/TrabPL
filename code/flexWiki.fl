@@ -3,26 +3,28 @@
 #include "htmlgen.h"
   
 	ArrayPaginas array;
-	
+	Pagina pagina;
 %}
 
 
 %x PAGINA
 %x TITULO
 %x REVISAO
-%x DATAHORA
+%x DATA
+%x HORA
 %x NOMEAUTOR
 %x LINKEXTERNO
 %x LINKINTERNO
 %x SECCAO
 %x SUBSECCAO
+%x IMAGEM
 
 %option yylineno
 %option noyywrap
 
 %%
 	
-	Pagina pagina = iniciarPagina();
+	int numImagem = 0 ;
 	
 "<page>"		{BEGIN(PAGINA);pagina = iniciarPagina();}
 
@@ -34,25 +36,33 @@
 		}
 
 <TITULO>{
-	[^<]+			{inserirTitulo(pagina,yytext);}
+	
+	[^<:]+			{inserirTitulo(pagina,yytext);}
+	:				{;}
+	
 	"</title>"	    BEGIN(PAGINA);
 		}
 
 <REVISAO>{
-	"<timestamp>"	{BEGIN(DATAHORA);}
+	"<timestamp>"	{BEGIN(DATA);}
 	"<username>"	{BEGIN(NOMEAUTOR);}
 	==              {BEGIN(SECCAO);}
-   	===             {BEGIN(SUBSECCAO);}
+   	===            {BEGIN(SUBSECCAO);}
 	[w]{3}\.	    {BEGIN(LINKEXTERNO);}
 	[[]{2}			{BEGIN(LINKINTERNO);}
 	.|[\n\t\r]		{;}
 	"</revision>"	{BEGIN(PAGINA);}
 		 }
 
-<DATAHORA>{
-	[^<]+		        {inserirData(pagina,yytext);}
-	"</timestamp>"		{BEGIN(REVISAO);}
-		  }
+<DATA>{
+	[^T]+		        {inserirData(pagina,yytext);BEGIN(HORA);}
+			 
+	}
+
+<HORA>{
+	T[^Z]+					{inserirHora(pagina,yytext+1);BEGIN(HORA);}
+	"Z</timestamp>"		{BEGIN(REVISAO);}
+}
 
 <NOMEAUTOR>{
 	[^<]+		 	{inserirNomeAutor(pagina,yytext);}
@@ -91,76 +101,21 @@
 
 int main(int argc, char *argv[]){
 	
-    system("cd .. ;mkdir -p final ;cp -R SUPERwiki-views/css final/ ;cp -R SUPERwiki-views/images final/ ;cp -R SUPERwiki-views/js final/");
+    system("mkdir -p final/ ;cd ..;cp -R SUPERwiki-views/css code/final/ ;cp -R SUPERwiki-views/images code/final/ ;cp -R SUPERwiki-views/js code/final/ ; cp -R SUPERwiki-views/enunciado.html code/final/ ; cp -R SUPERwiki-views/index.html code/final/ ; cp -R SUPERwiki-views/relatorio.html code/final/; cp -R SUPERwiki-views/sobre.html code/final/");
 
 
 	array = iniciar();
 	yylex();
-
-
-
-
-	/*printf("Titulo : %s\n",array->paginas[2]->titulo);
-				printf("Links Internos : %d\n",array->paginas[2]->numLinksInt);
-				printf("Links Externos : %d\n",array->paginas[2]->numLinksExt);
-				printf("Nome : %s\n",array->paginas[2]->nomeAutor);
-				printf("Data : %s\n",array->paginas[2]->data);
-				
-
-
-printf("Titulo : %s\n",array->paginas[1]->titulo);
-				printf("Links Internos : %d\n",array->paginas[1]->numLinksInt);
-				printf("Links Externos : %d\n",array->paginas[1]->numLinksExt);
-				printf("Nome : %s\n",array->paginas[1]->nomeAutor);
-				printf("Data : %s\n",array->paginas[1]->data);
-		
+	geraIndice(array);
+	/*printf("link Int %d\n",array->paginas[5]->numLinksInt);
+	printf("link Ext %d\n",array->paginas[5]->numLinksExt);
+	printf("seccoes %d\n",array->paginas[5]->numSeccoes);
+	printf("titulo %s\n",array->paginas[5]->titulo);
+	printf("data %s\n",array->paginas[5]->data);
+	printf("hora %s\n",array->paginas[5]->hora);
+	printf("nomeAutor %s\n",array->paginas[5]->nomeAutor);
 */
+	system("google-chrome ~/TrabaPL/code/final/index.html");
 
-	int conta=0;
-	Pagina doc;
-	int i=0;
-	while (i < 26) {
-		if (array->paginas[i] != NULL ) {
-			char a = array->paginas[i]->titulo[0];
-			printf("----------%s\n", &a);
-			
-			while (array->paginas[i]) {
-				printf("Titulo : %s\n",array->paginas[i]->titulo);
-				conta++;
-				printf("Links Internos : %d\n",array->paginas[i]->numLinksInt);
-				Links aux = array->paginas[i]->linksExternos;
- 				while(aux){
- 					printf("LINK -->> %s\n",aux->link);
- 					aux=aux->proximo;
- 				}
-				printf("Links Externos : %d\n",array->paginas[i]->numLinksExt);
-				printf("Nome : %s\n",array->paginas[i]->nomeAutor);
-				printf("Data : %s\n",array->paginas[i]->data);
-				printf("num seccoes : %d\n",array->paginas[i]->numSeccoes);
-				Seccoes aux1 = array->paginas[i]-> seccoes;
-				while(aux1){
- 					printf("seccoes -->> %s\n",aux1->seccao);
- 					SubSeccoes aux2 =aux1->subSeccoes;
- 						while(aux2){
- 							printf("sub -->> %s\n",aux2->subSeccao);
- 							aux2=aux2->proximo;
- 						}
-				printf("num Subseccoes : %d\n",aux1->numSubseccoes);
- 					aux1=aux1->proxima;
- 				}
-				
-
-				array->paginas[i] = array->paginas[i]->proxima;
-		
-					
-
-
-
-
-			}
-		}
-		i++;
-	}
-	printf("total --------> %d\n", conta);
 	return 0;
 }

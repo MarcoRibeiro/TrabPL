@@ -22,6 +22,7 @@ typedef struct seccoes{
 typedef struct pagina{
 	char * titulo;
 	char * data;
+	char * hora;
 	char * nomeAutor;
 	int numSeccoes;
 	int numLinksExt;

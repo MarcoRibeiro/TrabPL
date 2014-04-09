@@ -14,6 +14,10 @@ Pagina iniciarPagina() {
 	pagina->numLinksInt = 0;
 	pagina->numSeccoes = 0;
 	pagina->proxima=NULL;
+	pagina->nomeAutor="";
+	pagina->data="";
+	pagina->hora="";
+	pagina->titulo="";
 	return pagina;
 
 }
@@ -33,6 +37,11 @@ void inserirData(Pagina pagina, char * data) {
 	char* dataRevisao = (char*) malloc(sizeof(char*[strlen(data) + 1]));
 	strcpy(dataRevisao, data);
 	pagina->data = dataRevisao;
+}
+void inserirHora(Pagina pagina, char * hora) {
+	char* horaRevisao = (char*) malloc(sizeof(char*[strlen(hora) + 1]));
+	strcpy(horaRevisao, hora);
+	pagina->hora = horaRevisao;
 }
 
 void inserirLinkInterno(Pagina pagina, char* linkInterno) {

@@ -8,12 +8,19 @@
 
 void imprimeLinkInternos(FILE * out,Pagina pagina){
 	Links olink = pagina->linksInternos;
+	
 	while(olink){
 		fprintf(out, "<tr><td><a href=\"http://www.wikipedia.pt/wiki/%s\">%s</a></tr></td><br>", olink->link, olink->link);
 		olink=olink->proximo;
 			}
+	
 
 }
+
+
+
+
+
 
 Seccoes inverte(Seccoes sec){
 	Seccoes seca = NULL;
@@ -31,9 +38,11 @@ Seccoes inverte(Seccoes sec){
 
 void imprimeSeccoes(FILE * out,Pagina pagina){
 	Seccoes aux = pagina->seccoes;
+	
 	aux=inverte(aux);
+	
 	while(aux){
-		fprintf(out, "<li>%s", aux->seccao);
+		fprintf(out, "<li><strong>%s</strong>", aux->seccao);
 		SubSeccoes auxSub = aux->subSeccoes;
 		fputs("<ul class=\"circle\">",out);
 
@@ -41,23 +50,25 @@ void imprimeSeccoes(FILE * out,Pagina pagina){
 			fprintf(out, "<li>&nbsp &nbsp %s</li>", auxSub->subSeccao);
 			auxSub=auxSub->proximo;
 		} 
+		
 		fputs("</ul>",out);
 		fputs("</li>",out);
 		aux=aux->proxima;
 	}
+	
 }
 
 void imprimeLinkExternos(FILE * out,Pagina pagina){
 	Links olink = pagina->linksExternos;
+	
 	while(olink){
 		fprintf(out, "<tr><td><a href=\"http://www.%s\">%s</a></tr></td><br>", olink->link, olink->link);
 		olink=olink->proximo;
 			}
+	
 
 }
-void imprimeAutor(FILE * artpage, Pagina artigo){
-	fprintf(artpage, "%s", artigo->nomeAutor);
-}
+
 
 
 
@@ -128,11 +139,11 @@ fputs("<div class=\"body2\">", artpage);
             fputs("</div>", artpage);
             fputs("<div class=\"wrapper\">", artpage);
               fputs("<figure class=\"left marg_right1\"></figure>", artpage);
-              fputs("<p class=\"pad_bot1 pad_top2\"><strong>Links Internos</strong> <br>", artpage);
+              fprintf(artpage, "<p class=\"pad_bot1 pad_top2\"><strong>Links Internos</strong> (%d)<br>",artigo->numLinksInt);
                 fputs("</p>", artpage);
                 //fprintf(artpage, "<a href=\"wikipedia.com\%s\">%s</a>", artigo->linksinternos);//inserelinksinternos
                 imprimeLinkInternos(artpage,artigo);
-                fputs("<p class=\"pad_bot1 pad_top2\"><strong>Links Externos</strong> <br>", artpage);
+                fprintf(artpage, "<p class=\"pad_bot1 pad_top2\"><strong>Links Externos</strong> (%d)<br>",artigo->numLinksExt);
                 fputs("</p>", artpage);
                 //fputs("<a href=\"google.com\">insereLinksExternos</a>", artpage);//inserelinksexternos
                 imprimeLinkExternos(artpage,artigo);
@@ -141,7 +152,9 @@ fputs("<div class=\"body2\">", artpage);
                 fprintf(artpage,"%s",artigo->nomeAutor );//insereautor
 		fputs("<p class=\"pad_bot1 pad_top2\"><strong>Última revisão</strong> <br>", artpage);
                 fputs("</p>", artpage);
-		fputs("<a href=\"google.com\">insereRevision</a>", artpage);//insere revisao	            
+		fprintf(artpage, "%s - %s\n", artigo->data,artigo->hora);//insere revisao	 
+		           
+               fputs("<img src=\"http://upload.wikimedia.org/wikipedia/commons/d/da/Cristiano_Ronaldo_4609.jpg\" alt=\"\" title=\"\" border=\"none\" />", artpage);
                 fputs("</div>", artpage);
           fputs("</article>", artpage);
           fputs("<article class=\"col2 pad_left2\">", artpage);
@@ -170,12 +183,89 @@ fputs("</html>",artpage);
 
 } 
 
+void freeSeccoes(Seccoes sec){
+	Seccoes tmp;
+	SubSeccoes tmpSub; 
+        while (sec){
+			tmp = sec;
+			SubSeccoes subSec = sec->subSeccoes;
+			while(subSec){
+				tmpSub=subSec;
+				subSec=subSec->proximo;
+				free(tmpSub);
+			}
+			sec = sec->proxima;
+			free(tmp);
+        }
+}
 
+void freelink(Links link){
+   
+        
+        Links tmp;
+
+        while (link){
+			tmp = link;
+			link = link->proximo;
+			free(tmp);
+        }
+    
+}
+
+
+void freePagina(Pagina pagina){
+   
+        
+        Pagina tmp;
+
+        while (pagina){
+			tmp = pagina;
+			freeSeccoes(pagina->seccoes);
+			freelink(pagina->linksExternos);
+			freelink(pagina->linksInternos);
+			pagina = pagina->proxima;
+			free(tmp);
+        }
+    
+}
+
+
+
+void imprimeIndex(FILE *out,ArrayPaginas array,int i){
+	
+		Pagina aux = array->paginas[i];
+		while(aux){
+			fprintf(out, "<li><a href=\"%s.html\">%s</a></li>",aux->titulo,aux->titulo);
+			aux=aux->proxima;
+		}
+		freePagina(aux);
+
+}
+
+
+
+void imprimeIndice(FILE *indice,ArrayPaginas array){
+	int i=0;
+	int letra = 'A';
+	while(i<26){
+		if(array->paginas[i]){
+		fprintf(indice,"<li><a>%c <span class=\"caret\"></span></a>",letra);
+			fputs("<div>",indice);
+				fputs("<ul>",indice);
+				imprimeIndex(indice,array,i);
+				fputs("</ul>",indice);
+			fputs("</div>",indice);
+		fputs("</li>",indice);
+		}
+		letra++;
+		i++;
+	}
+}
 //criar o indice
 
-void geraIndice(/*o indice com os artigos ordenados*/){
+void geraIndice(ArrayPaginas array){
 	
-	FILE * indice = fopen("indice.html", "w+");
+	FILE * indice = fopen("final/indice.html", "w+");
 
 fputs("<!DOCTYPE html>", indice);
 fputs("<html lang=\"en\">", indice);
@@ -235,215 +325,9 @@ fputs("<div class=\"body1\">",indice);
         fputs("<nav2>",indice);
 	fputs("<ul>",indice);
 	
-	fputs("<li><a href=\"#a\">A <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-				fputs("<li><a href=\"artigos.html\">artigo</a></li>",indice);
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        
-	fputs("<li><a href=\"#b\">B <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-			
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#c\">C <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#d\">D <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#e\">E <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#f\">F <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs(" <li><a href=\"#g\">G <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#h\">H <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#i\">I <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs(" <li><a href=\"#j\">J <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#k\">K <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#l\">L <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs("<li><a href=\"#m\">M <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs(" <li><a href=\"#n\">N <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#o\">O <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#p\">P <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#q\">Q <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs("<li><a href=\"#r\">R <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#s\">S <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#t\">T <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs("<li><a href=\"#u\">U <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-        fputs("<li><a href=\"#v\">V <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs(" <li><a href=\"#w\">W <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs("<li><a href=\"#x\">X <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-       fputs(" <li><a href=\"#y\">Y <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-      fputs("  <li><a href=\"#z\">Z <span class=\"caret\"></span></a>",indice);
-			fputs("<div>",indice);
-				fputs("<ul>",indice);
-					fputs("<!--nesta linha sao impressos os restantes artigos genericamente-->",indice);
-					
-				fputs("</ul>",indice);
-			fputs("</div>",indice);
-	fputs("</li>",indice);
-
+	
+	imprimeIndice(indice,array);				
+	
 
 	fputs("</ul>",indice);
 	fputs("</nav2>",indice);
@@ -463,16 +347,19 @@ fputs("<div class=\"body1\">",indice);
 //cria página html para artigo processado
 
 
+
+
 void criaPagina(Pagina pagina){
 
 FILE * file;
-char *nome = (char*)malloc(strlen(pagina->titulo)+10);
-//strcat(nome, "final/");
+char *nome = (char*)malloc(strlen(pagina->titulo)+30);
+strcat(nome, "final/");
 strcat(nome, pagina->titulo);
 strcat(nome, ".html");
 file = fopen(nome, "w+");
 geraArtigo(file, pagina);
 fclose(file);
+
 
 }
 

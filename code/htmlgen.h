@@ -3,7 +3,7 @@
 #include "estruturas.h"
 
 
-void geraIndice(/*o indice com os artigos ordenados*/);
+void geraIndice(ArrayPaginas array);
 void criaPagina(Pagina pagina);
 void imprimeLinkInternos(FILE * out,Pagina pagina);
 

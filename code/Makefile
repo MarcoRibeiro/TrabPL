@@ -1,9 +1,9 @@
-IN=test.xml
+IN=test6.xml
 NAME=superWiki
 objects=pagina.o htmlgen.o
 flag=-c
 FLEX=flexWiki
-PASTA=TrabaPL/final/
+PASTA=~/TrabaPL/code/final/
 
 $(NAME):$(NAME).c $(objects)
 	cc -o $(NAME) $(NAME).c $(objects) 
@@ -15,7 +15,7 @@ htmlgen.o:htmlgen.c htmlgen.h estruturas.h
 	gcc $(flag) htmlgen.c
 clean:
 	$(RM) $(objects) $(NAME).c 
-	$(RM) -f -r $(PASTA)
+	rm -f -r $(PASTA)
 test:$(NAME)
 	./$(NAME) < $(IN)
 

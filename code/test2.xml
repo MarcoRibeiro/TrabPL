@@ -1,0 +1,1547 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.23wmf20</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category:Traditional football</title>
+    <ns>14</ns>
+    <id>1092396</id>
+    <revision>
+      <id>375757308</id>
+      <parentid>343706293</parentid>
+      <timestamp>2010-07-27T16:44:16Z</timestamp>
+      <contributor>
+        <username>LunarLander</username>
+        <id>133216</id>
+      </contributor>
+      <comment>Removed [[Category:Association football variants]], these are just other codes of football, not variants of association</comment>
+      <text xml:space="preserve" bytes="45">[[Category:Football]]
+[[Category:Ball games]]</text>
+      <sha1>rpklfhxpdqfhu7ukjvipq14fh143ptl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Football venues</title>
+    <ns>14</ns>
+    <id>952058</id>
+    <revision>
+      <id>478946377</id>
+      <parentid>298620568</parentid>
+      <timestamp>2012-02-26T13:59:25Z</timestamp>
+      <contributor>
+        <username>MGA73bot</username>
+        <id>9332754</id>
+      </contributor>
+      <minor/>
+      <comment>Changed {{Commons cat multi}} to {{Commons category multi}}</comment>
+      <text xml:space="preserve" bytes="167">{{Commons category multi|American football venues|Association football venues}}
+
+[[Category:Stadiums]]
+[[Category:Football|Venues]]
+[[Category:Sports venues by sport]]</text>
+      <sha1>e4y1v5tqr75f7dfj0gu9y1ggflggelb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Underwater football</title>
+    <ns>0</ns>
+    <id>3517612</id>
+    <revision>
+      <id>585876538</id>
+      <parentid>585875926</parentid>
+      <timestamp>2013-12-13T07:54:29Z</timestamp>
+      <contributor>
+        <username>Cowdy001</username>
+        <id>14742758</id>
+      </contributor>
+      <minor/>
+      <comment>/* Origins */</comment>
+      <text xml:space="preserve" bytes="4752">{{Infobox sport
+|name = Underwater Football
+|image = Image:US Navy 110603-N-AD372-308 Students at the Naval Diving and Salvage Training Center play underwater football to cool down after physical training.jpg 
+|imagesize = 300px
+|caption = Underwater football match involving [[United States Navy|USN]] personnel in [[Panama City, Florida]] on June 3, 2011
+|union = Manitoba Underwater Council
+|nickname = 
+|first = 1960s, [[University of Manitoba]], [[Canada]]
+|registered = 
+|clubs = 
+|contact = yes
+|team = 13 (5 in play)
+|mgender = 
+|category = Aquatic
+| equipment  = [[diving mask]], [[Snorkeling#The snorkel|snorkel]],  [[swimfins|fins]] &amp; [[water polo cap]].
+| venue      = [[Swimming pool]]
+| obsolete   =
+| olympic    = 
+| paralympic =
+}}
+
+'''Underwater football''' is a two-team [[Underwater sports|underwater sport]] that shares common elements with [[underwater hockey]] and [[underwater rugby]].  As with both of those games, it is played in a [[swimming pool]] with [[snorkeling]] equipment ([[Diving mask|mask]], [[Snorkeling|snorkel]], and [[Swimfins|fins]]).
+
+The goal of the game is to [[wikt:manoeuvre|manoeuvre]] (by [[Carry (American football)|carry]]ing and [[Forward pass|passing]]) a slightly [[buoyancy|negatively buoyant]] [[ball]] from one side of a pool to the other by players who are completely submerged [[underwater]]. [[Score (sport)|Scoring]] is achieved by placing the ball (under control) in the [[wikt:gutter|gutter]] on the side of the pool.  Variations include using a toy rubber torpedo as the ball, and weighing down buckets to rest on the bottom and serve as goals.
+
+It is played in the Canadian provinces of [[Alberta]], [[Manitoba]], [[Saskatchewan]], and [[Newfoundland and Labrador]].&lt;ref&gt;’ Where is it Played’, [http://www.underwaterfootball.com/where_is_it_played.html], retrieved 02/09/2012.&lt;/ref&gt;
+
+== Origins ==
+Underwater football was developed in the 1960s by a [[Scuba diving|scuba]] instructor who was teaching in the [[University of Manitoba]]'s Frank Kennedy Centre. The game developed from a &quot;keep-away&quot; training exercise that used a pool brick to develop the students [[snorkelling]] skills. It is still played there today.
+
+== Rules ==
+Several ball types have been used throughout the game's history. These include a 10-[[pound (weight)|pound]] pool brick, a junior sized [[National Football League|NFL]]-style [[football (ball)#American and Canadian football|football]], and a junior sized basketball, all with negative buoyancy. [[Pneumatic]] balls (such as the football or basketball) can be made negatively buoyant by filling them with a liquid that is denser (heavier) than water instead of air, e.g. a strong saline solution or corn syrup.
+
+The sport is similar to [[water polo]], but it is played most of the time underwater. Each player can go up to the surface to take air as many times needed, except when he has the football in his hand.
+
+Like the traditional football, one players from each team manoeuvre the ball past their opponents to get to the ball to goal. Each team has 13 players, but only five players are on the court at one time. The player with the ball can swim with it or pass the ball to his team players. Meanwhile, the opponents will try to take the ball from the other player or intercept a pass.And at last the team which has the maximum scores will win.
+
+The court is 10 [[metre]]s deep (32 [[foot (measurement)|ft]]), 15 metres long (49.2&amp;nbsp;ft), and 4 metres deep (13&amp;nbsp;ft).
+
+A match has two 20-minute rounds, and a [[half-time]] of 5 minutes.
+
+== Governing body ==
+The [[Sport governing body|governing body]] is the Manitoba Underwater Council (MUC).  The MUC also supports competition by providing insurance required for the hire of swimming pools as well as sponsoring the cost of hire.&lt;ref&gt;{{cite web|title=UNDERWATER FOOTBALL  RULES AND REGULATIONS|url=http://www.underwaterfootball.com/the_official_rules.html|publisher=Sean Ennis|accessdate=2 April 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=About the Manitoba Underwater Council|url=http://www.manunderwater.com/about.html|publisher=Manitoba Underwater Council|accessdate=13 December 2013}}&lt;/ref&gt;
+
+== See also ==
+{{Portal|Underwater diving}}
+
+==References==
+
+{{Reflist}}
+
+== External links ==
+* [http://www.underwaterfootball.com/main.html Underwater football site]
+* [http://www.youtube.com/watch?v=dEXnZnG5JJY Underwater football video]
+* [http://cc.ysu.edu/jambar/sportsbeat.htm Underwater football: the sport of the future]
+{{Underwater sports}}
+{{Freediving}}
+{{Team Sport}}
+
+[[Category:Underwater diving]]
+[[Category:Underwater sports]]
+[[Category:Free-diving]]
+[[Category:Team sports]]
+[[Category:Sports originating in Canada]]
+[[Category:Sports originating in Manitoba]]
+[[Category:Football]]</text>
+      <sha1>k9w3yookdavp5o8simfqzudn13idlpw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Football teams</title>
+    <ns>14</ns>
+    <id>1464052</id>
+    <revision>
+      <id>437139789</id>
+      <parentid>422946416</parentid>
+      <timestamp>2011-06-30T23:56:51Z</timestamp>
+      <contributor>
+        <username>Merube 89</username>
+        <id>7751575</id>
+      </contributor>
+      <comment>wrong interwiki -</comment>
+      <text xml:space="preserve" bytes="2829">The word '''football''' (''[[foot]]+[[ball]]'') may refer to several sports. For a general history of these games, see [[Football]]. For a list of different forms of football see [[List of types of football|here]].
+{{-}}
+{{Commons cat|Football teams}}
+
+[[Category:Football|Teams]]
+[[Category:Sports teams by sport]]
+
+[[ar:تصنيف:منتخبات كرة قدم]]
+[[an:Categoría:Seleccions de fútbol]]
+[[frp:Catègorie:Sèlèccions nacionâles de calço]]
+[[az:Kateqoriya:Futbol üzrə Milli Komandalar]]
+[[be-x-old:Катэгорыя:Нацыянальныя каманды па футболе]]
+[[bs:Kategorija:Nogometne reprezentacije]]
+[[bg:Категория:Национални отбори по футбол]]
+[[ca:Categoria:Seleccions de futbol]]
+[[cs:Kategorie:Fotbalové reprezentace]]
+[[da:Kategori:Fodboldlandshold]]
+[[de:Kategorie:Fußballnationalmannschaft]]
+[[et:Kategooria:Jalgpallikoondised]]
+[[el:Κατηγορία:Εθνικές ομάδες ποδοσφαίρου ανδρών]]
+[[es:Categoría:Selecciones de fútbol]]
+[[eo:Kategorio:Naciaj teamoj de futbalo]]
+[[eu:Kategoria:Futbol selekzio nazionalak]]
+[[fa:رده:تیم‌های ملی فوتبال]]
+[[fr:Catégorie:Équipe nationale de football]]
+[[ko:분류:축구 국가대표팀]]
+[[hy:Կատեգորիա:Ֆուտբոլի ազգային հավաքականներ]]
+[[hr:Kategorija:Nogometne reprezentacije]]
+[[it:Categoria:Nazionali di calcio]]
+[[he:קטגוריה:נבחרות כדורגל]]
+[[ka:კატეგორია:ეროვნული საფეხბურთო ნაკრებები]]
+[[lt:Kategorija:Nacionalinės futbolo rinktinės]]
+[[hu:Kategória:Labdarúgó-válogatottak]]
+[[mk:Категорија:Национални фудбалски тимови]]
+[[mt:Kategorija:Timijiet nazzjonali tal-futbol]]
+[[ms:Kategori:Pasukan bola sepak kebangsaan]]
+[[mn:Ангилал:Хөлбөмбөгийн үндэсний шигшээ багууд]]
+[[nl:Categorie:Nationaal voetbalelftal]]
+[[ja:カテゴリ:サッカーのナショナルチーム]]
+[[no:Kategori:Landslag i fotball]]
+[[oc:Categoria:Equipa nacionala de fotbòl]]
+[[pl:Kategoria:Piłkarskie reprezentacje narodowe]]
+[[pt:Categoria:Seleções nacionais de futebol]]
+[[ro:Categorie:Echipe naţionale de fotbal]]
+[[ru:Категория:Футбольные сборные]]
+[[simple:Category:National football teams]]
+[[sk:Kategória:Národné futbalové mužstvá]]
+[[sl:Kategorija:Nogometne reprezentance]]
+[[sr:Категорија:Фудбалске репрезентације]]
+[[fi:Luokka:Jalkapallomaajoukkueet]]
+[[sv:Kategori:Fotbollslandslag]]
+[[th:หมวดหมู่:ฟุตบอลทีมชาติ]]
+[[uk:Категорія:Футбольні збірні]]
+[[zh-yue:Category:國家足球代表隊]]
+[[zh:Category:国家足球队]]</text>
+      <sha1>82j338ubwrtrlnxs7e48x4d2pgya4xp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>List of types of football</title>
+    <ns>0</ns>
+    <id>1635836</id>
+    <revision>
+      <id>569789347</id>
+      <parentid>543981234</parentid>
+      <timestamp>2013-08-22T23:04:34Z</timestamp>
+      <contributor>
+        <username>DavidLeighEllis</username>
+        <id>18632153</id>
+      </contributor>
+      <comment>spelling correction</comment>
+      <text xml:space="preserve" bytes="5018">{{Orphan|date=October 2008}}
+
+==Games descended from [[The Football Association]] rules==
+* [[Football (soccer)|Association football]], also known as ''football'', ''soccer'', ''footy'' and ''footie''.
+* Indoor varieties of Association football:
+** [[Five-a-side football]] - played throughout the world under various rules including:
+*** [[Futsal]] &amp;mdash; the [[FIFA]]-approved Five-a-side indoor game
+** [[Indoor soccer]] &amp;mdash; the six-a-side indoor game as played in [[North America]]
+* [[Paralympic Football]] &amp;mdash; modified association football for disabled competitors.
+* [[Beach soccer]] &amp;mdash; football played on sand, also known as sand soccer
+* [[Street football]] - encompasses a number of informal varieties of football.
+* [[Rush goalie]] is a variation of football in which the role of the goalkeeper is more flexible than normal.
+* [[Cubbies]] is a game originating on Merseyside played in Britain and parts of Sweden.
+* [[Keepie uppie]] is the art of juggling with a football using feet, knees, chest, shoulders, and head.
+** [[Footbag]] is a small bean bag or sand bag used as a ball in a number of keepie uppie variations such as hacky sack.
+* [[Freestyle Football]] a modern take on Keepie uppie where freestylers are graded for their entertainment value and expression of skill.
+
+==Games descended from [[Rugby School]] rules==
+* [[Rugby football]] - game which split into [[rugby union]] and [[rugby league]]
+** [[Rugby league]]
+*** [[Rugby league sevens]]
+*** [[Rugby league nines]]
+*** [[Touch Rugby]] a.k.a. '''Touch Football''' &amp;mdash; a form of rugby without tackles.
+**** [[Federation of International Touch (rugby)|Federation of International Touch]] codified version of Touch Rugby
+**** [[Tag Rugby]] a form of '''Touch Rugby''' but a velcro tag must be taken to indicate a tackle.
+***** [[Tag Rugby#OzTag|OzTag]] &amp;mdash; a form of rugby league replacing tackles with tags.
+*** [[Wheelchair rugby league]]
+** [[Rugby union]]
+*** [[Rugby Sevens]]
+** [[Beach Rugby]] &amp;mdash; Rugby played on sand.
+** [[Wheelchair Rugby]]
+*** [[Wheelchair Rugby#Quad Rugby|Quad Rugby]]
+
+* [[American football]] &amp;mdash; called &quot;football&quot; in the United States, and &quot;'''gridiron'''&quot; or &quot;gridiron football&quot; in Australia
+** [[Arena football]] &amp;mdash; an indoor version of American football
+** [[Touch football (American)]] &amp;mdash; non-tackle American football.
+*** [[Flag football]] &amp;mdash; non-tackle American football, like '''touch football''' but a token must be taken to indicate a tackle.
+
+* [[Canadian football]] &amp;mdash; called simply &quot;football&quot; in Canada.
+** [[Canadian flag football]] &amp;mdash; non-tackle Canadian football.
+
+==Other surviving English [[Public school (UK)|public school]] games==
+*[[Eton Field Game]]
+*[[Eton Wall Game]]
+*[[Harrow Football]]
+*[[Winchester College Football]]
+
+==[[Ireland|Irish]] and [[Australia]]n varieties of football==
+* [[Gaelic football]](called football by this sporting community)
+* [[Australian rules football]] (called football in the south and west of Australia and also in Victoria)
+* [[International Rules]] &amp;mdash; a compromise code used for games between Gaelic and Australian Rules players.
+* [[Auskick]] &amp;mdash; a version of Australian Rules designed for young children
+* [[Austus]] &amp;mdash; a compromise between Australian Rules and American football, invented in Melbourne during [[World War II]].
+
+==Surviving Medieval ball games==
+* ''Traditional [[Shrove Tuesday]] matches in the [[United Kingdom]] -- annual town- or village-wide football games with their own rules:''
+** [[Alnwick]] in [[Northumberland]]
+** [[Ashbourne, Derbyshire|Ashbourne]] in [[Derbyshire]] (known as [[Royal Shrovetide Football]])
+** [[Atherstone]] in [[Warwickshire]]
+** [[Corfe Castle, Dorset|Corfe Castle]] in [[Dorset]] [[The Shrove Tuesday Football Ceremony of the Purbeck Marblers]]
+** [[Haxey]] in [[North Lincolnshire]] (the [[Haxey Hood]], actually played on [[Epiphany (feast)|Epiphany]])
+** [[Hurling the Silver Ball]] takes place at [[St Columb Major]] in [[Cornwall]]
+** [[Sedgefield]] in [[County Durham]]
+** In [[Scotland]] the [[Ba game]] is still popular around Christmas and [[Hogmanay]] at:
+*** [[Duns]] in [[Berwickshire]]
+*** [[Scone, Scotland|Scone]] in  [[Perthshire]]
+*** [[Kirkwall]] in [[Orkney]]
+*Outside the UK other medieval games include:
+** [[Calcio Fiorentino]] &amp;mdash; a modern revival of Renaissance football from 16th century [[Florence]].
+**[[La Soule]] in [[Normandy]] and [[Brittany]]
+
+==More recent inventions and derivations==
+* [[Cubbies]]
+* [[Three sided football]]
+
+==Tabletop games and other recreations==
+* Based on FA rules
+** [[Subbuteo]]
+** [[Blow football]]
+** [[Foosball]] (also known as table football/soccer, babyfoot, bar football or gettone)
+** [[Penny football]] (also known as coin football)
+* Based on rugby
+** [[Penny rugby]]
+* Based on American Football
+** [[Blood Bowl]]
+** [[Paper football]]
+
+{{DEFAULTSORT:List Of Types Of Football}}
+[[Category:Football|Types]]
+[[Category:Lists of game variants|Football types]]</text>
+      <sha1>i5rt9comvzsi6nnpigbr4i5s1dg9xe0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Rugby football</title>
+    <ns>14</ns>
+    <id>15878505</id>
+    <revision>
+      <id>545159559</id>
+      <parentid>525994045</parentid>
+      <timestamp>2013-03-18T05:48:42Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Migrating 57 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7145924]]</comment>
+      <text xml:space="preserve" bytes="970">{{Commons cat|Rugby}}
+&lt;div class=&quot;infobox sisterproject&quot;&gt;
+&lt;div style=&quot;float: left;&quot;&gt;[[Image:Wiktionary-logo-en.svg|50px|none|Wiktionary|]]&lt;/div&gt;
+&lt;div style=&quot;margin-left: 60px;&quot;&gt;For a list of words to do with Rugby, see the [[wiktionary:Category:Rugby|'''''rugby''''' category of words]] in [[Wiktionary]], the free dictionary&lt;/div&gt;
+&lt;/div&gt;
+[[Rugby football]], as a catch-all term, may refer to two related but separate sports: [[rugby league]] and [[rugby union]] as well as several other sports derived from them.
+
+This category is for articles about rugby football prior to the 1895 schism that split the sport into the modern games of rugby union and rugby league and for articles about sports that derive from first laws of rugby drawn up in 1871.
+
+See also sub categories [[:Category:Rugby union]] and [[:Category:Rugby league]] which hold articles on those sports.
+
+[[Category:Football]]
+[[Category:Team sports]]
+[[Category:Ball games]]
+[[Category:Athletic sports]]</text>
+      <sha1>qt8z7cr6oaq2gv19s85klhpcieu521d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Cavalry charge (football)</title>
+    <ns>0</ns>
+    <id>4178105</id>
+    <revision>
+      <id>413266372</id>
+      <parentid>413264460</parentid>
+      <timestamp>2011-02-11T08:33:57Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Unref}}</comment>
+      <text xml:space="preserve" bytes="393">{{unref|date=February 2011}}
+
+In some forms of [[football]], a '''cavalry charge''' is a (now forbidden) tactic where, as one player runs forwards with the ball, his team-mates charge in rank forwards behind him: see [http://www.irblaws.com/downloads/EN/law_10_en.pdf Section 10.4(o) of the Laws of Rugby Union].
+
+[[Category:Football]]
+[[Category:Rugby union terminology]]
+
+{{rugbyunion-stub}}</text>
+      <sha1>ofsvwn957cbyhjzs74m0kogzrh2s5x9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Gridiron football</title>
+    <ns>14</ns>
+    <id>23833924</id>
+    <revision>
+      <id>545688660</id>
+      <parentid>517685135</parentid>
+      <timestamp>2013-03-20T14:03:40Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7246207]]</comment>
+      <text xml:space="preserve" bytes="78">{{Cat main|Gridiron football}}
+
+[[Category:Football]]
+[[Category:Team sports]]</text>
+      <sha1>1y43yuexkukzmq3q4jf63b3disz19e0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Football codes</title>
+    <ns>14</ns>
+    <id>27631491</id>
+    <revision>
+      <id>366551037</id>
+      <timestamp>2010-06-07T12:41:01Z</timestamp>
+      <contributor>
+        <username>Djln</username>
+        <id>547792</id>
+      </contributor>
+      <minor/>
+      <comment>Adding category [[:Category:Football]] (Redirect [[:Category:Football]] resolved) (using [[WP:HOTCAT|HotCat]])</comment>
+      <text xml:space="preserve" bytes="22">
+[[Category:Football]]</text>
+      <sha1>jgcogs54vn0k7ob0ee1qhykbkrllgdf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Football boot</title>
+    <ns>0</ns>
+    <id>2055457</id>
+    <revision>
+      <id>599292370</id>
+      <parentid>599286632</parentid>
+      <timestamp>2014-03-12T14:44:37Z</timestamp>
+      <contributor>
+        <username>Epicgenius</username>
+        <id>17859592</id>
+      </contributor>
+      <comment>Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Koorabazar|Koorabazar]] using [[WP:STiki|STiki]] ([[user:Epicgenius/Terms and Conditions|Mistake?]] [[user talk:Epicgenius|Tell me.]])</comment>
+      <text xml:space="preserve" bytes="12753">{{Lead too short|date=December 2008}}
+[[File:Nikalankavoetbalschoen.jpg|thumb]]
+'''Football boots''', called '''cleats''' or '''soccer shoes''' in North America, are an item of [[footwear]] worn when playing [[association football|football]]. Those designed for [[grass]] [[Association football pitch|pitches]] have [[cleat (shoe)|studs]] on the outsole to aid [[Traction (engineering)|grip]]. From simple and humble beginnings football boots have come a long way and today find themselves subject to much research, development, sponsorship and marketing at the heart of a multi-national global industry. Modern &quot;boots&quot; are not truly [[boot]]s in that they do not cover the ankle.
+
+== Timeline ==
+{{Unreferenced section|date=April 2012}}
+1800s: During the 19th century football became extremely popular in Britain. People who played would wear their heavy and hard work boots to play. These were the first ever boots with the steel toe cap at the front, long laces and ankle support. These boots also had metal studs or tacks put in the sole the bottom so the players would have more stability on the pitch. In the later part of the 19th century the first ever football-specific boot was designed, made of thick and heavy leather which ran right to the ankle for increased protection, the first boot weighed 500g and would double in weight when it was wet.&lt;ref&gt;{{cite web |url=http://www.footy-boots.com/football-boots-history/|title=Launched: FOOTBALL BOOTS – THE HISTORY
+|accessdate=2012-11-23 |publisher=Footy-Boots.com}}&lt;/ref&gt;
+
+1900-1940: Between 1900-1940 football boots style stayed very basic. They remained so during the inter-war years, despite many famous football boot producers, such as [[Gola (manufacturer)|Gola]], [[Hummel International|Hummel]] and [[Valsport]] becoming evermore popular.
+
+1940-1960: After the Second World War, the designs of the football boot changed dramatically and really started to make an impact on the game. The South Americans designed a lighter and more flexible boot. This design was focused on increasing good control and better kicking power rather than a more protective boot. In 1954 [[Adolf Dassler|Adi Dassler]] introduced screw-in studs which gave the [[Germany national football team|Mannschaft]] a tangible advantage during a rain-lashed [[FIFA World Cup|World Cup]] that year. That Adolf was the first to come up with screw-in studs is disputed by his older brother, [[Rudolf Dassler]], founder of [[Puma AG|Puma]].
+
+1960s: In the 1960s football boot technology really took a huge step, which saw many football boots designed with a lower cut. These enabled the best players in Europe and South America to move faster and change direction quicker. [[Mitre Sports International|Mitre]], [[Joma]] and [[Asics]] joined the fray.
+
+1970s: The 1970s and the 1980s saw many great advances and changes in the football boot design. The 1970s saw technological advances produce lighter boots and a variety of colours. In this decade, football boot sponsorship deals really took off. Adidas made huge strides out in front as the market leader. At the end of the decade, in 1979, it cemented its status by releasing what has gone on to become the best selling boot of all time; the iconic and timeless [[Adidas Copa Mundial|Copa Mundial]]. During this time period, some of the most common types of natural leather came into production: kangaroo leather, calfskin and full-grain/cow leather.&lt;ref&gt;[http://www.soccer.com/guide/leather-vs-leather/ Soccer Boot], [http://soccer.com/ Soccer], 2013-10-14. Retrieved: 2013-10-14.&lt;/ref&gt;
+
+1980s: Arguably the most popular and dominant boot of the past two decades, the [[Adidas Predator]], was designed by Australian maverick [[Craig Johnston]]. [[Umbro]], [[Lotto Sport Italia|Lotto]] and [[Kelme (company)|Kelme]] got in on the act in this decade.
+
+1990-2000s: In the 1990s this saw manufacturers introduce new different types of sole to increase the balance of the player. The Predators saw their eventual release in 1994 and enjoyed instant success. In the first decade of the 21st century laser technology was introduced to produce the first fully customised football boot in 2006.&lt;ref&gt;{{cite web |url=http://www.footy-boots.com/football-boots-launched-the-first-bespoke-boot/|title=Launched: First Bespoke football boot|accessdate=2011-03-16 |publisher=Footy-Boots.com}}&lt;/ref&gt;
+
+2010s: In the era of the modern game that sees the tempo of matches becoming faster and players more technically inclined, manufacturers introduce new advances in technology including lighter footwear made from alternative materials.
+
+==Different styles for different sports==
+[[File:Cleats.jpg|thumb]]
+Depending on the type of surface, kind of sport and even the wearer's position or role in the game, different cuts of boot and particularly stud arrangements are available.&lt;ref&gt;[http://www.soccer.com/guide/soccer-shoe-guide/ Soccer Shoe Guide], [http://soccer.com/ Soccer], 2013-10-14. Retrieved: 2013-10-14.&lt;/ref&gt; For hard pitches, amateur participants may wear a [[Sneaker (footwear)|sneaker]] shoe or a plastic-stud boot (known as a &quot;moulded [[sole (shoe)|sole]]&quot;); in most sports and positions this is adequate, although on a well-grassed or sodden field, screw-in studs are recommended for more grip; these may be metal, rubber or plastic. When playing on this kind of pitch, some players favor using a boot with screw-in studs in their non-dominant (supporting) foot to provide grip, and a boot with short rubber or plastic studs in the dominant (kicking/passing) foot to provide accuracy. Presently, boot designs are based on the &quot;criteria&quot; of speed, power, touch or control with some boots offering a combination of these. However, these specifications matter little on the player's actual playing ability and are actually a marketing strategy.
+
+For indoor football, indoor cleats are used. These come with rubber soles, meant to maximize grip on the floor. Some are built on the design of firm-ground football boots, and some are specifically designed for the indoor game. For football on [[Artificial turf|turf]] or artificial grass, some players wear regular firm ground football boots. But wearing regular football boots on turf greatly reduces the life of the boot, so companies such as [[Nike, Inc.|Nike]] have developed football boots for artificial grass (AG).
+
+For [[rugby union]], the screw-in stud is preferred, especially in the [[rugby union positions|positions]] of prop, hooker, and lock, where more grip is required for contested scrums. These screw-in studs have to be of a maximum length of 21mm. These boots are often heavier than appropriate for other types of football. One of the more obvious differences between football and rugby boots is the formation of the studs. Also, some rugby boots tend to have a high cut around the ankles but this is something we tend to see less and less of, especially at elite level. There are several types of rugby boot, meant for players in different positions.
+
+Screw-in studs have been banned in some [[Australian rules football]] leagues since the 1990s due to the frequency of severe injuries to players as a result of contact with the metal. In football, referees must now check all boots prior to kick off to check for damage to studs, to prevent injury. Before this time, preference between the screw-in stud was based primarily on weather conditions.
+
+More recently, moulded soles with specially designed boots known as ''blades'' have moulded soles facing in multiple directions, theoretically to maximise grip and minimise ankle injury. Recently, however, &quot;bladed&quot; football boots have faced criticism from some UK sporting bodies for causing potentially serious injuries to players. English football club [[Manchester United F.C.|Manchester United]] have even banned its players from wearing boots with bladed studs after players like Wayne Rooney and David Beckham suffered repeated [[metatarsal]] injuries.&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/sport1/hi/football/teams/m/man_utd/4277722.stm | work=BBC News | title=Ferguson wants bladed boots ban | date=2005-09-24 | accessdate=2010-05-02}}&lt;/ref&gt;
+
+==Football markets and brands {{anchor|football boot}}==
+[[File:DembaBa.jpg|thumb|left|90px|Footballer [[Demba Ba]] wearing orange boots]]
+[[File:Nike Zoom Air Football Boots.jpg|thumb|A pair of [[Nike, Inc.|Nike]] Zoom Air Football Boots]]
+Originally, football boots ('''soccer shoes''', or more commonly soccer cleats, in [[United States English|U.S. English]]&lt;ref&gt;
+{{cite web|url=http://visual.merriam-webster.com/sports-games/ball-sports/soccer/soccer-player.php |title=soccer player |work=Visual Dictionary Online |publisher=[[Merriam-Webster]] |accessdate=2009-04-28}}
+&lt;/ref&gt;) were available only in [[black]], but in more recent years have become available in various [[colour]]s such as blue, green, red, white, yellow, silver, gold and even pink. Big name companies such as [[Nike, Inc.|Nike]], [[Adidas]], [[Umbro]] and the like have made an impact on the market with record sales. Nike's flagship shoe is the ''Mercurial Vapors'' worn by [[Cristiano Ronaldo]], with other versions such as ''Total 90'' football boot worn by [[Wayne Rooney]]. German company Adidas are responsible for the [[Adidas Predator|Predator]] range worn by [[David Beckham]], [[Gary Neville]], and [[Steven Gerrard]], as well as the long-surviving [[Adidas Copa Mundial|Copa Mundial]]. The entire [[German national football team|German national side]] wore Adidas boots during the [[2006 FIFA World Cup]]. English firm [[Umbro]] produce the ''Speciali'' boot endorsed by [[John Terry]] and [[Michael Owen]].&lt;ref&gt;[http://soccerlens.com/shirts/nike-vs-adidas-buying-football-shoes-in-2010/6410/ Nike vs Adidas - Battle of the Boots], [http://soccerlens.com/ Soccerlens], 2010-05-24. Retrieved: 2010-07-02.&lt;/ref&gt; Sunderland defender [[John O'Shea]] wears the [[Concave football boot]] - it is a company that claims to manufacture the safest football boot out of the current lot.&lt;ref&gt;[http://soccerlens.com/shirts/concave-pt-metatarsal-injuries/6456/ Concave PT Metatarsal Injuries], [http://soccerlens.com/ Soccerlens] 2010-05-29. Retrieved: 2010-07-02.&lt;/ref&gt;
+
+In recent times, the most successful companies are Nike and adidas,&lt;ref&gt;[http://www.soccer.com/guide/soccer-shoe-guide/ Soccer Shoe Guide], [http://soccer.com/ Soccer], 2013-10-14. Retrieved: 2013-10-14.&lt;/ref&gt; and their products enjoy great popularity among professional footballers; among Nike's endorsers are two-time [[FIFA World Player of the Year]] [[Ronaldinho]], aforementioned duo Wayne Rooney and Cristiano Ronaldo, striker [[Ronaldo]], [[Wesley Sneijder]], [[Zlatan Ibrahimović]], and other popular players. Adidas, which has been providing football boots with screw-in studs to the German national side since the [[1954 FIFA World Cup]], have made their impact on the modern market by signing big name players as endorsers: players such as [[David Beckham]], former [[French national football team|France]] captain [[Zinedine Zidane]], [[Frank Lampard]], four-time world player of the year [[Lionel Messi]], [[David Villa]], [[Steven Gerrard]] and other successful players. Adidas sells with an image of technology and class in their boots which is key to their success. Both Chelsea and Manchester United had enjoyed long kit manufacturing deals with Umbro,{{Citation needed|date=April 2011}} but both teams signed recent{{When|date=April 2011}} deals with Adidas and Nike respectively.{{Citation needed|date=April 2011}}
+
+==Customisation==
+{{Advert|section|date=June 2013}}
+Many players now use personalisation around the world to improve the look of their boots and to make them easily identifiable in the club dressing room. It is now very common to have your football boots fully personalised with either your name, initials, number or club logo.
+In the past the standard way for football boots to be identified has always been the black permanent marker pen, ugly and not very professional. Many retailers offer various options and colours to personalise football boots by using the very latest embroidery machinery.
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{cite book |last1=McArthur |first1=Ian |last2=Kemp |first2=Dave |title=Elegance Borne of Brutality: An eclectic history of the football boot |year=1995 |publisher=Two Heads Publishing |location=London |isbn=1-897850-76-X}}
+
+==External links==
+
+{{footwear}}
+* [http://www.brightstarbranding.com BrightStar Branding - Football boot customisation] {{football boot customisation}}
+
+{{DEFAULTSORT:Football Boot}}
+[[Category:Association football equipment]]
+[[Category:Rugby league equipment]]
+[[Category:Rugby union equipment]]
+[[Category:Football]]
+[[Category:Sports footwear]]</text>
+      <sha1>4pz3c0qwri2u46rkkro9nlxsyc25ajb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Football (word)</title>
+    <ns>0</ns>
+    <id>2186657</id>
+    <revision>
+      <id>596003515</id>
+      <parentid>596003498</parentid>
+      <timestamp>2014-02-18T09:24:30Z</timestamp>
+      <contributor>
+        <username>Lucyloo10</username>
+        <id>20617971</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 3 edits by [[Special:Contributions/87.48.120.111|87.48.120.111]] ([[User talk:87.48.120.111|talk]]) to last revision by Grover cleveland. ([[WP:TW|TW]])</comment>
+      <text xml:space="preserve" bytes="27615">{{About|the word|the various sports|Football|the balls used in these sports|Football (ball)}}
+{{Wiktionary|football}}
+
+The [[English language]] word '''football''' may mean any one of several [[team sport]]s (or the [[football (ball)|ball]] used in that respective sport), depending on the national or regional origin and location of the person using the word. 
+
+Where [[List of countries by English-speaking population|English is a first language]] the unqualified use of the word ''football'' is used to refer to the most popular code of [[football]] in that region. The sports most frequently referred to as simply ''football'' are [[association football]], [[American football]], [[Australian rules football]], [[Canadian football]], [[Gaelic football]], [[rugby league|rugby league football]] and [[rugby union|rugby union football]].
+
+Of the 45 ''national'' [[FIFA]] (Fédération Internationale de Football Association) affiliates in which English is an official or primary language, 43 use ''football'' in their organisations' official names (only [[Canadian Soccer Association|Canada]] and the [[United States Soccer Federation|United States]] use ''soccer''). ''Soccer'' has been the prevailing term for association football in the US, Canada, [[Australia]], and [[New Zealand]], where other codes of ''football'' are dominant. In 2005, Australia's association football governing body changed its name from ''soccer'' to ''football'' to align with the general international usage of the term.&lt;ref name=AFP&gt;[http://www.smh.com.au/news/Soccer/Soccer-to-become-football-in-Australia/2004/12/16/1102787198357.html?from=moreStories Soccer to become football in Australia] (SMH.com.au. December 17, 2004) &quot;ASA chairman Frank Lowy said the symbolic move would bring Australia into line with the vast majority of other countries which call the sport football&quot;.&lt;/ref&gt; In 2006, New Zealand decided to follow suit, stating that &quot;the international game is called football&quot;.&lt;ref&gt;[http://www.nzsoccer.com/plugins/newsfeed.cgi?rm=content&amp;plugin_data_id=12155 NZ Football - The Local Name Of The Global Game] (NZFootball.co.nz. April 27, 2006) &quot;The international game is called football and were part of the international game so the game in New Zealand should be called football&quot;.&lt;/ref&gt; 
+
+There are also many other languages where the common term for association football is phonetically similar to the English term ''football''. (See the [[Names for association football]] article.)
+[[File:Football4.png|right|thumb|225px|Some of the many different codes of football.]]
+
+==Etymology==
+
+An early reference to a ball game that was probably football comes from 1280 at [[Ulgham]], [[Northumberland]], England:  &quot;Henry... while playing at ball.. ran against David&quot;.&lt;ref name=Magoun&gt;Francis Peabody Magoun, 1929, &quot;Football in Medieval England and Middle-English literature&quot; (''The American Historical Review'', v. 35, No. 1).&lt;/ref&gt;  Football was played in Ireland in 1308, with a documented reference to John McCrocan, a spectator at a &quot;football game&quot; at [[Newcastle, County Down]] being charged with accidentally stabbing a player named William Bernard.&lt;ref&gt;[http://archive.is/20120729154246/http://www.carlow-nationalist.ie/tabId/392/itemId/2418/Irish-inventions-fact-and-fiction.aspx Irish inventions: fact and fiction&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  Another reference to a football game comes in 1321 at [[Shouldham]], [[Norfolk]], England: &quot;[d]uring the game at ball as he kicked the ball, a lay friend of his... ran against him and wounded himself&quot;.&lt;ref name=&quot;Magoun&quot;/&gt;
+
+[[File:Football gravure 1750.jpg|thumb|France circa 1750]]
+
+In 1363, King [[Edward III of England]] issued a proclamation banning &quot;...handball, football, or hockey; coursing and cock-fighting, or other such idle games&quot;,&lt;ref&gt;Derek Baker (England in the Later Middle Ages). 1995. Boydell &amp; Brewer. p. 187. ISBN 978-0-85115-648-4&lt;/ref&gt; showing that &quot;football&quot; was being differentiated from games as they involved other parts of the body, such as handball, not simply because it was played on foot.
+
+The [[Oxford English Dictionary]] (OED) records that the first written use of the word football used to describe a game was in 1424 in an Act forbidding it. The first written use of the word football to describe the ball was 1486, and that the first use as a verb (hence footballing) was in 1599. Although the OED just indicates it is a [[English compound#Compound nouns|compound]] of ''foot'' and ''ball'', the 1486 definition indicates that a ball was of the essence of the game.
+
+Although the accepted etymology of the word football, or &quot;foot ball&quot;, originated in reference to the action of a foot kicking a ball, this may be a [[false etymology]]. An alternative, controversial, explanation has it that the word originally referred to a variety of games in [[medieval Europe]], which were played ''on foot''.&lt;ref&gt;
+(a.) [http://www.icons.org.uk/theicons/collection/fa-cup/biography/history-of-football  ICONS Online (commissioned by the UK Department for Culture, Media and Sport; no date) &quot;History of Football&quot;];
+(b.) Bill Murray (sports historian), quoted by [http://www.abc.net.au/rn/talks/8.30/sportsf/stories/s566884.htm ''The Sports Factor'', 2002, &quot;Tie Me Kangaroo Down, Sport&quot;] (Radio National, Australian Broadcasting Corporation, May 31, 2002) and [http://www.spiegel.de/international/0,1518,420024,00.html Michael Scott Moore, &quot;Naming the Beautiful Game: It's Called Soccer&quot;] (''Der Spiegel'', June 7, 2006);
+(c.) [http://www.footballresearch.com/articles/frpage.cfm?topic=a-to1633 Professional Football Researchers Association (U.S.A.), (no date) &quot;A Freendly Kinde of Fight: The Origins of Football to 1633&quot;]. Access date for all references: February 11, 2007.
+&lt;/ref&gt;  These sports were usually played by [[peasant]]s, as opposed to the [[Equestrianism|horse-riding]] sports more often enjoyed by [[Aristocracy (class)|aristocrat]]s. In some cases, the word has been applied to games which involved carrying a ball and specifically banned kicking. For example, the [[England|English]] writer [[William Hone]], writing in 1825 or 1826, quotes the social commentator Sir [[Frederick Morton Eden]], regarding a game — which ''Hone'' refers to as &quot;Foot-Ball&quot; — played in the parish of [[Scone, Scotland|Scone, Perthshire]]:
+&lt;blockquote&gt;The game was this: he who at any time got the ball into his hands, run [sic] with it till overtaken by one of the opposite part; and then, if he could shake himself loose from those on the opposite side who seized him, he run on; if not, he threw the ball from him, unless it was wrested from him by the other party, ''but no person was allowed to kick it.''&lt;ref&gt;
+[http://www.uab.edu/english/hone/etexts/edb/day-pages/046-february15.html William Hone, 1825-26, ''The Every-Day Book'', &quot;February 15.&quot;] Access date: March 15, 2007.
+&lt;/ref&gt; [Emphasis added.]&lt;/blockquote&gt;
+
+The word &quot;soccer&quot; originated as an [[Oxford &quot;-er&quot;|Oxford &quot;-er&quot; slang]] abbreviation of &quot;association&quot;, and is credited to late nineteenth century English footballer, [[Charles Wreford-Brown]].&lt;ref&gt;{{cite book|title=Handbook of sports medicine and science. Football (soccer)
+|first=Björn |last=Ekblom|year=1994|publisher=Wiley-Blackwell|isbn=063203328 |page=[http://books.google.com/books?id=IA4DIgY_cqoC&amp;lpg=PP1&amp;pg=PA1#v=onepage&amp;q&amp;f=false 1]}} Ekblom mentions that while he was up at Oxford, [[Charles Wreford-Brown]] was asked at breakfast if he was playing rugger &quot;No&quot; he replied &quot;I'm playing soccer&quot; (Granville, 1969, p. 29). But Ekblom opinions that like the [[William Webb Ellis]] rugby story it is most likely apocryphal.&lt;/ref&gt; However, like the [[William Webb Ellis]] rugby story, it is believed to be most likely apocryphal.&lt;ref&gt;{{cite book|last=Ekblom|title=Handbook of sports medicine and science. Football (soccer)|isbn=063203328|pages=1|url=http://books.google.co.uk/books?id=IA4DIgY_cqoC&amp;lpg=PP1&amp;pg=PA1&amp;redir_esc=y#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt; There is also the sometimes-heard variation, &quot;soccer football&quot;.&lt;ref&gt;{{cite book |first=William Joseph |last=Baker |year=1988 |title=Sports in the Western world |edition=revised, illustrated, reprint |publisher=University of Illinois Press |isbn=0-252-06042-3 |page=[http://books.google.com/books?id=rkuAiv3LoR4C&amp;lpg=PA135&amp;dq=%22soccer%20Football%22&amp;pg=PA119#v=onepage&amp;q=%22soccer%20Football%22&amp;f=false 119]}}&lt;/ref&gt;
+
+==National usage==
+
+===Australia===
+{{see|Football in Australia|Barassi Line}}
+Within [[Australia]] the term &quot;football&quot; is ambiguous and can mean up to four different codes of football in [[Australian English]], depending on the context, geographical location and cultural factors; this includes [[Australian rules football]], [[rugby league]], [[association football]] and [[rugby union]].&lt;ref name=&quot;four&quot;&gt;
+{{cite news|url=http://www.cultureandrecreation.gov.au/articles/football/|publisher=CultureandCreation.gov.au|title=Football in Australia|date=8 January 2008}}
+&lt;/ref&gt; The most common usage of the word among the people is between the former two. In the states of [[Victoria (Australia)|Victoria]], [[Western Australia]], [[South Australia]] and  [[Tasmania]] ''football'' commonly means the Australian rules football variant with their league the [[Australian Football League]],&lt;ref&gt;
+{{cite news|url=http://www.afl.com.au/Season2007/Statistics/History/tabid/967/Default.aspx|publisher=AFL.com.au|title=AFL History|date=8 January 2008}}
+&lt;/ref&gt; the slang term ''footy'' is also used in an unofficial context,&lt;ref&gt;
+{{cite news|url=http://www.afana.com/drupal5/node/32|publisher=AFANA.com|title=Footy FAQ|date=8 January 2008}}
+&lt;/ref&gt; while in these states the two [[rugby football]] codes are called ''rugby''. There is a different situation in [[New South Wales]], [[Queensland]] and [[Australian Capital Territory|ACT]], where [[rugby league]] is most popular and known as just ''football'', ''footy'' or ''league'', while rugby union is known as ''rugby'', &quot;union&quot; and also simply ''football'' or ''footy''.&lt;ref name=&quot;four&quot; /&gt;
+
+===Canada===
+In [[Canada]], &quot;football&quot; can refer to association football, but more often refers to [[Canadian football]] or [[American football]], often differentiated as either &quot;CFL&quot; (from the governing [[Canadian Football League]]) or &quot;NFL&quot; (from the US [[National Football League]]). Because of the similarity between the games, many people in both countries do not consider the two styles of gridiron football separate sports ''per se'', but rather different codes of the same sport.  If a Canadian were to say, &quot;My brother plays football in the States&quot;, it would be clear from context that American football is meant.  Association football, which is rapidly gaining in popularity, is called soccer by most, however, as Canada is a very multicultural country, those with strong ties to their foreign heritage, as well as those who have a serious level of involvement in the sport will often refer to association football simply as &quot;football&quot;.  The topic of which football code is the &quot;true&quot; football can be the source for serious disagreement between fans of association football and either or both of the gridiron codes, as each wish to lay claim to the title. As the popularity of association football in Canada increases with greater access to international matches on television as well as the rising profile of Canadian teams in domestic leagues, it can be said that this is only the beginning of this debate.&lt;ref&gt;
+[http://www.canadasoccer.com/eng/about/index.asp The Canadian Soccer Association / L'Association canadienne de soccer]
+&lt;/ref&gt; [[Canadian French]] usage parallels English usage, with ''le football'' usually referring to Canadian or American football, and ''le soccer'' referring to association football. When there is ambiguity, ''le football canadien'' or ''le football américain'' is used.&lt;ref&gt;
+[http://www.lcf.ca/ LCF.ca :: Site Officiel de la Ligue Canadienne de Football]{{fr icon}}&lt;br/&gt;[http://www.federation-soccer.qc.ca/fre/general/progredirect.cfm?sectionID=contact.cfm Fédération de soccer du Québec]{{fr icon}}&lt;br/&gt;{{cite web |url=http://archives.radio-canada.ca/sports/soccer/dossiers/1831/ |title=Le soccer gagne du terrain! |accessdate=2008-07-06 |work= |publisher=Société Radio-Canada |date= }}{{fr icon}} (''Soccer gains ground!'')&lt;br/&gt;Sometimes ''le football'' and ''le soccer'' are interchangeable: &quot;Sport le plus regardé ..., le football ou soccer ...&quot; (Société Radio-Canada)
+&lt;/ref&gt;
+
+Rugby union football in Canada is almost always referred to as simply &quot;rugby&quot; as there is next to no rugby league played in the country.
+
+===Caribbean===
+In most of the [[Anglophone Caribbean|English-speaking]] [[Caribbean]], &quot;football&quot; and &quot;soccer&quot; are both used to refer to association football, but use of the word &quot;football&quot; is far more common. The exception is the Bahamas, where the term &quot;football&quot; is used exclusively (while not actually in the Caribbean, usage in Bermuda follows that of the Bahamas).  The nickname of the [[Trinidad and Tobago national football team|Trinidad and Tobago team]], &quot;The [[Soca music|Soca]] Warriors&quot;, refers to a style of music, not the word soccer.
+
+===Ireland===
+In [[Republic of Ireland|Ireland]], &quot;football&quot; can mean [[association football]],&lt;ref&gt;{{cite web
+| title       = U2: Put 'em Under Pressure. Republic of Ireland Football Squad. FIFA World Cup song.
+| url         = http://www.u2tour.de/discographie/lyrics/Put_em_Under_Pressure.html
+| accessdate  = 20 February 2010
+| quote       = Cause Ireland are the greatest football team.}}&lt;/ref&gt; [[Gaelic football]]&lt;ref&gt;
+{{cite web|url=http://www.dcu.ie/alumni/summer02/p30.html|title=DCU footballers|accessdate=2008-03-02}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite news|url=http://www.independent.ie/sport/gaelic-football/french-invasion-of-croker-mirrors-our-historical-past-54234.html|title= French invasion of Croker mirrors our historical past|accessdate=2008-03-02 | work=Irish Independent|first=Eugene|last=McGee|date=10 February 2007}}
+&lt;/ref&gt; or [[rugby union in Ireland|rugby union]]&lt;ref&gt;
+{{cite news|url=http://www.rte.ie/sport/rugby/sixnations/2008/0220/osullivane.html|title=O'Sullivan wary of Paterson ploy|accessdate=2008-03-02 | work=RTÉ News|date=20 February 2008}}
+&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.skerriesrfc.ie/history.html|title=History of Skerries RFC|accessdate=2008-03-02}}
+&lt;/ref&gt; Any of these sports may be called ''football'' depending on the context; usage of the term ''football'' without context is generally avoided because of its ambiguity. Full names are used to overcome this ambiguity: instead of ''football'', Gaelic football, rugby football or rugby union and association football or soccer are used. This is the approach taken by most of the [[Media in Ireland|Irish media]].&lt;ref&gt;
+{{cite news| url=http://www.independent.ie/sport/ | work=Irish Independent | title=Sports News Ireland – Irish Sport News – Daily Sport News – Herald Sport - Independent.ie}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news| url=http://www.irishtimes.com/sports/ | work=The Irish Times | title=Ireland Sports News &amp; Latest Soccer, Rugby, GAA &amp; Racing News Headlines - ireland.com}}&lt;/ref&gt;&lt;ref&gt;
+http://www.examiner.ie/irishexaminer
+&lt;/ref&gt;&lt;ref&gt;
+[http://www.breakingnews.ie/sport/ Sport News | BreakingNews.ie&lt;!-- Bot generated title --&gt;]
+&lt;/ref&gt;&lt;ref&gt;
+{{cite news| url=http://www.rte.ie/sport/index.html | work=RTÉ News | title=RTÉ Sport: Irish and International Sport News, Fixtures and Results}}&lt;/ref&gt;&lt;ref&gt;
+[http://www.munster-express.ie/sports/ The Munster Express Online » Sports&lt;!-- Bot generated title --&gt;]
+&lt;/ref&gt;&lt;ref&gt;
+[http://www.eecho.ie/ Evening Echo | Cork News | Cork Sport News&lt;!-- Bot generated title --&gt;]
+&lt;/ref&gt;
+
+===New Zealand===
+[[File:All_Blacks_Haka.jpg|thumb|right|A [[Haka of the All Blacks|haka]] performed before a match by the [[All Blacks]]]]
+In [[New Zealand]], the most common use of the word is to refer to association football.&lt;ref&gt;http://www.nzfootball.co.nz/&lt;/ref&gt; While the word ''football'' can also used to a lesser extent to refer to rugby league or union, better-known as simply ''rugby''.&lt;ref&gt;
+{{cite news|url=http://teaohou.natlib.govt.nz/teaohou/issue/Mao04TeA/c53.html|publisher=TeAoHou.natlib.govt.nz|title=Maori Personalities in Sport|date=8 January 2008}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite news|url=http://www.nzrugby.co.nz/TheGame/HowToPlay/tabid/994/Default.aspx|publisher=NZRugby.co.nz|title=Welcome to The Game - How To Play|date=8 January 2008}}
+&lt;/ref&gt; 
+The slang term ''footie'' generally only means either of the two codes of [[rugby football]], while rugby league is traditionally known as ''rugby league'' or just ''league''. Usage of the term ''soccer'' is going through a period of transition in recent times as the federation changed its name to [[New Zealand Football]] from New Zealand Soccer and the nickname of its women's team to ''Football Ferns'' from ''SWANZ''.&lt;ref name=&quot;newzealand&quot;&gt;
+{{cite news|url=http://www.stuff.co.nz/stuff/thepress/4053983a6429.html|publisher=[[The Press]]|title=Soccer gets the boot|date=10 May 2007}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite news|url=http://www.yellowfever.co.nz/show-news.asp?ID=804|publisher=YellowFever.co.nz|title=Football Ferns step out with new name|date=10 May 2007}}
+&lt;/ref&gt;
+
+===South Africa===
+In [[South Africa]], the word ''football'' generally refers to association football. However, association football is commonly known as ''soccer'' despite this.&lt;ref&gt;
+[http://www.southafrica.info/ess_info/sa_glance/sports/soccer.htm Football in South Africa]
+&lt;/ref&gt; The domestic first division is the [[Premier Soccer League]] and both in conversation and the media (see e.g. ''[[The Sowetan]]'' or [[Independent Online (South Africa)|''Independent Online'']]), the term &quot;soccer&quot; is used. The stadium used for the final of the [[2010 FIFA World Cup]] was known as [[Soccer City]].  Despite this, the country's national association is called the [[South African Football Association]] and &quot;football&quot; is mostly used in official contexts.
+
+[[Rugby union in South Africa|Rugby union]] is another popular football code in South Africa, but it is commonly known as just ''rugby'' as [[rugby league in South Africa|rugby league]] has a smaller presence in the country.&lt;ref name=&quot;sarugbyunion&quot;&gt;
+{{cite news|url=http://www.sarugby.co.za/default.asp?cId=7535|publisher=SARugby.co.za|title=History of the game|date=8 January 2008}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite news|url=http://www.sarugbyleague.co.za/history.htm|publisher=SARugbyLeague.co.za|title=South African Rugby League: History|date=8 January 2008}}
+&lt;/ref&gt;&lt;!-- QUESTION: does the word football in isolation -always- mean association football? For people that say soccer for association football what does the word football mean to them? This is the kind of information that's relevant here. --&gt;
+
+===United Kingdom===
+[[File:Newspaper-soccer.jpg|thumb|right|An example of the word &quot;soccer&quot; used in London in August 2006.]]
+The unqualified use of &quot;football&quot; in the [[United Kingdom]] tends to refer to the most popular code of football in the country, which in the case of [[England]] and [[Scotland]] is [[association football]]. However the term &quot;soccer&quot; is understood by all as a name for association football in the same way that colloquial term rugger is used for [[rugby union]].&lt;ref&gt;{{cite book|title=Handbook of sports medicine and science. Football (soccer) |first=Björn |last=Ekblom |year=1994 |publisher=Wiley-Blackwell |isbn=063203328 |page=[http://books.google.com/books?id=IA4DIgY_cqoC&amp;lpg=PP1&amp;pg=PA1#v=onepage&amp;q&amp;f=false 1]}} &quot;Although not so widely used as the term 'football,' in England the term 'soccer' is widely understood. It is not so widely understood in continental Europe or Central and Southern America&quot;&lt;/ref&gt;&lt;ref&gt;[[Oxford English Dictionary]]:Soccer &quot;The game of football as played under Association rules.&quot; and Rugger &quot;Slang or colloquial alteration of RUGBY (in the sense of 'Rugby football'). Freq. attrib. rugger-tackle&quot;&lt;/ref&gt;
+
+For fans who are more interested in other codes of football, within their sporting community, the use of the word football may refer to their own code and they may call association football soccer for brevity and clarity. However even within such sporting communities an unqualified mention of football would usually be a reference to association football.&lt;ref name=TC-BBC-SA&gt;
+Tony Collins. ''[http://www.bbc.co.uk/voices/recordings/individual/leeds-leeds-collins-tony.shtml Football, rugby or rugger?]'', BBC sound recording with written transcript, and a comment in prose by Jonnie Robinson, Curator, English accents and dialects, British Library Sound Archive.
+&lt;/ref&gt; In its heartlands, [[rugby league]] is referred to as either &quot;football&quot; or just &quot;league&quot;.&lt;ref name=TC-BBC-SA/&gt;
+
+[[Irish nationalism#Northern Ireland|Irish nationalists]] in [[Northern Ireland]] may use &quot;football&quot; for Gaelic football (see [[#Ireland|above]]).&lt;ref name=Campbell-2001-04-08&gt;
+Campbell, Denis. &quot;[http://observer.guardian.co.uk/osm/story/0,,468041,00.html My team - Derry City: An interview with] [[Martin McGuinness]]&quot;, [[The Guardian]], 8 April 2001. Retrieved on 2007-12-09
+&lt;/ref&gt; Outside the nationalist community in Northern Ireland, Gaelic football is usually known by its full name.  
+
+American football is usually known by that name or &quot;gridiron&quot;,&lt;ref&gt;
+Simon Hart, [http://www.telegraph.co.uk/sport/othersports/athletics/2375311/Chambers-pursues-old-path-to-gridiron-glory.html Chambers pursues old path to gridiron glory], [[The Daily Telegraph]], 20 Mar 2004
+&lt;/ref&gt;&lt;ref&gt;
+[http://www.thesun.co.uk/sol/homepage/news/article394082.ece The NFL comes to Wembley], ''[[The Sun (newspaper)|The Sun]]'', 27 October 2007. &quot;We call it Gridiron&quot;
+&lt;/ref&gt; a name made familiar to a wider British audience by [[Channel 4]], when it showed American football on Saturday evenings in the period 1982-92.&lt;ref&gt;
+Matt Tench, ''[http://observer.guardian.co.uk/osm/story/0,,543952,00.html California dreaming]'' [[The Observer]] September 2, 2001.
+&lt;/ref&gt;
+
+===United States===
+{{Unreferenced section|date=March 2010}}
+[[File:Wilson American football.jpg|thumb|An American football]]
+In the [[United States]], the word &quot;football&quot; usually refers to the sport of [[American Football]], a variation of [[gridiron football]].&lt;ref&gt;{{cite web | work = Oxford British &amp; world English dictionary | title = Football entry | url = http://oxforddictionaries.com/definition/english/football?q=Football}}&lt;/ref&gt; &lt;ref&gt;{{cite web | work = Oxford American English dictionary | title = Football entry | url = http://oxforddictionaries.com/definition/american_english/football?region=us&amp;q=Football}}&lt;/ref&gt;
+
+The sport of [[association football]] is commonly called [[Soccer in the United States|&quot;soccer&quot; in the United States]]. Despite evidence of the sport being called &quot;football&quot; in the late-1800s/early-to-mid-1900s in the country and having a then-significant popularity, soccer has been lacking a nationwide popularity throughout the 20th century, having a significantly smaller mainstream audience than its gridiron counterpart and other popular sports in the USA. Despite the earlier obscurity soccer does have a considerable following, particularly among younger people and immigrant or immigrant-born first generation families from countries whose cultures are tied closely to the sport.&lt;ref&gt;http://www.census.gov/compendia/statab/2012/tables/12s1249.pdf&lt;/ref&gt; Recently soccer has surged interest in the mainstream audience starting with the [[1994 FIFA World Cup|United States hosting the World Cup in 1994]].
+
+'''[[Rugby union]]''' is generally known as [[Rugby football|'''''Rugby''''']], with the &quot;union&quot; name rarely used. [[Gaelic football]] and [[rugby league]] have very small, albeit growing, numbers of adherents. Most people in the United States are not usually aware of the [[Comparison of rugby union and rugby league|distinction between rugby union and rugby league]], and consequently both are referred to simply as &quot;rugby&quot;. Because of the number of American players in the [[Canadian Football League]], a small number of Americans follow [[Canadian football]], which is occasionally broadcast on American cable channels.  Because of the similarity between American and Canadian football, many people in both countries do not consider the two styles of football separate sports ''per se'', but rather different codes of the same sport.
+
+==&quot;Football&quot; as a loanword==
+{{Main|Names for association football}}
+Many languages use the English word &quot;football&quot; and variations of it as [[loanword]]s for association football. Examples include:
+* [[Catalan language|Catalan]]: ''futbol''
+* [[Czech language|Czech]]: ''fotbal''
+* [[Esperanto]]: ''futbalo''
+* [[Filipino language|Filipino]]: ''futbol''
+* [[French language|French]]: ''football'' (less formally, &quot;le foot&quot;)
+* [[Portuguese language|Portuguese]]: ''futebol''
+* [[Russian language|Russian]]: футбол ''(futbol)''
+* [[Spanish language|Spanish]]: ''fútbol'' or ''futbol''&lt;ref&gt;
+Both spellings are used.[http://wordreference.com/es/translation.asp?tranword=football&amp;dict=enes][http://lema.rae.es/drae/?val=f%C3%BAtbol] See also [[:es:Futbol|''futbol'']].
+&lt;/ref&gt;
+* [[Romanian language|Romanian]]: ''fotbal''
+* [[Turkish language|Turkish]]: ''futbol''
+* [[Serbian language|Serbian]]:  ''фудбал'' ''(fudbal)''
+
+This has contributed to the adoption of the word ''football'' into the auxiliary language [[Interlingua]].
+
+The loanwords bear little or no resemblance to the native words for &quot;foot&quot; and &quot;ball&quot;. By contrast, some languages have [[calque]]s of &quot;football&quot;: their speakers use equivalent terms that combine their words for &quot;foot&quot; and &quot;ball&quot;. An example is the Greek ποδόσφαιρο (podósfero). 
+
+In [[German language|German]], &quot;''Football''&quot; is a loanword for American football, while the German word ''Fußball'', a calque of &quot;football&quot; (''Fuß'' = &quot;foot&quot;, ''Ball'' = &quot;ball&quot;), means association football. The same goes for [[Dutch language|Dutch]] ''voetbal'' (''voet'' = &quot;foot&quot;, ''bal'' = &quot;ball&quot;), [[Swedish language|Swedish]] ''fotboll'' (''fot'' = &quot;foot&quot;, ''boll'' = &quot;ball&quot;), and so on — the words for &quot;foot&quot; and &quot;ball&quot; are very similar in all the Germanic languages. Only two Germanic languages do not use &quot;football&quot; or a calque thereof as their primary word for association football:
+* [[Afrikaans]] — ''sokker''. This echoes the predominant use of &quot;soccer&quot; in [[South African English]].
+* [[Icelandic language|Icelandic]] — ''knattspyrna'' (''knatt''- = ball- and ''spyrna'' = kicking) is one of the two most common terms; this reflects a tendency to create indigenous words for foreign concepts. However, the calque ''fótbolti'' is at least equally common. 
+The [[Celtic languages]] also generally refer to association football with calques of &quot;football&quot; — an example is the [[Welsh language|Welsh]] ''pêl-droed''. However, [[Irish language|Irish]], which like Afrikaans is native to a country where &quot;soccer&quot; is the most common English term for the sport, uses ''sacar''.
+
+==See also==
+*[[Names for association football]]
+*[[Names of Australian rules football]]
+*[[Nuclear football]]
+*[[Political football]]
+
+==Notes and references==
+{{reflist|2}}
+
+==Further reading==
+* Steve Boughey ''[http://www.nzherald.co.nz/section/4/story.cfm?c_id=4&amp;objectid=10404048 Soccer: Alan Shearer in town this week]'', [[Auckland]] [[Herald on Sunday]], October 3, 2006. This article shows how soccer is used for association football in New Zealand and Australia and how [[Alan Shearer]], a former captain of the English association football team, uses the term soccer to avoid confusion while visiting Australia and New Zealand.
+
+{{DEFAULTSORT:Football (Word)}}
+[[Category:Football]]
+[[Category:English words]]</text>
+      <sha1>qnb5uxn5kii8zqauxlpliqis4zgc28y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Basse (bag ball)</title>
+    <ns>0</ns>
+    <id>28218838</id>
+    <revision>
+      <id>594841993</id>
+      <parentid>558337221</parentid>
+      <timestamp>2014-02-10T16:11:34Z</timestamp>
+      <contributor>
+        <username>Mormegil</username>
+        <id>75813</id>
+      </contributor>
+      <minor/>
+      <comment>-sortkey</comment>
+      <text xml:space="preserve" bytes="2020">'''Basse''' is a [[Norway|Norwegian]] bag ball game, with roots before World War I.&lt;ref&gt;Sørensen, B. (1980). Basse – ein trøndersport. I: Stemshaug, O. (red.) (Yearbook for Trøndelag). Trondheim: Trønderlaget. pp. 119-124.&lt;/ref&gt; Today basse is mostly played in the [[county]] of [[Trøndelag]], but also spread to other countries.
+
+==Goal==
+The overall goal is to defend your field (a circle) where everyone plays against everyone.
+
+==Make==
+The basse can be made with rings (two or three, up to eight). Use [[rubber]] band or old bicycle [[Tyre (wheel)|tyre]]. The basse is a bag ball, it should be round, but not bounce in any direction. The weight is about 70 - 100 [[gram]]s. 
+&lt;br&gt;
+[[File:basse.png|center|100px|Basse vector]]
+
+==Play==
+Create fields (squares or circles) on any surface (gravel, tarmac, grass or indoors). Use your feet, chalk or painting to create the fields, depending on the surface. First, draw the mid field circle. Diameter 1 - 1,5 metre. Make room, 30–40&amp;nbsp;cm between the next circles. You can have 4 to 8 fields around the mid field. The optimal number of players are 5-6, but 8-9 can play basse.
+
+The game start with a serve (not lower than the knee). If you receive an approved goal in your field (i.e. the basse should land inside the field), you get one minus point. Determine how many minus points that counts before the game start. 3 are common. You must defend your field and can hit the basse with all body limbs, except arms and hands.
+
+==Finale==
+The finale is played when only two members are left in the game. ”The first goal wins”, independent of the number of minus point’s each finalist has received.
+
+==Rules==
+There are rules for judgement, tournament, death fields, hands and penalty kicks.
+
+==For more information==
+* [http://www.basse.no/basse-in-english/ www.basse.no] in English
+
+
+==See also==
+* [[Footbag]]
+
+==Notes==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Basse (Bag Ball)}}
+[[Category:Footbag]]
+[[Category:Ball games]]
+[[Category:Balls]]
+[[Category:Football]]</text>
+      <sha1>oroyf3r5lolc3vls715oec5fdy163li</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Lists of national men's football teams</title>
+    <ns>0</ns>
+    <id>5787458</id>
+    <revision>
+      <id>551984826</id>
+      <parentid>529189867</parentid>
+      <timestamp>2013-04-24T16:54:04Z</timestamp>
+      <contributor>
+        <username>JHunterJ</username>
+        <id>842922</id>
+      </contributor>
+      <minor/>
+      <comment>JHunterJ moved page [[List of national men's football teams]] to [[Lists of national men's football teams]]: list of lists</comment>
+      <text xml:space="preserve" bytes="307">The following articles contain '''lists of national men's football teams''':
+
+* [[List of men's national association football teams]]
+* [[List of international rugby league teams]]
+* [[List of international rugby union teams]]
+
+[[Category:Football]]
+[[Category:Lists of lists|National Men's Football Teams]]</text>
+      <sha1>i1uhst64jt0z3im6zaq6axo4isijzm6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Football people</title>
+    <ns>14</ns>
+    <id>33582280</id>
+    <revision>
+      <id>458151826</id>
+      <parentid>458151667</parentid>
+      <timestamp>2011-10-30T17:16:09Z</timestamp>
+      <contributor>
+        <username>Teapeat</username>
+        <id>13096906</id>
+      </contributor>
+      <text xml:space="preserve" bytes="77">{{catmain|football}}
+[[Category:Sportspeople by sport]]
+[[Category:Football]]</text>
+      <sha1>a26b5i0x45uevnsk2d8vnhh8dnc0a7q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Robot football</title>
+    <ns>14</ns>
+    <id>33618086</id>
+    <revision>
+      <id>458694886</id>
+      <timestamp>2011-11-02T20:23:22Z</timestamp>
+      <contributor>
+        <username>Danim</username>
+        <id>14026077</id>
+      </contributor>
+      <comment>create</comment>
+      <text xml:space="preserve" bytes="77">{{Portal|Robotics|Football}}
+
+[[Category:Robot sports]]
+[[Category:Football]]</text>
+      <sha1>e9qxyx2kufeaw930g8eeemuid5opu9i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Football stubs</title>
+    <ns>14</ns>
+    <id>5472538</id>
+    <revision>
+      <id>544407874</id>
+      <parentid>540053342</parentid>
+      <timestamp>2013-03-15T16:36:05Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>6569922</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Migrating 25 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q7001819]]</comment>
+      <text xml:space="preserve" bytes="944">{{WPSS-cat}}
+{{Stub Category | article=[[football]] | newstub=Football-stub | category=Football}}
+This category is for region-neutral football articles, that are not easily sorted into a more appropriate sub-category.  Please use one of the following sub-categories below or one listed [[Wikipedia:WikiProject_Stub_sorting/Stub_types/Sports|here]] whenever possible.
+
+*{{tl|AFL-stub}} for [[:Category:Australian rules football stubs|Australian rules football stubs]]
+*{{tl|Americanfootball-stub}} for [[:Category:American football stubs|American football stubs]]
+*{{tl|Canadianfootball-stub}} for [[:Category:Canadian football stubs|Canadian football stubs]]
+*{{tl|footy-stub}} for [[:Category:Association football stubs|association football stubs]]
+*{{tl|rugbyleague-stub}} for [[:Category:Rugby league stubs|Rugby league stubs]]
+*{{tl|rugbyunion-stub}} for [[:Category:Rugby union stubs|rugby union stubs]]
+
+[[Category:Sports stubs by sport]]</text>
+      <sha1>gumhrzvtv5zvi2jaoh38ug3taaj09jz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Football attendances</title>
+    <ns>0</ns>
+    <id>23441295</id>
+    <revision>
+      <id>506065207</id>
+      <parentid>494359433</parentid>
+      <timestamp>2012-08-06T11:56:48Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>Fix category capitalisation + general fixes, added [[CAT:O|orphan]] tag using [[Project:AWB|AWB]] (8230)</comment>
+      <text xml:space="preserve" bytes="664">{{Orphan|date=August 2012}}
+
+'''Football attendances''' may refer to:
+
+*[[Football club attendances (2006)]]
+*[[Football club attendances (2007)]]
+*[[Football club attendances (2008)]]
+*[[Football club attendances (2009)]]
+*[[Football club attendances (2010)]]
+*[[Football club attendances (2011)]]
+*[[Football club attendances (2012)]]
+
+== See also ==
+*[[List of Tasmanian Football League attendances]]
+*[[Record attendances in United States club soccer]]
+*[[Major League Soccer attendance]]
+*[[Scottish football attendance records]]
+*[[Record home attendances of English football clubs]]
+*[[Average attendances of European football clubs]]
+
+[[Category:Football]]</text>
+      <sha1>sgti9pt1epne9dq8gjfc2emrn30dvf8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Football club attendances</title>
+    <ns>14</ns>
+    <id>36689029</id>
+    <revision>
+      <id>506793313</id>
+      <timestamp>2012-08-10T21:45:16Z</timestamp>
+      <contributor>
+        <username>Jnestorius</username>
+        <id>89336</id>
+      </contributor>
+      <comment>[[Category:Football]] [[Category:Sports attendance]]</comment>
+      <text xml:space="preserve" bytes="52">[[Category:Football]]
+[[Category:Sports attendance]]</text>
+      <sha1>su0672xt3vk434qap5o36i8i91kweed</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Football</title>
+    <ns>0</ns>
+    <id>23976719</id>
+    <revision>
+      <id>601697929</id>
+      <parentid>601691446</parentid>
+      <timestamp>2014-03-28T19:30:00Z</timestamp>
+      <contributor>
+        <username>Concord hioz</username>
+        <id>20480446</id>
+      </contributor>
+      <comment>/* Modern balls */ Correcting my previous edit.</comment>
+      <text xml:space="preserve" bytes="99153">{{Other uses}}
+{{pp-semi-indef|small=yes}}
+{{pp-move-indef}}
+
+[[File:Football4.png|right|thumb|upright=1.2|Several codes of football. Images, from top down, left to right: [[Association football]], [[Australian rules football]], [[International rules football]], a [[rugby union]] scrum, [[rugby league]], and [[American football]].]]
+
+'''Football''' refers to a number of [[team sport|sport]]s that involve, to varying degrees, [[Kick (football)|kicking]] a [[Football (ball)|ball]] with the foot to score a [[Goal (sport)|goal]]. The most popular of these sports worldwide is [[association football]], more commonly known as just &quot;football&quot; or &quot;soccer&quot;. Unqualified, the word ''[[Football (word)|football]]'' applies to whichever form of football is the most popular in the regional context in which the word appears, including association football, as well as [[American football]], [[Australian rules football]], [[Canadian football]], [[Gaelic football]], [[rugby league]], [[rugby union]],&lt;ref&gt;{{cite journal|last=Reilly|first=Thomas|last2=Gilbourne|first2= D.|title=Science and football: a review of applied research in the football code|journal=Journal of Sports Science|year=2003|volume=21|pages=693–705}}&lt;/ref&gt;  and other related games. These variations of football are known as football codes.
+
+Various forms of football can be identified in history, often as popular [[peasant]] games. Contemporary codes of football can  be traced back to [[English public school football games|the codification of these games at English public schools]] in the eighteenth and nineteenth centuries.&lt;ref&gt;{{cite web|title=History of Rugby in Australia|url=http://www.rugbyfootballhistory.com/wallabies.html#3|publisher=Rugby Football History|accessdate=11 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Bailey|first=Steven|title=Living Sports History: Football at Winchester, Eton and Harrow|journal=The Sports Historian|year=1995|volume=15|issue=1|pages=34–53}}&lt;/ref&gt; The influence and power of the [[British Empire]] allowed these rules of football to spread to areas of British influence outside of the directly controlled Empire,&lt;ref&gt;{{cite journal|last=Perkin|first=Harold|title=Teaching the nations how to play: sport and society in the British empire and commonwealth|journal=The International Journal of the History of Sport|year=1989|volume=6|issue=2|pages=145–155}}&lt;/ref&gt;  though by the end of the nineteenth century, distinct regional codes were already developing: Gaelic Football, for example, deliberately incorporated the rules of local traditional football games in order to maintain their heritage.&lt;ref&gt;{{cite journal|last=Reilly|first=Thomas|last2=Doran|first2= D.|title=Science and Gaelic football: A revie|journal=Journal of Sports Sciences|year=2001|volume=19|issue=3|pages=181–193}}&lt;/ref&gt;  In 1888, [[The Football League]] was founded in England, becoming the first of many [[professional sports|professional]] football competitions. During the twentieth century, several of the various kinds of football grew to become among the most popular team sports in the world.&lt;ref&gt;{{cite book|last=Bale|first=J.|title=Sports Geography|year=2002|publisher=Taylor &amp; Francis|isbn=0-419-25230-4|page=43}}&lt;/ref&gt;
+
+{{TOC limit|3}}
+
+== Common elements ==
+The various codes of football share certain common elements. Players in American football, Canadian football, rugby union and rugby league take-up positions in a limited area of the field at the start of the game.&lt;ref name=&quot;Douge&quot;&gt;{{cite book|last=Douge|first=Brian|title=Science and Football|year=2011|publisher=Routledge|location=Abingdon|isbn=978-0-415-50911-4|pages=3–19|edition=Second|chapter=Football: the common threads between the games}}&lt;/ref&gt; They tend to use throwing and running as the main ways of moving the ball, and only kick on certain limited occasions. [[Tackle (football move)|Body tackling]] is a major skill, and games typically involve short passages of play of 5–90 seconds.&lt;ref name=&quot;Douge&quot; /&gt; Association football, Australian rules football and Gaelic football tend to use kicking to move the ball around the pitch, with handling more limited. Body tackles are less central to game, and players are more free to move around the field (''[[Offside (sport)|offside]]'' laws are typically less strict).&lt;ref name=&quot;Douge&quot; /&gt;
+
+Common rules among the sports include:{{citation needed|date=July 2013}}
+* Two ''[[team]]s'' of usually between 11 and 18 players; some variations that have fewer players (five or more per team) are also popular.
+* A clearly defined area in which to play the game.
+* ''[[Score (sport)|Scoring]]'' ''[[goal (sport)|goals]]'' or ''points'', by moving the ball to an opposing team's end of the field and either into a goal area, or over a line.
+* Goals or points resulting from players putting the ball between two ''[[goalposts]]''.
+* The goal or line being ''defended'' by the opposing team.
+* Players being required to move the ball—depending on the code—by kicking, carrying, or hand-passing the ball.
+* Players using only their body to move the ball.
+
+In all codes, common skills include [[Passing (sports)|passing]], [[Tackle (football move)|tackling]], evasion of tackles, catching and [[Kick (football)|kicking]].&lt;ref name=&quot;Douge&quot; /&gt; In most codes, there are rules restricting the movement of players ''[[Offside (sport)|offside]]'',{{citation needed|date=July 2013}} and players scoring a goal must put the ball either under or over a ''[[Goal (sport)|crossbar]]'' between the goalposts.{{citation needed|date=July 2013}}
+
+== Etymology ==
+{{Main|Football (word)}}
+There are conflicting explanations of the origin of the word &quot;football&quot;.  It is widely assumed that the word &quot;football&quot; (or &quot;foot ball&quot;) references the action of the foot kicking a ball.  There is an alternative explanation, which is that football originally referred to a variety of games in [[medieval Europe]], which were played ''on foot''.  There is no conclusive evidence for either explanation.
+
+== Early history ==
+
+=== Ancient games ===
+
+The [[Ancient Greece|Ancient Greeks]] and [[Ancient Rome|Romans]] are known to have played many ball games, some of which involved the use of the feet. The Roman game ''[[harpastum]]'' is believed to have been adapted from a [[Ancient Greece|Greek]] team game known as &quot;ἐπίσκυρος&quot; (''[[Episkyros]]'')&lt;ref&gt;[http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3De%29pi%2Fskuros ἐπίσκυρος],
+Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus Digital Library&lt;/ref&gt;&lt;ref&gt;The New Encyclopaedia Britannica, 2007 Edition: &quot;In ancient Greece a game with elements of football, episkuros, or harpaston, was played, and it had migrated to Rome as harpastum by the 2nd century BC&quot;.&lt;/ref&gt; or &quot;φαινίνδα&quot; (''phaininda''),&lt;ref&gt;[http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dfaini%2Fnda^ φαινίνδα],
+Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus Digital Library&lt;/ref&gt; which is mentioned by a Greek playwright, [[Antiphanes of Berge|Antiphanes]] (388–311&amp;nbsp;BC) and later referred to by the [[Christianity|Christian]] theologian [[Clement of Alexandria]] (c.150-c.215&amp;nbsp;AD). These games appear to have resembled [[rugby football]].&lt;ref&gt;Nigel Wilson, ''Encyclopedia of Ancient Greece'', Routledge, 2005, p. 310&lt;/ref&gt;&lt;ref&gt;Nigel M. Kennell, ''The Gymnasium of Virtue: Education and Culture in Ancient Sparta (Studies in the History of Greece and Rome)'', The University of North Carolina Press, 1995, on [http://books.google.com/books?id=u_eAP7wN5XUC&amp;pg=PA61&amp;dq=episkuros+rugby&amp;cd=16#v=onepage&amp;q=episkuros%20rugby&amp;f=false Google Books]&lt;/ref&gt;&lt;ref&gt;Steve Craig, ''Sports and Games of the Ancients: (Sports and Games Through History)'', Greenwood, 2002, on [http://books.google.com/books?id=KKlSSRq-P2QC&amp;pg=PA104&amp;dq=phaininda+rugby&amp;cd=2#v=onepage&amp;q=phaininda%20rugby&amp;f=false Google Books]&lt;/ref&gt;&lt;ref&gt;Don Nardo, ''Greek and Roman Sport'', Greenhaven Press, 1999, p. 83&lt;/ref&gt;&lt;ref&gt;Sally E. D. Wilkins, ''Sports and games of medieval cultures'', Greenwood, 2002, on [http://books.google.com/books?id=IyFHvy-SCIYC&amp;pg=PA214&amp;dq=episkuros+rugby&amp;cd=2#v=onepage&amp;q=episkuros%20rugby&amp;f=false Google books]&lt;/ref&gt; The Roman politician [[Cicero]] (106–43&amp;nbsp;BC) describes the case of a man who was killed whilst having a shave when a ball was kicked into a barber's shop. Roman ball games already knew the air-filled ball, the [[Follis (ball game)|follis]].&lt;ref&gt;E. Norman Gardiner: &quot;Athletics in the Ancient World&quot;, Courier Dover Publications, 2002, ISBN 0-486-42486-3, p.229&lt;/ref&gt;&lt;ref&gt;William Smith: &quot;Dictionary of Greek and Roman Antiquities&quot;, 1857, p.777&lt;/ref&gt; The Ancient Greek game of Episkyros recognised as an early form of football by FIFA.&lt;ref&gt;http://www.fifa.com/classicfootball/clubs/rivalries/newsid=2026693/index.html&lt;/ref&gt;
+
+According to [[FIFA]] the competitive game ''[[cuju]]''&lt;!--transliterated as Tsu' Chu in ref--&gt; is the earliest form of football for which there is scientific evidence.&lt;ref name=fifa-or&gt;{{cite web | title = History of Football | publisher=FIFA| url = http://www.fifa.com/classicfootball/history/the-game/origins.html | accessdate =29 April 2013}}&lt;/ref&gt; It occurs namely as an exercise in a military manual from the third and second centuries BC.&lt;ref name=fifa-or/&gt; Documented evidence of an activity resembling football can be found in the Chinese [[military]] manual [[Zhan Guo Ce]] compiled between the 3rd century and 1st century BC.&lt;ref&gt;He, Jin (2001). ''An Analysis of Zhan Guo Ce''. Beijing: Peking University Press. ISBN 7-301-05101-8, p. 59-82&lt;/ref&gt; It describes a practice known as ''[[cuju]]'' (蹴鞠, literally &quot;kick ball&quot;), which originally involved kicking a leather ball through a small hole in a piece of [[silk]] cloth which was fixed on bamboo canes and hung about 9&amp;nbsp;m above ground. During the [[Han Dynasty]] (206&amp;nbsp;BC–220&amp;nbsp;AD), cuju games were standardized and rules were established.{{Citation needed|date=January 2012}} Variations of this game later spread to Japan and [[Korea]], known as ''[[kemari]]'' and ''chuk-guk'' respectively. Later, another type of goal posts emerged, consisting of just one goal post in the middle of the field.{{Citation needed|date=January 2012}}
+
+The Japanese version of ''cuju'' is ''[[kemari]]'' (蹴鞠), and was developed during the [[Asuka period]]. {{Citation needed|date=January 2012}}This is known to have been played within the Japanese imperial court in [[Kyoto]] from about 600&amp;nbsp;AD. In ''kemari'' several people stand in a circle and kick a ball to each other, trying not to let the ball drop to the ground (much like [[keepie uppie]]). The game appears to have died out sometime before the mid-19th century. It was revived in 1903 and is now played at a number of festivals.{{Citation needed|date=January 2012}}
+
+There are a number of references to [[tradition]]al, [[ancient]], or [[prehistoric]] ball games, played by [[indigenous peoples]] in many different parts of the world. For example, in 1586, men from a ship commanded by an English explorer named [[John Davis (English explorer)|John Davis]], went ashore to play a form of football with [[Inuit]] (Eskimo) people in [[Greenland]].&lt;ref&gt;Richard Hakluyt, [http://etext.library.adelaide.edu.au/h/hakluyt/northwest/chapter8.html Voyages in Search of The North-West Passage], ''[[University of Adelaide]]'', December 29, 2003&lt;/ref&gt; There are later accounts of an Inuit game played on ice, called ''Aqsaqtuk''. Each match began with two teams facing each other in parallel lines, before attempting to kick the ball through each other team's line and then at a goal. In 1610, [[William Strachey]], a colonist at [[Jamestown, Virginia]] recorded a game played by [[Native Americans in the United States|Native Americans]], called ''Pahsaheman''.{{Citation needed|date=January 2012}} On the [[Australian continent]] several tribes of [[indigenous Australians|indigenous people]] played kicking and catching games with stuffed balls which have been generalised by historians as ''[[Marn Grook]]'' ([[Djab Wurrung]] for &quot;game ball&quot;). The earliest historical account is an [[anecdote]] from the 1878 book by [[Robert Brough-Smyth]], ''The Aborigines of Victoria'', in which a man called Richard Thomas is quoted as saying, in about 1841 in [[Victoria, Australia]], that he had witnessed Aboriginal people playing the game: &quot;Mr Thomas describes how the foremost player will drop kick a ball made from the skin of a [[possum]] and how other players leap into the air in order to catch it.&quot; Some historians have theorised that ''Marn Grook'' was one of the [[Origins of Australian football|origins of]] [[Australian rules football]].
+
+The [[Māori people|Māori]] in [[New Zealand]] played a game called [[Ki-o-rahi]] consisting of teams of seven players play on a circular field divided into zones, and score points by touching the 'pou' (boundary markers) and hitting a central 'tupu' or target.{{Citation needed|date=January 2012}}
+
+[[Mesoamerican ballgame|Games played in Mesoamerica]] with rubber balls by [[Indigenous peoples of the Americas|indigenous peoples]] are also well-documented as existing since before this time, but these had more similarities to [[basketball]] or [[volleyball]], and since their influence on modern football games is minimal, most do not class them as football. {{Citation needed|date=January 2012}}Northeastern American Indians, especially the [[Iroquois]] Confederation, played a game which made use of net racquets to throw and catch a small ball; however, although a ball-goal foot game, [[lacrosse]] (as its modern descendant is called) is likewise not usually classed as a form of &quot;football.&quot;{{Citation needed|date=January 2012}}
+
+These games and others may well go far back into antiquity. However, the main sources of modern football codes appear to lie in western Europe, especially [[England]].
+&lt;gallery widths=&quot;220&quot; heights=&quot;160&quot;&gt;
+Ancient Greek Football Player.jpg|Ancient Greek football player balancing the ball. Depiction on an [[Attica|Attic]] [[Lekythos]].
+One Hundred Children in the Long Spring-crop.jpg|A [[Song Dynasty]] painting by Su Hanchen, depicting Chinese children playing ''cuju''.
+Tepantitla mural, Ballplayer B Cropped.jpg|Paint of a [[Mesoamerican ballgame]] player of the Tepantitla murals in [[Teotihuacan]].
+Kemari Matsuri at Tanzan Shrine 2.jpg|A revived version of ''kemari'' being played at the [[Tanzan Shrine]], Japan.
+Marn grook illustration 1857-crop.jpg|An illustration from the 1850s of [[Indigenous Australian|Australian Aboriginal]] [[hunter gatherer]]s. Children in the background are playing a football game, possibly ''[[Woggabaliri]]''.&lt;ref&gt;From William Blandowski's Australien in 142 Photographischen Abbildungen, 1857, (Haddon Library, Faculty of Archaeology and Anthropology, Cambridge)&lt;/ref&gt;
+&lt;/gallery&gt;
+
+=== Medieval and early modern Europe ===
+{{Further|Medieval football}}
+&lt;!-- IMPORTANT NOTE to editors: we have a length problem! That is why there is a Mediæval football article. Please do not add new material to this section unless it is significant—please put any new material in the Mediæval football article _before_ you add it to this section. Thank you. --&gt;The [[Middle Ages]] saw a huge rise in popularity of annual [[Shrovetide football]] matches throughout Europe, particularly in England. An early reference to a ball game played in Britain comes from the 9th century ''[[Historia Brittonum]]'', which describes &quot;a party of boys ... playing at ball&quot;.&lt;ref&gt;[http://www.fordham.edu/halsall/basis/nennius-full.asp ''Historia Brittonum''] at the [[Medieval Sourcebook]].&lt;/ref&gt; References to a ball game played in northern [[France]] known as ''[[La Soule]]'' or ''Choule'', in which the ball was propelled by hands, feet, and sticks,&lt;ref&gt;{{cite book | last = Ruff | first = Julius  | title = Violence in Early Modern Europe 1500-1800 | publisher = Cambridge University Press  | year = 2001  | page = 170  | isbn = 978-0-521-59894-1}}&lt;/ref&gt; date from the 12th century.&lt;ref&gt;[[Jean Jules Jusserand|Jusserand, Jean-Jules]]. (1901). ''Le sport et les jeux d'exercice dans l'ancienne France.'' Retrieved January 11, 2008, from http://agora.qc.ca/reftext.nsf/Documents/Football--Le_sport_et_les_jeux_dexercice_dans_lancienne_France__La_soule_par_Jean-Jules_Jusserand {{fr icon}}&lt;/ref&gt;
+[[File:Mobfooty.jpg|thumb|left|An illustration of so-called &quot;[[mob football]]&quot;]]
+
+The early forms of football played in England, sometimes referred to as &quot;[[mob football]]&quot;, would be played between neighbouring towns and villages, involving an unlimited number of players on opposing teams who would clash ''en masse'',&lt;ref&gt;{{cite book | last = Dunning | first = Eric  | title = Sport Matters: Sociological Studies of Sport, Violence and Civilisation  | publisher = Routledge  | year = 1999  | page = 89 | isbn = 978-0-415-09378-1}}&lt;/ref&gt; struggling to move an item, such as inflated animal's bladder&lt;ref name=&quot;sportmatters&quot;&gt;{{cite book | last = Dunning | first = Eric  | title = Sport Matters: Sociological Studies of Sport, Violence and Civilisation  | publisher = Routledge  | year = 1999  | page = 88  | isbn = 978-0-415-09378-1}}&lt;/ref&gt; to particular geographical points, such as their opponents' church, with play taking place in the open space between neighbouring parishes.&lt;ref&gt;{{cite book | last = Baker | first = William  | title = Sports in the Western World  | publisher = University of Illinois Press  | year = 1988  | page = 48  | isbn = 978-0-252-06042-7}}&lt;/ref&gt; The game was played primarily during significant religious festivals, such as Shrovetide, [[Christmas]], or [[Easter]],&lt;ref name=&quot;sportmatters&quot; /&gt; and Shrovetide games have survived into the modern era in a number of English towns (see below).
+
+The first detailed description of what was almost certainly football in England was given by [[William FitzStephen]] in about 1174–1183. He described the activities of London youths during the annual festival of [[Shrove Tuesday]]:
+:''After lunch all the youth of the city go out into the fields to take part in a ball game. The students of each school have their own ball; the workers from each city craft are also carrying their balls. Older citizens, fathers, and wealthy citizens come on horseback to watch their juniors competing, and to relive their own youth vicariously: you can see their inner passions aroused as they watch the action and get caught up in the fun being had by the carefree adolescents''.&lt;ref&gt;Stephen Alsford, [http://www.trytel.com/~tristan/towns/florilegium/introduction/intro01.html#p25 FitzStephen's Description of London], ''Florilegium Urbanum'', April 5, 2006&lt;/ref&gt;
+
+Most of the very early references to the game speak simply of &quot;ball play&quot; or &quot;playing at ball&quot;. This reinforces the idea that the games played at the time did not necessarily involve a ball being kicked.
+
+An early reference to a ball game that was probably football comes from 1280 at [[Ulgham]], [[Northumberland]], England:  &quot;Henry... while playing at ball.. ran against David&quot;.&lt;ref name=Magoun&gt;Francis Peabody Magoun, 1929, &quot;Football in Medieval England and Middle-English literature&quot; (''The American Historical Review'', v. 35, No. 1).&lt;/ref&gt;  Football was played in Ireland in 1308, with a documented reference to John McCrocan, a spectator at a &quot;football game&quot; at [[Newcastle, County Down]] being charged with accidentally stabbing a player named William Bernard.&lt;ref&gt;{{cite web|url=http://www.carlow-nationalist.ie/tabId/392/itemId/2418/Irish-inventions-fact-and-fiction.aspx |title=Irish inventions: fact and fiction |publisher=Carlow-nationalist.ie |date= |accessdate=2012-04-16}}&lt;/ref&gt;  Another reference to a football game comes in 1321 at [[Shouldham]], [[Norfolk]], England: &quot;[d]uring the game at ball as he kicked the ball, a lay friend of his... ran against him and wounded himself&quot;.&lt;ref name=&quot;Magoun&quot;/&gt;
+
+In 1314, Nicholas de Farndone, [[Lord Mayor of the City of London]] issued a decree banning football in the French used by the English upper classes at the time. A translation reads: &quot;[f]orasmuch as there is great noise in the city caused by hustling over large foot balls [''rageries de grosses pelotes de pee'']&lt;ref&gt;Derek Birley (Sport and The Making of Britain). 1993. Manchester University Press. p. 32. 978-0719037597&lt;/ref&gt; in the fields of the public from which many evils might arise which God forbid: we command and forbid on behalf of the king, on pain of imprisonment, such game to be used in the city in the future.&quot; This is the earliest reference to football.
+
+In 1363, King [[Edward III of England]] issued a proclamation banning &quot;...handball, football, or hockey; coursing and cock-fighting, or other such idle games&quot;,&lt;ref&gt;Derek Baker (England in the Later Middle Ages). 1995. Boydell &amp; Brewer. p. 187. ISBN 978-0-85115-648-4&lt;/ref&gt; showing that &quot;football&quot; — whatever its exact form in this case — was being differentiated from games involving other parts of the body, such as handball.
+
+A game known as &quot;football&quot; was played in '''Scotland''' as early as the 15th century: it was prohibited by the Football Act 1424 and although the law fell into disuse it was not repealed until 1906. There is evidence for schoolboys playing a &quot;football&quot; ball game in Aberdeen in 1633 (some references cite 1636) which is notable as an early allusion to what some have considered to be passing the ball. The word &quot;pass&quot; in the most recent translation is derived from &quot;huc percute&quot; (strike it here) and later &quot;repercute pilam&quot; (strike the ball again) in the original Latin. It is not certain that the ball was being struck between members of the same team. The original word translated as &quot;goal&quot; is &quot;metum&quot;, literally meaning the &quot;pillar at each end of the circus course&quot; in a Roman chariot race. There is a reference to &quot;get hold of the ball before [another player] does&quot; (Praeripe illi pilam si possis agere) suggesting that handling of the ball was allowed. One sentence states in the original 1930 translation &quot;Throw yourself against him&quot; (Age, objice te illi).
+[[File:Football gravure 1750.jpg|thumb|France circa 1750]]
+King [[Henry IV of England]] also presented one of the earliest documented uses of the English word &quot;football&quot;, in 1409, when he issued a proclamation forbidding the levying of money for &quot;foteball&quot;.&lt;ref name=Magoun/&gt;&lt;ref name=Etymology&gt;{{cite web|url=http://www.etymonline.com/index.php?term=football |title=Online Etymology Dictionary (no date), &quot;football&quot; |publisher=Etymonline.com |date= |accessdate=2010-06-19}}&lt;/ref&gt;
+
+There is also an account in [[Latin]] from the end of the 15th century of football being played at [[Cawston, Nottinghamshire|Cawston]], [[Nottinghamshire]]. This is the first description of a &quot;kicking game&quot; and the first description of [[dribbling]]: &quot;[t]he game at which they had met for common recreation is called by some the foot-ball game. It is one in which young men, in country sport, propel a huge ball not by throwing it into the air but by striking it and rolling it along the ground, and that not with their hands but with their feet... kicking in opposite directions&quot; The chronicler gives the earliest reference to a football pitch, stating that: &quot;[t]he boundaries have been marked and the game had started.&lt;ref name=Magoun/&gt;
+
+Other firsts in the mediæval and [[early modern Europe|early modern]] eras:
+
+* &quot;a football&quot;, in the sense of a ball rather than a game, was first mentioned in 1486.&lt;ref name=Etymology/&gt; This reference is in Dame [[Juliana Berners]]' ''Book of [[St Albans]]''. It states: &quot;a certain rounde instrument to play with ...it is an instrument for the foote and then it is calde in Latyn 'pila pedalis', a fotebal.&quot;&lt;ref name=Magoun/&gt;
+* a pair of football boots was ordered by King [[Henry VIII of England]] in 1526.&lt;ref&gt;[http://arts.guardian.co.uk/news/story/0,,1150460,00.html Vivek Chaudhary, “Who's the fat bloke in the number eight shirt?”] (''[[The Guardian]]'', February 18, 2004.)&lt;/ref&gt;
+* women playing a form of football was first described in 1580 by Sir [[Philip Sidney]] in one of his poems: &quot;[a] tyme there is for all, my mother often sayes, When she, with skirts tuckt very hy, with girles at football playes.&quot;&lt;ref&gt;Anniina Jokinen, [http://www.luminarium.org/editions/sidneydialogue.htm Sir Philip Sidney. &quot;A Dialogue Between Two Shepherds&quot;] (''Luminarium.org'', July 2006)&lt;/ref&gt;
+* the first references to ''goals'' are in the late 16th and early 17th centuries. In 1584 and 1602 respectively, [[John Norden]] and [[Richard Carew (antiquary)|Richard Carew]] referred to &quot;goals&quot; in [[Cornish hurling]]. Carew described how goals were made: &quot;they pitch two bushes in the ground, some eight or ten foote asunder; and directly against them, ten or twelue [twelve] score off, other twayne in like distance, which they terme their Goales&quot;.&lt;ref&gt;{{cite web
+|url=http://www.gutenberg.org/dirs/etext06/srvcr10.txt
+|title=EBook of The Survey of Cornwall
+|last=Richard
+|first= Carew
+|publisher=Project Gutenberg
+|accessdate=2007-10-03}}&lt;/ref&gt; He is also the first to describe goalkeepers and passing of the ball between players.
+* the first direct reference to ''scoring a goal'' is in [[John Day (dramatist)|John Day]]'s play ''[[The Blind Beggar of Bethnal Green]]'' (performed circa 1600; published 1659): &quot;I'll play a gole at [[Camping (game)|camp-ball]]&quot; (an extremely violent variety of football, which was popular in [[East Anglia]]). Similarly in a poem in 1613, [[Michael Drayton]] refers to &quot;when the Ball to throw, And drive it to the Gole, in squadrons forth they goe&quot;.
+
+=== Calcio Fiorentino ===
+[[File:Calcio fiorentino 1688.jpg|right|thumb|An illustration of the ''Calcio Fiorentino'' field and starting positions, from a 1688 book by Pietro di Lorenzo Bini.]]
+{{Main|Calcio Fiorentino}}
+In the 16th century, the city of [[Florence]] celebrated the period between [[Epiphany (feast)|Epiphany]] and [[Lent]] by playing a game which today is known as &quot;''calcio storico''&quot; (&quot;historic kickball&quot;) in the [[Piazza Santa Croce]]. The young aristocrats of the city would dress up in fine silk costumes and embroil themselves in a violent form of football. For example, ''calcio'' players could punch, shoulder charge, and kick opponents. Blows below the belt were allowed. The game is said to have originated as a military training exercise. In 1580, Count Giovanni de' Bardi di Vernio wrote ''Discorso sopra 'l giuoco del Calcio Fiorentino''. This is sometimes said to be the earliest code of rules for any football game. The game was not played after January 1739 (until it was revived in May 1930).
+
+=== Official disapproval and attempts to ban football ===
+{{Main|Attempts to ban football games}}
+Numerous attempts have been made to ban football games, particularly the most rowdy and disruptive forms. This was especially the case in England and in other parts of Europe, during the [[Middle Ages]] and [[early modern Europe|early modern period]]. Between 1324 and 1667, football was banned in England alone by more than 30 royal and local laws. The need to repeatedly proclaim such laws demonstrated the difficulty in enforcing bans on popular games.
+King [[Edward II of England|Edward II]] was so troubled by the unruliness of football in London that on April 13, 1314 he issued a proclamation banning it: &quot;Forasmuch as there is great noise in the city caused by hustling over large balls from which many evils may arise which God forbid; we command and forbid, on behalf of the King, on pain of imprisonment, such game to be used in the city in the future.&quot;
+
+The reasons for the ban by [[Edward III of England|Edward III]], on June 12, 1349, were explicit: football and other recreations distracted the populace from practicing [[archery]], which was necessary for war. In 1424, the [[Parliament of Scotland]] passed a [[Football Act 1424|Football Act]] that stated ''it is statut and the king forbiddis that na man play at the fut ball under the payne of iiij d'' – in other words, playing football was made illegal, and punishable by a fine of four [[Penny Scots|pence]].
+
+By 1608, the local authorities in [[Manchester]] were complaining that: &quot;With the ffotebale...[there] hath beene greate disorder in our towne of Manchester we are told, and glasse windowes broken yearlye and spoyled by a companie of lewd and disordered persons ...&quot;&lt;ref&gt;[http://www.sport.gov.gr/2/24/243/2431/24314/243144/paper20.html International Olympic Academy (I.O.A.) (no date), “Minutes 7th International Post Graduate Seminar on Olympic Studies”]&lt;/ref&gt; That same year, the word
+&quot;football&quot; was used disapprovingly by [[William Shakespeare]]. Shakespeare's play ''[[King Lear]]'' contains the line: &quot;Nor tripped neither, you base football player&quot; (Act I, Scene 4).
+Shakespeare also mentions the game in ''[[A Comedy of Errors]]'' (Act II, Scene 1):
+
+{{quote|&lt;poem&gt;Am I so round with you as you with me,
+That like a football you do spurn me thus?
+You spurn me hence, and he will spurn me hither:
+If I last in this service, you must case me in leather.&lt;/poem&gt;}}
+
+&quot;Spurn&quot; literally means ''to kick away'', thus implying that the game involved kicking a ball between players.
+
+King [[James I of England]]'s ''Book of Sports'' (1618) however, instructs Christians to play at football every Sunday afternoon after worship.&lt;ref&gt;{{cite book|url=http://books.google.com/?id=sHrejZJVc80C&amp;pg=RA3-PA412&amp;dq=football |title=John Lord Campbell, '&amp;#39;The Lives of the Lords Chancellors and Keepers of the Great Seal of England'&amp;#39;, vol. 2, 1851, p. 412 |publisher=Books.google.co.uk |date= |accessdate=2010-06-19|year=1851}}&lt;/ref&gt; The book's aim appears to be an attempt to offset the strictness of the [[Puritans]] regarding the keeping of the [[Sabbath in Christianity|Sabbath]].&lt;ref&gt;{{cite web|url=http://www.reformed.org/books/hetherington/west_assembly/index.html?mainframe=/books/hetherington/west_assembly/chapter_1a.html#Book%20of%20Sports1618 |title=William Maxwell Hetherington, 1856, '&amp;#39;History of the Westminster Assembly of Divines, Ch.1 (Third Ed.) |publisher=Reformed.org |date= |accessdate=2012-04-16}}&lt;/ref&gt;
+
+== Establishment of modern codes ==
+
+=== English public schools ===
+{{Main|English public school football games}}
+While football continued to be played in various forms throughout Britain, its [[public school (England)|&quot;public&quot; schools]] (known as private schools in other countries) are widely credited with four key achievements in the creation of modern football codes. First of all, the evidence suggests that they were important in taking football away from its &quot;mob&quot; form and turning it into an organised team sport. Second, many early descriptions of football and references to it were recorded by people who had studied at these schools. Third, it was teachers, students and former students from these schools who first codified football games, to enable matches to be played between schools. Finally, it was at English public schools that the division between &quot;kicking&quot; and &quot;running&quot; (or &quot;carrying&quot;) games first became clear.
+
+The earliest evidence that games resembling football were being played at English public schools — mainly attended by boys from the upper, upper-middle and professional classes — comes from the ''Vulgaria'' by William Herman in 1519. Herman had been headmaster at [[Eton College|Eton]] and [[Winchester College|Winchester]] colleges and his [[Latin]] textbook includes a translation exercise with the phrase &quot;We wyll playe with a ball full of wynde&quot;.&lt;ref&gt;A history of Winchester College. by Arthur F Leach. Duckworth, 1899 ISBN 1-4446-5884-0&lt;/ref&gt;
+
+[[Richard Mulcaster]], a student at [[Eton College]] in the early 16th century and later headmaster at other English schools, has been described as &quot;the greatest sixteenth Century advocate of football&quot;.&lt;ref&gt;{{cite web|url=http://www.footballnetwork.org/dev/historyoffootball/history8_18_3.asp |title=2003, &quot;Richard Mulcaster&quot; |publisher=Footballnetwork.org |date= |accessdate=2010-06-19}}&lt;/ref&gt; Among his contributions are the earliest evidence of organised team football. Mulcaster's writings refer to teams (&quot;sides&quot; and &quot;parties&quot;), positions (&quot;standings&quot;), a referee (&quot;judge over the parties&quot;) and a coach &quot;(trayning maister)&quot;. Mulcaster's &quot;footeball&quot; had evolved from the disordered and violent forms of traditional football:
+
+{{quote|[s]ome smaller number with such overlooking, sorted into sides and standings, not meeting with their bodies so boisterously to trie their strength: nor shouldring or shuffing one an other so barbarously ... may use footeball for as much good to the body, by the chiefe use of the legges.&lt;ref&gt;
+Francis Peabody Magoun. (1938) History of football from the beginnings to 1871. p.27. Retrieved 2010-02-09.&lt;/ref&gt;}}
+
+In 1633, [[David Wedderburn (writer)|David Wedderburn]], a teacher from [[Aberdeen]], mentioned elements of modern football games in a short [[Latin]] textbook called ''Vocabula.'' Wedderburn refers to what has been translated into modern English as &quot;keeping goal&quot; and makes an allusion to passing the ball (&quot;strike it here&quot;). There is a reference to &quot;get hold of the ball&quot;, suggesting that some handling was allowed. It is clear that the tackles allowed included the charging and holding of opposing players (&quot;drive that man back&quot;).{{Citation needed|date=June 2009|reason=For the whole paragraph not just the last sentence}}
+
+A more detailed description of football is given in [[Francis Willughby]]'s ''Book of Games'', written in about 1660.&lt;ref&gt;{{cite book|url=http://books.google.com/?id=P-io9DcBllkC&amp;pg=PA168&amp;lpg=PA168&amp;vq=football&amp;dq=willughby+book+of+sports |title=Francis Willughby, 1660–72, '&amp;#39;Book of Games'&amp;#39; |publisher=Books.google.co.uk |date= |accessdate=2010-06-19|isbn=978-1-85928-460-5|year=2003}}&lt;/ref&gt; Willughby, who had studied at [[Bishop Vesey's Grammar School]], [[Sutton Coldfield]], is the first to describe goals and a distinct playing field: &quot;a close that has a gate at either end. The gates are called Goals.&quot; His book includes a diagram illustrating a football field. He also mentions tactics (&quot;leaving some of their best players to guard the goal&quot;); scoring (&quot;they that can strike the ball through their opponents' goal first win&quot;) and the way teams were selected (&quot;the players being equally divided according to their strength and nimbleness&quot;). He is the first to describe a &quot;law&quot; of football: &quot;they must not strike [an opponent's leg] higher than the ball&quot;.{{Citation needed|date=June 2009|reason=For all the quotes in this paragraph}}
+
+English public schools were the first to codify football games. In particular, they devised the first ''[[offside (sport)|offside]]'' rules, during the late 18th century.&lt;ref name=Carosi&gt;[http://mysite.wanadoo-members.co.uk/corshamref/sub/offhist.htm Julian Carosi, 2006, &quot;The History of Offside&quot;]{{dead link|date=June 2010}}&lt;/ref&gt; In the earliest manifestations of these rules, players were &quot;off their side&quot; if they simply stood between the ball and the goal which was their objective. Players were not allowed to pass the ball forward, either by foot or by hand. They could only dribble with their feet, or advance the ball in a ''[[Scrum (rugby)|scrum]]'' or similar ''formation''. However, offside laws began to diverge and develop differently at each school, as is shown by the rules of football from Winchester, [[Rugby School|Rugby]], [[Harrow School|Harrow]] and [[Cheltenham School|Cheltenham]], during between 1810 and 1850.&lt;ref name=Carosi/&gt; The first known codes — in the sense of a set of rules — were those of Eton in 1815 &lt;ref name=&quot;Richard William Cox 2002 243&quot;&gt;{{cite book
+| title = Encyclopedia of British Football
+| first= Richard William |last= Cox | first2= Dave |last2=Russell |first3=Wray |last3=Vamplew
+| publisher = Routledge | year = 2002 | isbn = 978-0-7146-5249-8
+| page = 243
+}}&lt;/ref&gt; and [[Aldenham]] in 1825.&lt;ref name=&quot;Richard William Cox 2002 243&quot;/&gt;)
+
+During the early 19th century, most [[working class]] people in Britain had to work six days a week, often for over twelve hours a day. They had neither the time nor the inclination to engage in sport for recreation and, at the time, many [[Child labour#Industrial Revolution|children were part of the labour force]]. [[Feast day]] football played on the streets was in decline. Public school boys, who enjoyed some freedom from work, became the inventors of organised football games with formal codes of rules.
+
+Football was adopted by a number of public schools as a way of encouraging competitiveness and keeping youths fit. Each school drafted its own rules, which varied widely between different schools and were changed over time with each new intake of pupils. Two schools of thought developed regarding rules. Some schools favoured a game in which the ball could be carried (as at Rugby, [[Marlborough College|Marlborough]] and Cheltenham), while others preferred a game where kicking and dribbling the ball was promoted (as at Eton, Harrow, [[Westminster School|Westminster]] and [[Charterhouse School|Charterhouse]]). The division into these two camps was partly the result of circumstances in which the games were played. For example, Charterhouse and Westminster at the time had restricted playing areas; the boys were confined to playing their ball game within the school [[cloisters]], making it difficult for them to adopt rough and tumble running games.{{Citation needed|date=June 2009|reason=For the whole paragraph}}
+
+[[File:Rugby School 850.jpg|thumb|left|[[Rugby School]] ]] [[William Webb Ellis]], a pupil at Rugby School, is said to have &quot;with a fine disregard for the rules of football, ''as played in his time'' [emphasis added], first took the ball in his arms and ran with it, thus creating the distinctive feature of the rugby game.&quot; in 1823. This act is usually said to be the beginning of Rugby football, but there is little evidence that it occurred, and most sports historians believe the story to be apocryphal. The act of 'taking the ball in his arms' is often misinterpreted as 'picking the ball up' as it is widely believed that Webb Ellis' 'crime' was handling the ball, as in modern soccer, however handling the ball at the time was often permitted and in some cases compulsory,&lt;ref&gt;example of ball handling in early football from English writer [[William Hone]], writing in 1825 or 1826, quotes the social commentator Sir [[Frederick Morton Eden]], regarding &quot;Foot-Ball&quot;, as played at [[Scone, Scotland]]:
+:''The game was this: he who at any time got the ball into his hands, run [sic] with it till overtaken by one of the opposite part; and then, if he could shake himself loose from those on the opposite side who seized him, he run on; if not, he threw the ball from him, unless it was wrested from him by the other party,'' but no person was allowed to kick it. ([http://www.uab.edu/english/hone/etexts/edb/day-pages/046-february15.html William Hone, 1825–26, ''The Every-Day Book'', &quot;February 15.&quot;] Access date: March 15, 2007.)&lt;/ref&gt; the rule for which Webb Ellis showed disregard was ''running forward with it'' as the rules of his time only allowed a player to retreat backwards or kick forwards.
+
+[[Railway Mania|The boom in rail transport in Britain]] during the 1840s meant that people were able to travel further and with less inconvenience than they ever had before. Inter-school sporting competitions became possible. However, it was difficult for schools to play each other at football, as each school played by its own rules. The solution to this problem was usually that the match be divided into two halves, one half played by the rules of the host &quot;home&quot; school, and the other half by the visiting &quot;away&quot; school.
+
+The ''modern'' rules of many football codes were formulated during the mid- or late- 19th century. This also applies to other sports such as lawn bowls, lawn tennis, etc. The major impetus for this was the patenting of the world's first [[lawnmower]] in 1830. This allowed for the preparation of modern ovals, playing fields, pitches, grass courts, etc.&lt;ref&gt;ABC Radio National ''Ockham's Razor'', first broadcast 6 June 2010.&lt;/ref&gt;
+
+Apart from Rugby football, the public school codes have barely been played beyond the confines of each school's playing fields. However, many of them are still played at the schools which created them (see [[Football#Surviving UK school games|Surviving UK school games]] below).
+
+Public schools' dominance of sports in the UK began to wane after the [[Factory Act 1850|''Factory Act'' of 1850]], which significantly increased the recreation time available to working class children. Before 1850, many British children had to work six days a week, for more than twelve hours a day. From 1850, they could not work before 6&amp;nbsp;a.m. (7&amp;nbsp;a.m. in winter) or after 6&amp;nbsp;p.m. on weekdays (7&amp;nbsp;p.m. in winter); on Saturdays they had to cease work at 2&amp;nbsp;p.m. These changes mean that working class children had more time for games, including various forms of football.
+
+=== Firsts ===
+
+==== Clubs ====
+{{Main|Oldest football clubs}}
+
+Sports clubs dedicated to playing football began in the 18th century, for example [[The Gymnastic Society|London's Gymnastic Society]] which was founded in the mid-18th century and ceased playing matches in 1796.&lt;ref&gt;THE SURREY CLUB Bell's Life in London and Sporting Chronicle (London, England), Sunday, October 07, 1849; pg. 6.New Readerships&lt;/ref&gt;&lt;ref&gt;Football: The First Hundred Years. The Untold Story. Adrian Harvey. 2005. Routledge, London&lt;/ref&gt;
+
+The first documented club to bear in the title a reference to being a 'football club' were called &quot;The Foot-Ball Club&quot; who were located in [[Edinburgh]], [[Scotland]], during the period 1824–41.&lt;ref&gt;John Hope, ''Accounts and papers of the football club kept by John Hope, WS, and some Hope Correspondence 1787–1886'' (National Archives of Scotland, GD253/183)&lt;/ref&gt;&lt;ref name=&quot;Nas.gov.uk&quot;&gt;{{cite web|url=http://www.nas.gov.uk/about/071112.asp |title=The Foot-Ball Club in Edinburgh, 1824–1841 – The National Archives of Scotland |publisher=Nas.gov.uk |date=2007-11-13 |accessdate=2010-06-19}}&lt;/ref&gt;  The club forbade tripping but allowed pushing and holding and the picking up of the ball.&lt;ref name=&quot;Nas.gov.uk&quot;/&gt;
+
+Two clubs which claim to be the world's [[Oldest football club|oldest existing football club]], in the sense of a club which is not part of a school or university, are strongholds of rugby football: the [[Barnes R.F.C.|Barnes Club]], said to have been founded in 1839, and [[Guy's Hospital Football Club]], in 1843. Neither date nor the variety of football played is well documented, but such claims nevertheless allude to the popularity of rugby before other modern codes emerged.
+
+In 1845, three boys at Rugby school were tasked with codifying the rules then being used at the school. These were the first set of written rules (or code) for any form of football.&lt;ref&gt;{{cite web |title=Rugby chronology |work=Museum of Rugby |url=http://www.rfu.com/microsites/museum/page.aspx?section=89&amp;sectionTitle=World+Rugby+Chronology |accessdate=April 24, 2006}}&lt;/ref&gt; This further assisted the spread of the Rugby game. For instance, [[Dublin University Football Club]]—founded at [[Trinity College, Dublin]] in 1854 and later famous as a bastion of the Rugby School game—is the world's oldest documented football club in any code.
+
+==== Competitions ====
+{{Main|Oldest football competitions}}
+
+One of the longest running football fixture is the [[Cordner-Eggleston Cup]], contested between [[Melbourne Grammar School]] and [[Scotch College, Melbourne]] every year since 1858. It is believed by many to also be the first match of [[Australian rules football]], although it was played under experimental rules in its first year. The first football trophy tournament was the Caledonian Challenge Cup, donated by the Royal [[Caledonians|Caledonian]] Society of Melbourne, played in 1861 under the [[Melbourne Rules]].&lt;ref&gt;{{cite web|url=http://www.electricscotland.com/history/australia/melbourne.htm |title=History of the Royal Caledonian Society of Melbourne |publisher=Electricscotland.com |date= |accessdate=2010-06-19}}&lt;/ref&gt;  The oldest football league is a rugby football competition, the [[United Hospitals Challenge Cup]] (1874), while the oldest rugby trophy is the [[Yorkshire Cup (rugby union)|Yorkshire Cup]], contested since 1878. The [[South Australian Football Association]] (30 April 1877) is the oldest surviving Australian rules football competition. The oldest surviving soccer trophy is the [[Youdan Cup]] (1867) and the oldest national soccer competition is the English FA Cup (1871).   [[The Football League]] (1888) is recognised as the longest running Association Football league. The [[England v Scotland (1870)|first ''ever'' international football match]] took place between sides representing England and Scotland on March 5, 1870 at [[the Oval]] under the authority of the FA. The first Rugby international took place in 1871.
+
+==== Modern balls ====
+{{Main|Football (ball)}}
+
+[[File:Richard Lindon (1816-1887).jpg|upright|thumb|[[Richard Lindon]] (seen in 1880) is believed to have invented the first footballs with rubber bladders.]] In Europe, early footballs were made out of animal [[urinary bladder|bladders]], more specifically [[Pig bladder|pig's bladders]], which were inflated. Later [[leather]] coverings were introduced to allow the balls to keep their shape.&lt;ref&gt;[http://www.soccerballworld.com/History.htm#Early Soccer Ball World – Early History]. Retrieved June 9, 2006. {{Wayback|url=http://www.soccerballworld.com/History.htm#Early|date =20060616030554|bot=DASHBot}}&lt;/ref&gt; However, in 1851, [[Richard Lindon]] and [[William Gilbert (Rugby)|William Gilbert]], both shoemakers from the town of [[Rugby, Warwickshire|Rugby]] (near the school), exhibited both round and oval-shaped balls at the [[Great Exhibition]] in London. Richard Lindon's wife is said to have died of lung disease caused by blowing up pig's bladders.&lt;ref&gt;The exact name of Mr Lindon is in dispute, as well as the exact timing of the creation of the inflatable bladder. It is known that he created this for both association and rugby footballs. However, sites devoted to football indicate he was known as [http://www.richardlindon.com HJ Lindon], who was actually Richards Lindon's son, and created the ball in 1862 (ref: [http://www.soccerballworld.com/History.htm Soccer Ball World]), whereas rugby sites refer to him as [[Richard Lindon]] creating the ball in 1870 (ref: [http://observer.guardian.co.uk/osm/story/0,,1699545,00.html Guardian article]). Both agree that his wife died when inflating pig's bladders. This information originated from web sites which may be unreliable, and the answer may only be found in researching books in central libraries.&lt;/ref&gt; Lindon also won medals for the invention of the &quot;Rubber inflatable Bladder&quot; and the &quot;Brass Hand Pump&quot;.
+
+In 1855, the U.S. inventor [[Charles Goodyear]] — who had patented [[vulcanized rubber]] — exhibited a spherical football, with an exterior of vulcanized rubber panels, at the [[Exposition Universelle (1855)|Paris ''Exhibition Universelle'']]. The ball was to prove popular in early forms of football in the U.S.A.&lt;ref&gt;[http://www.soccerballworld.com/Oldestball.htm soccerballworld.com, (no date) &quot;Charles Goodyear's Soccer Ball&quot;] Downloaded 30/11/06.&lt;/ref&gt;
+
+The iconic ball with a regular pattern of hexagons and pentagons (see [[truncated icosahedron]]) did not become popular until the 1960s, and was first used in the World Cup [[1970 FIFA World Cup|in 1970]].
+
+==== Modern ball passing tactics ====
+{{Main|Passing (association football)}}
+
+The earliest reference to a game of football involving players passing the ball and attempting to score past a goalkeeper was written in 1633 by David Wedderburn, a poet and teacher in [[Aberdeen]], [[Scotland]].&lt;ref&gt;[http://www.scotsman.com/news/scottish-news/edinburgh-east-fife/scots_invented_beautiful_game_1_1121849 Scots invented beautiful game] The Scotsman, 14 June 2006&lt;/ref&gt;  Nevertheless, the original text does not state whether the allusion to passing as 'kick the ball back' ('Repercute pilam') was in a forward or backward direction or between members of the same opposing teams (as was usual at this time)&lt;ref&gt;Magoun, Francis Peabody (1938).  History of football from the beginnings to 1871.  Published by H. Pöppinghaus&lt;/ref&gt;
+
+&quot;Scientific&quot; football is first recorded in 1839 from [[Lancashire]]&lt;ref&gt;Bell's Life in London and Sporting Chronicle (London, England), Sunday, January 13, 1839.New Readerships&lt;/ref&gt; and in the modern game in Rugby football from 1862&lt;ref&gt;Blackwood's Magazine, Published by W. Blackwood, 1862, page 563&lt;/ref&gt; and from Sheffield FC as early as 1865.&lt;ref&gt;Bell's Life in London and Sporting Chronicle (London, England), Saturday, January 07, 1865; Issue 2,229: &quot;The Sheffield party, however, eventually took a lead, and through some scientific movements of Mr J Wild, scored a goal amid great cheering&quot;&lt;/ref&gt;&lt;ref&gt;Bell's life in london, November 26th 1865, issue 2275: &quot;We cannot help recording the really scientific play with which the Sheffield men backed each other up&lt;/ref&gt;  The first side to play a passing [[combination game]] was the [[Royal Engineers AFC]] in 1869/70&lt;ref&gt;{{cite book |last= Wall|first= Sir Frederick|title= 50 Years of Football, 1884–1934|year= 2005|publisher= Soccer Books Limited|location= |isbn= 1-86223-116-8}}&lt;/ref&gt;&lt;ref name=autogenerated1&gt;[Cox, Richard (2002) The encyclopaedia of British Football, Routledge, United Kingdom]&lt;/ref&gt; By 1869 they were &quot;work[ing] well together&quot;, &quot;backing up&quot; and benefiting from &quot;cooperation&quot;.&lt;ref&gt;Bell's Life in London and Sporting Chronicle, 18 December 1869&lt;/ref&gt; By 1870 the Engineers were passing the ball: &quot;Lieut. Creswell, who having brought the ball up the side then kicked it into the middle to another of his side, who kicked it through the posts the minute before time was called&quot;&lt;ref&gt;Bell's Life in London and Sporting Chronicle, 5 November 1870,issue 2&lt;/ref&gt; Passing was a regular feature of their style&lt;ref&gt;Bell's Life in London and Sporting Chronicle, 18 November 1871,issue 2, 681&lt;/ref&gt; By early 1872 the Engineers were the first football team renowned for &quot;play[ing] beautifully together&quot;&lt;ref&gt;Bell's Life in London and Sporting Chronicle, 17 February 1872,issue 2694&lt;/ref&gt; A double pass is first reported from Derby school against [[Nottingham Forest]] in March 1872, the first of which is irrefutably a ''short'' pass: &quot;Mr Absey dribbling the ball half the length of the field delivered it to Wallis, who kicking it cleverly in front of the goal, sent it to the captain who drove it at once between the Nottingham posts&quot;&lt;ref&gt;The Derby Mercury (Derby, England), Wednesday, March 20, 1872; Issue 8226&lt;/ref&gt; The first side to have perfected the modern formation was [[Cambridge University AFC]]&lt;ref&gt;{{cite book|first=Brendan|last=Murphy|title=From Sheffield with Love|year=2007|publisher=Sports Book Limited|isbn=978-1-899807-56-7|page=59}}&lt;/ref&gt;&lt;ref&gt;Association Football, chapter by CW Alcock, The English Illustrated Magazine 1891, page 287&lt;/ref&gt;&lt;ref&gt;{{cite book|first=Adrian|last=Harvey|title=Football, the First Hundred Years|year=2005|pages=273, ref 34–119|publisher=Routledge|isbn=0-415-35019-0|url=http://books.google.com/?id=TxoZ0S-GC7MC}}&lt;/ref&gt; and introduced the 2–3–5 &quot;pyramid&quot; formation.&lt;ref&gt;Csanadi Arpad, Hungerian coaching manual &quot;Soccer&quot;, Corvina, Budapest 1965&lt;/ref&gt;&lt;ref&gt;Wilson Jonathon, Inverting the pyramid: a History of Football Tactics , Orion, 2008&lt;/ref&gt;
+
+=== Cambridge rules ===
+{{Main|Cambridge rules}}
+In 1848, at [[University of Cambridge|Cambridge University]], [[H. de Winton and J. C. Thring|Mr. H. de Winton and Mr. J.C. Thring]], who were both formerly at [[Shrewsbury School]], called a meeting at [[Trinity College, Cambridge]] with 12 other representatives from Eton, Harrow, Rugby, [[Winchester College|Winchester]] and Shrewsbury. An eight-hour meeting produced what amounted to the first set of modern rules, known as the ''Cambridge rules''. No copy of these rules now exists, but a revised version from circa 1856 is held in the library of Shrewsbury School.&lt;ref&gt;
+{{cite web|title=Football Association tribute to the Cambridge Rules|url=http://www.admin.cam.ac.uk/news/dp/2006121303|accessdate=2011-04-28}}{{dead link|date=September 2012}}
+&lt;/ref&gt; The rules clearly favour the kicking game. Handling was only allowed ''when a player catches the ball directly from the foot'' entitling them to a free kick and there was a primitive offside rule, disallowing players from &quot;loitering&quot; around the opponents' goal. The Cambridge rules were not widely adopted outside English public schools and universities (but it was arguably the most significant influence on [[the Football Association]] committee members responsible for formulating the rules of [[Association football]]).
+
+=== Sheffield rules ===
+{{Main|Sheffield rules}}
+By the late 1850s, many football clubs had been formed throughout the English-speaking world, to play various codes of football. [[Sheffield F.C.|Sheffield Football Club]], founded in 1857 in the English city of [[Sheffield]] by Nathaniel Creswick and William Prest, was later recognised as the world's oldest club playing association football.&lt;ref name=&quot;Football, the First Hundred Years&quot;&gt;{{cite book|first=Adrian|last=Harvey|title=Football, the First Hundred Years|year=2005|pages=95–99|publisher=Routledge|isbn=0-415-35019-0|url=http://books.google.com/?id=TxoZ0S-GC7MC}}&lt;/ref&gt;
+However, the club initially played its own code of football: the ''Sheffield rules''. The code was largely independent of the public school rules, the most significant difference being the lack of an ''offside'' rule.
+
+The code was responsible for many innovations that later spread to association football. These included [[wikt:free kick|free kick]]s, [[corner kick]]s, handball, [[throw-in]]s and the crossbar.&lt;ref&gt;{{cite book|first=Brendan|last=Murphy|title=From Sheffield with Love|year=2007|pages=41–43|publisher=Sports Book Limited|isbn=978-1-899807-56-7}}&lt;/ref&gt; By the 1870s they became the dominant code in the north and midlands of England. At this time a series of rule changes by both the [[The Football Association|London]] and [[Sheffield and Hallamshire County Football Association|Sheffield]] FAs gradually eroded the differences between the two games until the adoption of a common code in 1877.
+
+=== Australian rules ===
+{{Main|Australian rules football}}
+{{See also|Origins of Australian rules football}}
+[[File:Tom Wills 1857.jpg|thumb|left|upright|[[Tom Wills]], widely regarded as the father of Australian football]]
+There is archival evidence of &quot;foot-ball&quot; games being played in various parts of Australia throughout the first half of the 19th century. The origins of an organised game of football known today as Australian rules football can be traced back to 1858 in [[Melbourne]], the capital city of [[Victoria (state)|Victoria]].
+
+In July 1858, [[Tom Wills]], an Australian-born cricketer educated at [[Rugby School]] in England, wrote a letter to ''[[Bell's Life in Victoria|Bell's Life in Victoria &amp; Sporting Chronicle]]'', calling for a &quot;foot-ball club&quot; with a &quot;code of laws&quot; to keep cricketers fit during winter.&lt;ref&gt;{{cite web | title=Letter from Tom Wills | work=MCG website | url=http://www.mcg.org.au/default.asp?pg=footballdisplay&amp;articleid=37|accessdate=2006-07-14|archiveurl = http://web.archive.org/web/20060625081726/http%3A//www.mcg.org.au/default.asp%3Fpg%3Dfootballdisplay%26articleid%3D37 |archivedate = June 25, 2006|deadurl=yes}}&lt;/ref&gt; This is considered by historians to be a defining moment in the creation of Australian rules football. Through publicity and personal contacts Wills was able to co-ordinate football matches in Melbourne that experimented with various rules,&lt;ref name=Origins&gt;{{cite web | title=The Origins of Australian Rules Football | work=MCG website | url=http://www.mcg.org.au/default.asp?pg=footballdisplay&amp;articleid=36|accessdate=2007-06-22|archiveurl = http://web.archive.org/web/20070611104451/http%3A//www.mcg.org.au/default.asp%3Fpg%3Dfootballdisplay%26articleid%3D36 |archivedate = June 11, 2007|deadurl=yes}}&lt;/ref&gt; the first of which was played on July 31, 1858. One week later, Wills umpired a schoolboys match between [[Melbourne Grammar School]] and [[Scotch College (Melbourne)|Scotch College]]. Following these matches, organised football in Melbourne rapidly increased in popularity.
+
+[[File:Australianfootball1866.jpg|thumb|Wood engraving of an Australian rules football match at the [[Yarra Park|Richmond Paddock]], [[Melbourne]], 1866]]
+Wills and others involved in these early matches formed the [[Melbourne Football Club]] (the oldest surviving Australian football club) on May 14, 1859. Club members Wills, [[William Hammersley]], [[J. B. Thompson]] and [[Thomas H. Smith]] met with the intention of forming a set of rules that would be widely adopted by other clubs. The committee debated rules used in English public school games; Wills pushed for various [[rugby football]] rules he learnt during his schooling. The first rules share similarities with these games, and were shaped to suit to Australian conditions. [[H. C. A. Harrison]], a seminal figure in Australian football, recalled that his cousin Wills wanted &quot;a game of our own&quot;.&lt;ref&gt;{{Cite book|last1=Hibbins|first1=Gillian|last2=Mancini|last2=Anne |title=Running with the Ball: Football's Foster Father|publisher=Lynedoch Publications|year=1987|pages=118–119|isbn=0-7316-0481-4}}&lt;/ref&gt; The code was distinctive in the prevalence of the [[Mark (Australian football)|mark]], [[Free kick (Australian rules football)|free kick]], [[Tackle (football move)#Australian rules football|tackling]], lack of an offside rule and that players were specifically penalised for [[Handball (Australian rules football)|throwing the ball]].
+
+The Melbourne football rules were widely distributed and gradually adopted by the other Victorian clubs. The rules were updated several times during the 1860s to accommodate the rules of other influential Victorian football clubs. A significant redraft in 1866 by H. C. A. Harrison's committee accommodated the [[Geelong Football Club]]'s rules, making the game then known as &quot;Victorian Rules&quot; increasingly distinct from other codes. It soon adopted cricket fields and an oval ball, used specialised goal and behind posts, and featured [[running bounce|bouncing the ball while running]] and [[specky|spectacular high marking]]. The game spread quickly to other [[Australian states and territories|Australian colonies]]. Outside of its heartland in southern Australia the code experienced a significant period of decline following [[World War I]] but has since grown throughout Australia and in [[Australian football around the world|other parts of the world]], and the [[Australian Football League]] emerged as the dominant professional competition.
+
+=== Football Association ===
+[[File:England v Scotland (1872).jpg|thumb|The first [[Association football|football]] international, [[Scotland national football team|Scotland]] versus [[England national football team|England]]. Once kept by the [[Rugby Football Union]] as an early example of [[rugby football]].]]
+{{Main|The Football Association}}
+During the early 1860s, there were increasing attempts in England to unify and reconcile the various public school games. In 1862, J. C. Thring, who had been one of the driving forces behind the original Cambridge Rules, was a master at [[Uppingham School]] and he issued his own rules of what he called &quot;The Simplest Game&quot; (these are also known as the Uppingham Rules). In early October 1863 another new revised version of the Cambridge Rules was drawn up by a seven member committee representing former pupils from Harrow, Shrewsbury, Eton, Rugby, Marlborough and Westminster.
+
+At the [[Freemasons' Tavern]], Great Queen Street, London on the evening of October 26, 1863, representatives of several football clubs in the [[County of London|London Metropolitan area]] met for the inaugural meeting of [[The Football Association]] (FA). The aim of the Association was to establish a single unifying code and regulate the playing of the game among its members. Following the first meeting, the public schools were invited to join the association. All of them declined, except Charterhouse and Uppingham. In total, six meetings of the FA were held between October and December 1863. After the third meeting, a draft set of rules were published. However, at the beginning of the fourth meeting, attention was drawn to the recently published Cambridge Rules of 1863. The Cambridge rules differed from the draft FA rules in two significant areas; namely running with (carrying) the ball and hacking (kicking opposing players in the shins). The two contentious FA rules were as follows:
+
+{{quote|IX. A player shall be entitled to run with the ball towards his adversaries' goal if he makes a fair catch, or catches the ball on the first bound; but in case of a fair catch, if he makes his mark he shall not run.
+&lt;p&gt;
+X. If any player shall run with the ball towards his adversaries' goal, any player on the opposite side shall be at liberty to charge, hold, trip or hack him, or to wrest the ball from him, but no player shall be held and hacked at the same time.|&lt;ref&gt;Peter Shortell. [http://clubs.rfu.com/Clubs/portals/cornwallreferees/ThoughtsforRefs6667.aspx  Hacking – a history], [http://clubs.rfu.com/Clubs/portals/cornwallreferees/CRRSHistory6515.aspx Cornwall Referees Society], 2 October 2006&lt;/ref&gt;}}
+
+At the fifth meeting it was proposed that these two rules be removed. Most of the delegates supported this, but [[F. M. Campbell]], the representative from [[Blackheath Rugby Club|Blackheath]] and the first FA treasurer, objected. He said: &quot;hacking is the true football&quot;. However, the motion to ban running with the ball in hand and hacking was carried and Blackheath withdrew from the FA. After the final meeting on 8 December, the FA published the &quot;[[Laws of the Game (association football)|Laws of Football]]&quot;, the first comprehensive set of rules for the game later known as [[Association football|Association Football]]. The term &quot;soccer&quot;, in use since the late 19th century, derives from an abbreviation of &quot;Association&quot;.&lt;ref name=OEDsoccer&gt;{{cite journal |last= |first= |authorlink= |date=June 2011|title= soccer, n|journal=[[Oxford English Dictionary]] |volume= |issue= |pages=  |url= http://www.oed.com/view/Entry/183733|accessdate=July 1, 2011}}&lt;/ref&gt;
+
+The first FA rules still contained elements that are no longer part of association football, but which are still recognisable in other games (such as Australian football and rugby football): for instance, a player could make a fair catch and claim a ''[[Mark (Australian football)|mark]]'', which entitled him to a free kick; and if a player touched the ball behind the opponents' goal line, his side was entitled to a ''free kick'' at goal, from 15&amp;nbsp;yards (13.5&amp;nbsp;metres) in front of the goal line.
+
+=== Rugby football ===
+{{Main|History of rugby union}}
+[[File:Football London Ilustrated News.gif|thumb|A rugby scrum in 1871]]
+In [[United Kingdom of Great Britain and Ireland|Britain]], by 1870, there were about 75 clubs playing variations of the Rugby school game. There were also &quot;rugby&quot; clubs in Ireland, Australia, Canada and New Zealand. However, there was no generally accepted set of rules for rugby until 1871, when 21 clubs from London came together to form the [[Rugby Football Union]] (RFU). The first official RFU rules were adopted in June 1871. These rules allowed passing the ball. They also included the [[try]], where touching the ball over the line allowed an attempt at goal, though drop-goals from marks and general play, and penalty conversions were still the main form of contest.
+
+=== North American football codes ===
+{{Refimprove|date=December 2007}}
+{{Main|History of American football|Canadian football#History}}
+
+As was the case in Britain, by the early 19th century, North American schools and universities played their own local games, between sides made up of students. Students at [[Dartmouth College]] in [[New Hampshire]] played a game called [[Old division football]], a variant of the association football codes, as early as the 1820s.
+
+[[File:The Tigers of Hamilton football team.jpg|thumb|The &quot;Tigers&quot; of [[Hamilton, Ontario]], circa 1906. Founded 1869 as the Hamilton Foot Ball Club, they eventually merged with the Hamilton Flying Wildcats to form the [[Hamilton Tiger-Cats]], a team still active in the [[Canadian Football League]].&lt;ref name=&quot;Football Canada timeline&quot;&gt;{{cite web|url=http://www.footballcanada.com/history_timeline.asp|title=Canadian Football Timelines (1860– present)|accessdate=2006-12-23|publisher=[[Football Canada]]|archiveurl = http://web.archive.org/web/20070228064050/http%3A//www.footballcanada.com/history_timeline.asp |archivedate = February 28, 2007|deadurl=yes}}&lt;/ref&gt;]]
+The first game of rugby in Canada is generally said to have taken place in [[Montreal]], in 1865, when [[British Army]] officers played local civilians. The game gradually gained a following, and the [[Montreal Football Club]] was formed in 1868, the first recorded football club in Canada.
+
+In 1869, the [[1869 college football season|first game played]] in the United States under rules based on the FA code occurred between [[Princeton University|Princeton]] and [[Rutgers University|Rutgers]]. This is also often considered to be the first U.S. game of [[college football]], in the sense of a game between colleges (although the eventual form of American football would come from rugby, not association football).
+
+Modern [[American football]] grew out of a match between [[McGill University]] of Montreal, and [[Harvard University]] in 1874.&lt;ref&gt;{{cite web | title = No Christian End! The Beginnings of Football in America | work = The Professional Football Researchers Association | url = http://www.profootballresearchers.org/Articles/No_Christian_End.pdf}}&lt;/ref&gt; At the time, Harvard students are reported to have played the [[Boston Game]] — a ''running'' code — rather than the FA-based ''kicking'' games favoured by U.S. universities. This made it easy for Harvard to adapt to the rugby-based game played by McGill and the two teams alternated between their respective sets of rules. Within a few years, however, Harvard had both adopted McGill's rugby rules and had persuaded other U.S. university teams to do the same. In 1876, at the [[Massasoit Convention]], it was agreed by these universities to adopt most of the [[Rugby Football Union]] rules, with some variations. Princeton, Rutgers and others continued to compete using soccer-based rules for a few years before switching to the rugby-based rules of Harvard and its competitors. U.S. colleges did not generally return to soccer until the early 20th century.
+
+[[File:1882RutgersFootballTeam.jpg|thumb|left|Rutgers College Football Team, 1882]]
+In 1880, [[Yale University|Yale]] coach [[Walter Camp]], devised a number of major changes to the American game. Camp's two most important rule innovations in establishing American football as distinct from the rugby football games on which it is based are ''scrimmage'' and ''down-and-distance'' rules.
+
+[[Snap (football)|Scrimmage]] refers to the practice of starting action by delivering the ball from the ground to another player's hand. Camp's original rule allowed this delivery to be done only with the feet; the rule was soon changed to allow the ball to be passed by hand. The rule also established a distinct [[line of scrimmage]] which separates the two teams from each other. When a player is tackled, he is ruled [[Down (American football)|down]] and play stops, while the teams reset on either side of the line of scrimmage. Play then resumes with the delivery of the ball. Teams are given a limited number of downs to achieve a certain distance (always measured in [[yard]]s). In American football, teams are given four downs to advance the ball ten yards, after which possession of the ball changes. In Canadian football, teams are allowed three downs to advance ten yards. These rules created a fundamental distinction between the North American codes and rugby codes. Rugby is still fundamentally a continuous-action game, while North American codes are organized around running discrete &quot;[[Play from scrimmage|plays]]&quot;, as defined as starting with the delivery from &quot;scrimmage&quot; and ending with the &quot;down&quot;.
+
+====Criticisms and partial adjustments====
+:&quot;No sport is wholesome in which ungenerous or mean acts which easily escape detection contribute to victory.&quot; - [[Charles William Eliot]], President of [[Harvard University]] (1869-1909) opposing football in 1905.&lt;ref&gt;[http://books.google.com/books?id=Kf9KAAAAYAAJ&amp;pg=PA188&amp;lpg=PA188&amp;dq=%22no+sport+is+wholesome+in+which+ungenerous+or+mean+acts+which+easily+escape+detection+contribute+to+victory%22&amp;source=bl&amp;ots=xEGtRHP78C&amp;sig=-syJZ8Z6kOXMVzUG4NPYXJ4KpdY&amp;hl=en&amp;ei=iwzbS9vQEoH-8AaTxuVG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CBgQ6AEwAg#v=onepage&amp;q=%22no%20sport%20is%20wholesome%20in%20which%20ungenerous%20or%20mean%20acts%20which%20easily%20escape%20detection%20contribute%20to%20victory%22&amp;f=false &quot;President Eliot on Football.&quot;] ''The School Journal, Volume 70'', United Education Company, New York, Chicago, and Boston, February 18, 1905, p.188.&lt;/ref&gt;
+
+American football, in its early years, was an excessively violent game, plagued with several deaths and life-changing injuries every year. The violence became so drastic that [[President of the United States|President]] [[Theodore Roosevelt]] threatened to shut down the game in 1905, should rules not be changed to minimize this violence.&lt;ref&gt;{{cite journal |last=Lewis |first=Guy M. |year=1969 |title=Teddy Roosevelt's Role in the 1905 Football Controversy |journal=The Research Quarterly |volume=40 |pages=717–724 |id= |url= |quote= }}&lt;/ref&gt; Several rule changes were put into place that year, but the most enduring has been the introduction of the legal [[forward pass]] which opened up the play and, like Camp's rule changes of the 1880s, fundamentally changed the nature of the sport. When it became legal to throw the ball forward, an entire new method of advancing the ball emerged. As a result, players became more specialized in their roles, as the different positions on the team required different skill sets. Thus, some players are primarily involved in running with the ball (the [[running back]]) while others specialize in throwing (the [[quarterback]]), catching (the [[wide receiver]]), or blocking (the [[offensive line]]). With the advent of free substitution rules in the 1940s and 1950s, teams could deploy separate offensive and defensive &quot;platoons&quot; which led to even greater specialization.
+
+Over the years, Canadian football absorbed some developments in American football, but also retained many unique characteristics. One of these was that Canadian football, for many years, did not officially distinguish itself from rugby. For example, the '''Canadian Rugby Football Union''', founded in 1884 was the forerunner of the [[Canadian Football League]], rather than a rugby union body. (The Canadian Rugby Union, today known as [[Rugby Canada]], was not formed until 1965.) American football was also frequently described as &quot;rugby&quot; in the 1880s.
+
+=== Gaelic football ===
+[[File:Croke Park from the hill.jpg|thumb|300px|The [[All-Ireland Senior Football Championship|All-Ireland Football Final]] in [[Croke Park]], 2004.]]
+{{Main|Gaelic football#History|l1=History of Gaelic football}}
+In the mid-19th century, various traditional football games, referred to collectively as ''[[caid (sport)|caid]]'', remained popular in Ireland, especially in [[County Kerry]]. One observer, Father W. Ferris, described two main forms of ''caid'' during this period: the &quot;field game&quot; in which the object was to put the ball through arch-like goals, formed from the boughs of two trees; and the epic &quot;cross-country game&quot; which took up most of the daylight hours of a Sunday on which it was played, and was won by one team taking the ball across a [[parish]] boundary. &quot;Wrestling&quot;, &quot;holding&quot; opposing players, and carrying the ball were all allowed.
+
+By the 1870s, Rugby and Association football had started to become popular in Ireland. [[Trinity College, Dublin]] was an early stronghold of Rugby (see the [[Football#Other developments in the 1850s|Developments in the 1850s]] section, above). The rules of the English FA were being distributed widely. Traditional forms of ''caid'' had begun to give way to a &quot;rough-and-tumble game&quot; which allowed tripping.
+
+There was no serious attempt to unify and codify Irish varieties of football, until the establishment of the [[Gaelic Athletic Association]] (GAA) in 1884. The GAA sought to promote traditional Irish sports, such as [[hurling]] and to reject imported games like Rugby and Association football. The first Gaelic football rules were drawn up by [[Maurice Davin]] and published in the ''United Ireland'' magazine on February 7, 1887. Davin's rules showed the influence of games such as hurling and a desire to formalise a distinctly Irish code of football. The prime example of this differentiation was the lack of an offside rule (an attribute which, for many years, was shared only by other Irish games like hurling, and by Australian rules football).
+
+===  Schism in Rugby football ===
+[[File:Reverend marshall.jpg|thumb|An English cartoon from the 1890s lampooning the divide in rugby football which led to the formation of [[rugby league]]. The caricatures are of Rev. Frank Marshall, an arch-opponent of player payments, and James Miller, a long-time opponent of Marshall. The caption reads:
+
+Marshall: &quot;Oh, fie, go away naughty boy, I don't play with boys who can’t afford to take a holiday for football any day they like!&quot;
+
+Miller: &quot;Yes, that's just you to a T; you’d make it so that no lad whose father wasn’t a millionaire could play at all in a really good team. For my part I see no reason why the men who make the money shouldn’t have a share in the spending of it.&quot;]]
+{{Further|History of rugby league}}
+The [[International Rugby Board|International Rugby Football Board]] (IRFB) was founded in 1886, but rifts were beginning to emerge in the code. [[professional sports|Professionalism]] was beginning to creep into the various codes of football.
+
+In England, by the 1890s, a long-standing [[Rugby Football Union]] ban on ''professional'' players was causing regional tensions within rugby football, as many players in northern England were [[working class]] and could not afford to take time off to train, travel, play and recover from injuries. This was not very different from what had occurred ten years earlier in soccer in Northern England but the authorities reacted very differently in the RFU, attempting to alienate the working class support in Northern England. In 1895, following a dispute about a player being paid broken time payments, which replaced wages lost as a result of playing rugby, representatives of the northern clubs met in [[Huddersfield]] to form the [[Rugby Football League|Northern Rugby Football Union]] (NRFU). The new body initially permitted only various types of player wage replacements. However, within two years, NRFU players could be paid, but they were required to have a job outside sport.
+
+The demands of a professional league dictated that rugby had to become a better &quot;spectator&quot; sport. Within a few years the NRFU rules had started to diverge from the RFU, most notably with the abolition of the ''[[line-out (rugby union)|line-out]]''. This was followed by the replacement of the ''[[Playing rugby union#Ruck|ruck]]'' with the &quot;play-the-ball ruck&quot;, which allowed a two-player ruck contest between the tackler at marker and the player tackled. ''[[Rugby union gameplay#Maul|Mauls]]'' were stopped once the ball carrier was held, being replaced by a play-the ball-ruck. The separate Lancashire and Yorkshire competitions of the NRFU merged in 1901, forming the ''Northern Rugby League'', the first time the name [[rugby league]] was used officially in England.
+
+Over time, the RFU form of rugby, played by clubs which remained members of national federations affiliated to the IRFB, became known as [[rugby union]].
+
+=== Globalisation of association football ===
+{{Main|History of FIFA}}
+The need for a single body to oversee association football had become apparent by the beginning of the 20th century, with the increasing popularity of international fixtures. The English Football Association had chaired many discussions on setting up an international body, but was perceived as making no progress. It fell to associations from seven other European countries: France, Belgium, Denmark, Netherlands, Spain, Sweden, and Switzerland, to form an international association. The ''Fédération Internationale de Football Association'' ([[FIFA]]) was founded in Paris on May 21, 1904. Its first president was [[Robert Guérin]]. The French name and acronym has remained, even outside French-speaking countries.
+
+=== Further divergence of the two rugby codes ===
+Rugby league rules diverged significantly from rugby union in 1906, with the reduction of the team from 15 to 13 players. In 1907, a New Zealand professional rugby team toured Australia and Britain, receiving an enthusiastic response, and professional [[rugby league in Australia|rugby leagues were launched in Australia]] the following year. However, the rules of professional games varied from one country to another, and negotiations between various national bodies were required to fix the exact rules for each international match. This situation endured until 1948, when at the instigation of the French league, the [[Rugby League International Federation]] (RLIF) was formed at a meeting in [[Bordeaux]].
+
+During the second half of 20th century, the rules changed further. In 1966, rugby league officials borrowed the American football concept of ''[[Down (football)|downs]]'': a team was allowed to retain possession of the ball for four tackles (rugby union retains the original rule that a player who is tackled and brought to the ground must release the ball immediately).  The maximum number of tackles was later increased to six (in 1971), and in rugby league this became known as the [[Playing rugby league#Six tackle rule|''six tackle rule'']].
+
+With the advent of full-time professionals in the early 1990s, and the consequent speeding up of the game, the five metre off-side distance between the two teams became 10&amp;nbsp;metres, and the replacement rule was superseded by various interchange rules, among other changes.
+
+The laws of rugby union also changed during the 20th century, although less significantly than those of rugby league. In particular, goals from ''[[mark (rugby)|marks]]'' were abolished, kicks directly ''[[Touch (rugby)|into touch]]'' from outside the ''[[Rugby pitch|22 metre]]'' line were penalised, new laws were put in place to determine who had possession following an inconclusive ''[[Ruck (Rugby union)|ruck]]'' or ''[[Rugby union gameplay#Maul|maul]]'', and the lifting of players in ''[[line-out (rugby union)|line-out]]s'' was legalised.
+
+In 1995, rugby union became an &quot;open&quot; game, that is one which allowed professional players. Although the original dispute between the two codes has now disappeared — and despite the fact that officials from both forms of rugby football have sometimes mentioned the possibility of re-unification — the rules of both codes and their culture have diverged to such an extent that such an event is unlikely in the foreseeable future.
+
+[[File:Shunsuke1 20080622.jpg|thumb|A player takes a free kick, while the opposition form a &quot;wall&quot;, in [[Association football]]]]
+
+== Use of the word &quot;football&quot; ==
+{{details|Football (word)}}
+The word &quot;''football''&quot;, when used in reference to a specific game can mean any one of those described above. Because of this, much friendly controversy has occurred over the term ''football'', primarily because it is used in different ways in different parts of the [[English-speaking world]]. Most often, the word &quot;football&quot; is used to refer to the code of football that is considered dominant within a particular region. So, effectively, what the word &quot;football&quot; means usually depends on where one says it.
+
+[[File:Football cross.jpg|thumb|Players assemble at the [[line of scrimmage]] in an [[American football]] game.]]
+[[Association football]] is known generally as ''soccer'' where other codes of football are dominant, including: the United States, Canada, Australia, and New Zealand. [[American football]] is always ''football'' in the [[United States]]. In [[francophone]] [[Quebec]], where [[Canadian football]] is more popular, the Canadian code is known as ''football'' and association football is known as ''{{lang|fr-ca|le soccer}}.''&lt;ref&gt;{{cite web|url=http://www.federation-soccer.qc.ca/index.php?option=com_content&amp;view=article&amp;id=149&amp;Itemid=34 |title=The governing body is the &quot;Fédération de soccer du Québec&quot; |publisher=Federation-soccer.qc.ca |date= |accessdate=2012-04-16}}&lt;/ref&gt; Of the 45 national [[FIFA]] affiliates in which English is an official or primary language, most currently use ''Football'' in their organizations' official names. The FIFA affiliates in [[Canadian Soccer Association|Canada]] and the [[United States Soccer Federation|United States]] use ''Soccer'' in their names.
+
+A few Fédération Internationale de Football Association(FIFA) affiliates have recently &quot;normalized&quot; to using &quot;Football&quot;, including:
+* Australia's association football governing body changed its name in 2005 from using &quot;soccer&quot; to &quot;football&quot;&lt;ref&gt;[http://www.smh.com.au/news/Soccer/Soccer-to-become-football-in-Australia/2004/12/16/1102787198357.html?from=more Stories Soccer to become football in Australia] (SMH.com.au. December 17, 2004) &quot;ASA chairman Frank Lowy said the symbolic move would bring Australia into line with the vast majority of other countries which call the sport football.&quot;&lt;/ref&gt;
+* New Zealand also changed in 2007, saying &quot;the international game is called football.&quot;&lt;ref&gt;[http://www.nzsoccer.com/plugins/newsfeed.cgi?rm=content&amp;plugin_data_id=12155 NZ Football – The Local Name Of The Global Game]{{dead link|date=September 2012}} (NZFootball.co.nz. April 27, 2006) &quot;The international game is called football and were part of the international game so the game in New Zealand should be called football&quot;&lt;/ref&gt;
+* Samoa changed from &quot;Samoa Football (Soccer) Federation&quot; to &quot;Football Federation Samoa&quot; in 2009.&lt;ref&gt;{{cite web|url=http://www.sportingpulse.com/assoc_page.cgi?client=0-1001-0-0-0&amp;sID=12574&amp;&amp;news_task=DETAIL&amp;articleID=10755795&amp;sectionID=12574 |title=new name &amp; logo for Samoan football |publisher=Sportingpulse.com |date=2009-11-28 |accessdate=2012-04-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.samoaobserver.ws/index.php?view=article&amp;id=21824%3Afootball-progress&amp;option=com_content&amp;Itemid=81 |title=Football progress in Samoa  |publisher=Samoaobserver.ws |date= |accessdate=2012-04-16}}{{dead link|date=September 2012}}&lt;/ref&gt;
+
+== Football codes board ==
+
+{|class = &quot;wikitable&quot;
+|-
+|rowspan=19 |Football
+|rowspan=4 style=&quot;background: #8080FF;&quot;|[[Cambridge rules]] (1848)
+|rowspan=15 style=&quot;background: #C080C0;&quot;|[[Association Football]] (1863)
+|-
+|colspan=3 style=&quot;background: #C080C0;&quot;|[[Football 7-a-side|7-a-side]]
+|-
+|colspan=3 style=&quot;background: #C080C0;&quot;| [[Beach soccer|Beach]] (1992)
+|-
+|colspan=3 style=&quot;background: #C080C0;&quot;|[[Futsal]] (1930)
+|-
+|rowspan=4 style=&quot;background: #8080FF;&quot;|[[Sheffield rules]] (1857)
+|-
+|colspan=3 style=&quot;background: #C080C0;&quot;|[[Indoor soccer|Indoor]]
+|-
+|colspan=3 style=&quot;background: #C080C0;&quot;|[[Paralympic football|Paralympic]]
+|-
+|colspan=3 style=&quot;background: #C080C0;&quot;|[[Street soccer|Street]]
+|-
+|rowspan=9 style=&quot;background: #FF8080;&quot;|Rugby rules (1845)
+|-
+|rowspan=6 style=&quot;background: #FF8080;&quot;|[[Rugby union]] (1871)
+|-
+|colspan=2 style=&quot;background: #FF8080;&quot;|[[Rugby sevens]] (1883)
+|-
+|rowspan=4 style=&quot;background: #FFC080;&quot;|[[Rugby league]] (1895)
+|-
+|style=&quot;background: #FFC080;&quot;|[[Rugby league nines|Nines]]
+|-
+|style=&quot;background: #FFC080;&quot;|[[Beach rugby]]&lt;!--whatever this is, it's nothing to do with league --&gt;
+|-
+|style=&quot;background: #FFC080;&quot;|[[Touch football (rugby league)|Touch football]]
+|- style=&quot;background: #FFFF80;&quot;
+||[[American football]] (1869)
+| colspan=&quot;3&quot;|[[Arena football]] (1987)
+|- style=&quot;background: #FFFF80;&quot;
+||[[Canadian football]] (1861)
+| colspan=&quot;3&quot;|[[Flag football]]
+|-
+|colspan=4 style=&quot;background: #80FF80;&quot;|[[Gaelic football|Gaelic]] (1887)
+|rowspan=2 style=&quot;background: #dddd78;&quot;|[[International rules football|International rules]] (1967)
+|-
+|colspan=4 style=&quot;background: #80FFFF;&quot;|[[Australian rules football|Australian rules]] (1859)
+|}
+
+===Football codes development tree===
+{{chart/start|summary=Football codes}}
+{{chart| | | | | | | | | FB  | FB=Football}}
+{{chart| |,|-|-|-|v|-|-|-|+|-|-|-|v|-|-|.}}
+{{chart|CAMBR| |SHEFF| |RUGBY| | AUS| | GAELI | CAMBR=[[Cambridge rules]] (1848)| SHEFF=[[Sheffield rules]] (1857)| RUGBY=Rugby rules (1845)| AUS=[[Australian rules football|Australian rules]] (1859)| GAELI=[[Gaelic football|Gaelic]] (1887)}}
+{{chart| |`|-|v|-|^|-|-|(| |)|-|-|-|.}}
+{{chart| | |ASSOC| | | |!| CAN | | USA | ASSOC=[[Association Football]] (1863)| CAN=[[Canadian football]] (1861)| USA=[[American football]] (1869)}}
+{{chart| | | |)|-|-|-|-|(| |`|-|v|-|^|-|.}}
+{{chart| | | |!| | | | RUNION| | FLAG | | ARENA | RUNION=[[Rugby union]] (1871) | FLAG=[[Flag football]] | ARENA=[[Arena football]] (1987)}}
+{{chart| | | |!| | |,|-|^|-|.}}
+{{chart| | | |!| | RSEVENS | | RLEAGUE | RSEVENS=[[Rugby sevens]] (1883)| RLEAGUE=[[Rugby league]] (1895)}}
+{{chart| |,|-|(| | | | |,|-|^|-|v|-|-|-|.}}
+{{chart| FUTSAL |!| | | | RNINES| | RBEACH | | RTOUCH | FUTSAL=[[Futsal]] (1930) | RNINES=[[Rugby league nines]] | RBEACH=[[Beach rugby]] | RTOUCH=[[Touch football (rugby league)|Touch football]]}}
+{{chart| |,|-|^|-|v|-|-|-|v|-|-|-|v|-|-|.}}
+{{chart|ABEACH| |SEVENASIDE| |SINDOORS| | PARALYMPIC| | STREET | ABEACH=[[Beach soccer]] (1992)| SEVENASIDE=[[Football 7-a-side|7-a-side]]| SINDOORS=[[Indoor soccer]]| PARALYMPIC=[[Paralympic football]]| STREET=[[Street soccer]]}}
+{{chart/end}}
+
+== Present day codes and families ==
+
+=== Association football and descendants ===
+{{Main|Variants of association football}}
+[[File:Indoor Soccer Game in Mexico.JPG|thumb|An [[indoor soccer]] game at an open air venue in Mexico. The [[referee]] has just awarded the red team a free kick.]]
+
+''These codes have in common the prohibition of the use of hands (by all players except the goalkeeper), unlike other codes where carrying or handling the ball is allowed''
+
+* [[Association football]], also known as ''football'', ''soccer'', ''footy'' and ''footie''
+* Indoor/basketball court variants:
+** [[Five-a-side football]] — played throughout the world under various rules including:
+*** [[Futebol de Salão]]
+*** [[Futsal]] — the [[FIFA]]-approved five-a-side indoor game
+*** ''[[Minivoetbal]]'' — the five-a-side indoor game played in East and West [[Flanders]] where it is extremely popular
+*** [[Papi fut]] — the five-a-side game played in outdoor basketball courts (built with goals) in Central America.
+** [[Indoor soccer]] — the six-a-side indoor game, the [[Latin America]]n variant (''fútbol rápido'', &quot;fast football&quot;) is often played in open air venues
+**[[Masters Football]] — six-a-side played in [[Europe]] by mature professionals (35&amp;nbsp;years and older)
+* [[Paralympic football]] — modified game for athletes with a disability.&lt;ref&gt;{{cite web | last = Summers | first = Mark | title = The Disability Football Directory | url = http://www.disabilityfootball.co.uk}}&lt;/ref&gt; Includes:
+** Football 5-a-side — for [[Blindness|visually impaired]] athletes
+** Football 7-a-side — for athletes with [[cerebral palsy]]
+** Amputee football — for athletes with [[amputation]]s
+** Deaf football — for athletes with [[hearing impairment]]s
+** [[Powerchair football]] — for athletes in electric wheelchairs
+* [[Beach soccer]], beach football or sand soccer — variant modified for play on sand
+* [[Street football]] — encompasses a number of informal variants
+* [[Rush goalie]] — a variation in which the role of the goalkeeper is more flexible than normal
+* [[Headers and Volleys]] — where the aim is to score goals against a goalkeeper using only headers and volleys
+* [[Crab football]] — players stand on their hands and feet and move around on their backs whilst playing
+* [[Swamp soccer]] — the game as played on a [[swamp]] or [[bog]] field
+* [[Jorkyball]]
+* Rushball
+
+There are also motorsport variations of the game.
+
+=== Rugby school football and descendants ===
+
+''These codes have in common the ability of players to carry the ball with their hands, and to throw it to teammates, unlike association football where the use of hands is prohibited by anyone except the goal keeper.  They also feature various methods of scoring based upon whether the ball is carried into the goal area, or kicked through a target.''
+
+* [[Rugby football]]
+** [[Rugby league]] — often referred to simply as &quot;league&quot;, and usually known simply as &quot;football&quot; or &quot;footy&quot; in the Australian states of New South Wales and Queensland.
+***[[Rugby league nines]] — variant for teams of reduced size.
+** [[Rugby union]]
+*** [[Mini rugby]] a variety for children.
+*** [[Rugby sevens]] and [[Rugby tens]] — variants for teams of reduced size.  [[File:Fiji Cook Island rugby.jpg|thumb|[[Rugby sevens]]; [[Fiji national rugby union team|Fiji]] v [[Cook Islands national rugby union team|Cook Islands]] at the [[2006 Commonwealth Games]] in Melbourne]]
+** [[Beach rugby]] — rugby played on sand
+** [[Touch rugby]] — generic name for forms of rugby football which do not feature tackles, [[Touch football (rugby league)|one variant]] has been formalized
+***[[Tag Rugby]] — non-contact variant in which a flag attached to a player is removed to indicate a tackle. 
+* [[Gridiron football]]
+** [[American football]] — called &quot;football&quot; in the United States and Canada, and &quot;gridiron&quot; in Australia and New Zealand.
+*** [[Nine-man football]], [[eight-man football]], [[six-man football]] — variants played primarily by smaller high schools that lack enough players to field full teams.
+***[[Street football (American)|Street football]]/backyard football — played without equipment or official fields and with simplified rules
+**** [[Touch football (American)|Touch football]] — non-tackle variants
+***** [[Flag football]] — non-contact variant in which a flag attached to a player is removed to indicate a tackle.
+** [[Canadian football]] — called simply &quot;football&quot; in Canada; &quot;football&quot; in Canada can mean either Canadian or American football depending on context. All of the variants listed for American football are also attested for Canadian football.
+** [[indoor American football|Indoor football]], [[arena football]] — indoor variants
+
+{{See also|Comparison of American football and rugby league|Comparison of American football and rugby union|Comparison of Canadian and American football|Comparison of rugby league and rugby union}}
+
+=== Irish and Australian varieties ===
+[[File:International rules.jpg|thumb|[[International rules football]] test match from the [[2005 International Rules Series]] between Australia and Ireland at [[Telstra Dome]], [[Melbourne]], Australia.]] ''These codes have in common the absence of an offside rule, the prohibition of continuous carrying of the ball (requiring a periodic bounce or solo (toe-kick), depending on the code) while running, handpassing by punching or tapping the ball rather than throwing it, and other traditions.''
+* [[Australian rules football]] — officially known as &quot;Australian football&quot;, and informally as &quot;football&quot;, &quot;footy&quot; or &quot;Aussie rules&quot;. In some areas it is referred to as &quot;[[Australian Football League|AFL]]&quot;, the name of the main organising body and competition
+** [[Auskick]] — a version of Australian rules designed by the AFL for young children
+** [[Metro footy]] (or Metro rules footy) — a modified version invented by the [[United States Australian Football League|USAFL]], for use on [[gridiron football|gridiron]] fields in North American cities (which often lack grounds large enough for conventional Australian rules matches)
+** [[Kick-to-kick]] – informal versions of the game
+** [[9-a-side footy]] — a more open, running variety of Australian rules, requiring 18 players in total and a proportionally smaller playing area (includes contact and non-contact varieties)
+** [[Rec footy]] — &quot;Recreational Football&quot;, a modified non-contact variation of Australian rules, created by the AFL, which replaces tackles with tags
+** [[Touch Aussie Rules]] — a non-contact variation of Australian Rules played only in the United Kingdom
+** [[Samoa rules]] — localised version adapted to [[Samoa]]n conditions, such as the use of [[rugby football]] fields
+** [[Masters Australian football]] (a.k.a. ''Superules'') — reduced contact version introduced for competitions limited to players over 30&amp;nbsp;years of age
+** [[Women's Australian rules football]] — women's competition played with a smaller ball and (sometimes) reduced contact
+* [[Gaelic football]] — Played predominantly in Ireland. Commonly referred to as &quot;football&quot; or &quot;Gaelic&quot;
+**[[Ladies Gaelic football]]
+* [[International rules football]] — a compromise code used for games between Gaelic and Australian Rules players
+
+{{See also|Comparison of Australian rules football and Gaelic football}}
+
+=== Surviving medieval ball games ===
+
+==== Inside the UK ====
+* The [[Haxey Hood]], played on [[Epiphany (feast)|Epiphany]] in [[Haxey]], [[Lincolnshire]]
+* Shrove Tuesday games
+** [[Scoring the Hales]] in [[Alnwick]], [[Northumberland]]
+** [[Royal Shrovetide Football]] in [[Ashbourne, Derbyshire]]
+** The [[Atherstone#Shrovetide Ball Game|Shrovetide Ball Game]] in [[Atherstone]], [[Warwickshire]]
+** [[The Shrove Tuesday Football Ceremony of the Purbeck Marblers]] in [[Corfe Castle, Dorset|Corfe Castle]], [[Dorset]]
+** [[Hurling the Silver Ball]] at [[St Columb Major]] in [[Cornwall]]
+** The [[Sedgefield Ball Game|Ball Game]] in [[Sedgefield]], [[County Durham]]
+* In Scotland the [[Ba game]] (&quot;Ball Game&quot;) is still popular around Christmas and [[Hogmanay]] at:
+** [[Duns]], [[Berwickshire]]
+** [[Scone, Perthshire]]
+** [[Kirkwall]] in the [[Orkney]] Islands
+
+==== Outside the UK ====
+* ''[[Calcio Fiorentino]]'' — a modern revival of Renaissance football from 16th century [[Florence]].
+
+=== Surviving UK school games ===
+[[File:RendallsHarrowFootball.jpg|right|thumb|[[Harrow football]] players after a game at [[Harrow School]].]]
+Games still played at UK [[Public school (UK)|public]] ([[Independent school (UK)|independent]]) schools:
+*[[Eton field game]]
+*[[Eton wall game]]
+*[[Harrow football]]
+*[[Winchester College football]]
+
+=== Recent inventions and hybrid games ===
+* [[Keepie uppie]] (keep up)  — the art of juggling with a football using the feet, knees, chest, shoulders, and head.
+** [[Footbag]] — several variations using a small bean bag or sand bag as a ball, the trade marked term [[hacky sack]] is sometimes used as a generic synonym.
+** [[Freestyle football]] — participants are graded for their entertainment value and expression of skill.
+
+==== Based on FA rules ====
+* [[Cubbies]]
+* [[Three sided football]]
+* [[Triskelion (sport)|Triskelion]]
+
+==== Based on rugby ====
+*[[Force ’em backs]] a.k.a. '''forcing back''', '''forcemanback'''
+
+==== Hybrid games ====
+* [[Austus]] — a compromise between Australian rules and [[American football]], invented in [[Melbourne]] during World War II.
+* [[Bossaball]] — mixes Association football and [[volleyball]] and [[gymnastics]]; played on inflatables and [[trampoline]]s.
+* [[Footvolley]] — mixes Association football and beach volleyball; played on sand
+* [[Football tennis]] — mixes Association football and tennis
+* [[Kickball]] — a hybrid of Association football and baseball, invented in the United States in about 1942.
+* [[Speedball (American)]] — a combination of American football, soccer, and [[basketball]], devised in the United States in 1912.
+* [[Universal football]] — a hybrid of Australian rules and rugby league, trialled in Sydney in 1933.&lt;ref&gt;Sean Fagan, [http://rl1908.com/articles/AFL.htm Breaking The Codes], ''RL1908.com'', 2006 {{Dead link|date=September 2012}}&lt;/ref&gt;
+*[[Volata]] — a game resembling Association football and [[Team handball|European handball]], devised by [[Italian fascism|Italian fascist]] leader, [[Augusto Turati]], in the 1920s.
+*[[Wheelchair rugby]] — also known as '''Murderball''', invented in Canada in 1977. Based on [[ice hockey]] and basketball rather than rugby.
+Note: although similar to football and volleyball in some aspects, [[Sepak takraw]] has ancient origins and cannot be considered a hybrid game.
+
+=== Tabletop games and other recreations ===
+
+==== Based on Association football ====
+* [[Subbuteo]]
+* [[Blow football]]
+* [[Table football]] — also known as '''foosball''', '''table soccer''', '''babyfoot''', '''bar football''' or '''gettone'''
+* [[Fantasy football (soccer)]]
+* [[Button football]] — also known as '''Futebol de Mesa''', '''Jogo de Botões'''
+* [[Penny football]]
+* [[FIFA Video Games Series]]
+* [[Pro Evolution Soccer (series)|''Pro Evolution Soccer'']]
+* [[List of Mario sports games#Soccer titles|''Mario Strikers'']]
+
+==== Based on American football ====
+* [[Paper football]]
+* [[Blood Bowl]]
+* [[Fantasy football (American)]]
+* ''[[Madden NFL]]''
+
+==== Based on Australian football ====
+* [[AFL (video game series)|AFL video game series]]
+** [[List of AFL video games]]
+
+==== Based on Rugby League football ====
+* [[Sidhe (game developer)|Sidhe's]] Rugby League series
+**[[Rugby League 3]]
+* [[Australian Rugby League (video game)|Australian Rugby League]]
+
+== See also ==
+* [[Football field (unit of length)]]
+* [[List of players who have converted from one football code to another]]
+* [[Names for association football]]
+* [[1601 to 1725 in sports#Football|1601 to 1725 in sports: Football]]
+* [[Footgolf]]
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+{{Sister project links|Football}}
+* Eisenberg, Christiane and Pierre Lanfranchi, eds. (2006): ''Football History: International Perspectives''; Special Issue, [[Historical Social Research]] 31, no. 1. 312 pages.  
+* Green, Geoffrey (1953); ''The History of the Football Association''; Naldrett Press, London
+* Mandelbaum, Michael (2004); ''The Meaning of Sports''; Public Affairs, ISBN 1-58648-252-1
+* Williams, Graham (1994); ''The Code War''; Yore Publications, ISBN 1-874427-65-8
+{{Team Sport}}
+
+[[Category:Ball games]]
+[[Category:Football| ]]
+[[Category:Sports originating in England]]
+[[Category:19th-century introductions]]
+
+{{Link FA|vi}}</text>
+      <sha1>cixcv023nxki3yctabn5i37kfh48t1e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Category: Football clinics</title>
+    <ns>14</ns>
+    <id>40936328</id>
+    <revision>
+      <id>579534570</id>
+      <parentid>579533071</parentid>
+      <timestamp>2013-10-30T22:23:45Z</timestamp>
+      <contributor>
+        <username>Soranoch</username>
+        <id>19320317</id>
+      </contributor>
+      <comment>removed [[Category:Clinics]]; added [[Category:Football]] using [[WP:HC|HotCat]]</comment>
+      <text xml:space="preserve" bytes="21">[[Category:Football]]</text>
+      <sha1>4unu5i84dmh4c7iqyu0c3szjbfrvjjh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+
+</mediawiki>

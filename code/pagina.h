@@ -7,6 +7,7 @@ Pagina iniciarPagina();
 void inserirTitulo(Pagina pagina, char * titulo);
 void inserirNomeAutor(Pagina pagina, char *nome);
 void inserirData(Pagina pagina, char * data);
+void inserirHora(Pagina pagina, char * hora);
 void inserirLinkInterno(Pagina pagina, char* linkInterno);
 void inserirLinkExterno(Pagina pagina, char* linkExterno);
 void inserirSeccao(Pagina pagina, char* seccao);
