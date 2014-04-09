@@ -10,7 +10,8 @@ void imprimeLinkInternos(FILE * out,Pagina pagina){
 	Links olink = pagina->linksInternos;
 	
 	while(olink){
-		fprintf(out, "<tr><td><a href=\"http://www.wikipedia.pt/wiki/%s\">%s</a></tr></td><br>", olink->link, olink->link);
+		
+		fprintf(out, "<br><a href=\"http://www.wikipedia.pt/wiki/%s\">%s</a>", olink->link, olink->link);
 		olink=olink->proximo;
 			}
 	
@@ -42,7 +43,18 @@ Seccoes inverte(Seccoes sec){
 	return seca;
 	
 }
-
+SubSeccoes inverteSub(SubSeccoes sec){
+	SubSeccoes seca = NULL;
+	
+	while(sec){
+		SubSeccoes novo = sec->proximo;
+		sec->proximo = seca;
+		seca = sec;
+		sec = novo;
+	}
+	return seca;
+	
+}
 
 void imprimeSeccoes(FILE * out,Pagina pagina){
 	Seccoes aux = pagina->seccoes;
@@ -50,18 +62,20 @@ void imprimeSeccoes(FILE * out,Pagina pagina){
 	aux=inverte(aux);
 	
 	while(aux){
-		fprintf(out, "<li><strong>%s</strong>", aux->seccao);
+		fputs("<details>", out);
+		fprintf(out, "<summary><strong>%s</strong>	(%d)</summary>", aux->seccao,aux->numSubseccoes);
 		SubSeccoes auxSub = aux->subSeccoes;
-		fputs("<ul class=\"circle\">",out);
+		auxSub=inverteSub(auxSub);
+		
 
 		while(auxSub){
-			fprintf(out, "<li>&nbsp &nbsp %s</li>", auxSub->subSeccao);
+			fprintf(out, "<br>&nbsp &nbsp %s", auxSub->subSeccao);
 			auxSub=auxSub->proximo;
 		} 
 		
-		fputs("</ul>",out);
-		fputs("</li>",out);
+		
 		aux=aux->proxima;
+		fputs("</details>", out);
 	}
 	
 }
@@ -70,7 +84,8 @@ void imprimeLinkExternos(FILE * out,Pagina pagina){
 	Links olink = pagina->linksExternos;
 	
 	while(olink){
-		fprintf(out, "<tr><td><a href=\"http://www.%s\">%s</a></tr></td><br>", olink->link, olink->link);
+;
+		fprintf(out, "<br><a href=\"http://www.%s\">%s</a>", olink->link, olink->link);
 		olink=olink->proximo;
 			}
 	
@@ -147,22 +162,39 @@ fputs("<div class=\"body2\">", artpage);
             fputs("</div>", artpage);
             fputs("<div class=\"wrapper\">", artpage);
               fputs("<figure class=\"left marg_right1\"></figure>", artpage);
-              fprintf(artpage, "<p class=\"pad_bot1 pad_top2\"><strong>Links Internos</strong> (%d)<br>",artigo->numLinksInt);
-                fputs("</p>", artpage);
-                //fprintf(artpage, "<a href=\"wikipedia.com\%s\">%s</a>", artigo->linksinternos);//inserelinksinternos
+             
+                
+                
+
+                fputs("<details>", artpage);
+               
+                fprintf(artpage, "<summary><strong>Links Internos</strong>    (%d)</summary>",artigo->numLinksInt);
                 imprimeLinkInternos(artpage,artigo);
-                fprintf(artpage, "<p class=\"pad_bot1 pad_top2\"><strong>Links Externos</strong> (%d)<br>",artigo->numLinksExt);
-                fputs("</p>", artpage);
-                //fputs("<a href=\"google.com\">insereLinksExternos</a>", artpage);//inserelinksexternos
+                fputs("</details>", artpage);
+                
+                
+
+                 fputs("<details>", artpage);
+                
+                fprintf(artpage, "<summary><strong>Links Externos</strong>    (%d)</summary>",artigo->numLinksExt);
+              
                 imprimeLinkExternos(artpage,artigo);
+                fputs("</details>", artpage);
+		
+
 		fputs("<p class=\"pad_bot1 pad_top2\"><strong>Autor</strong> <br>", artpage);
                 fputs("</p>", artpage);
                 fprintf(artpage,"%s",artigo->nomeAutor );//insereautor
 		fputs("<p class=\"pad_bot1 pad_top2\"><strong>Última revisão</strong> <br>", artpage);
                 fputs("</p>", artpage);
 		fprintf(artpage, "%s - %s\n", artigo->data,artigo->hora);//insere revisao	 
+		           if(strcmp(artigo->imagem,"")){
+		           fputs("<p class=\"pad_bot1 pad_top2\"><strong>Imagem:</strong> <br>", artpage);
+                fputs("</p>", artpage);
+
 		           troca(artigo->imagem,' ','_');
-               fprintf(artpage,"<a href=\"http://http://pt.wikipedia.org/wiki/Ficheiro:%s.jpg\" alt=\"\" title=\"\" border=\"none\" />sajdasjdja</a>", artigo->imagem);
+               fprintf(artpage,"<a href=\"http://pt.wikipedia.org/wiki/Ficheiro:%s.jpg\" alt=\"\" title=\"\" border=\"none\">Link para a imagem</a>", artigo->imagem);
+                }
                 fputs("</div>", artpage);
           fputs("</article>", artpage);
           fputs("<article class=\"col2 pad_left2\">", artpage);

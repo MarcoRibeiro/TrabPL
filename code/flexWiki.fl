@@ -36,30 +36,28 @@
 		}
 
 <TITULO>{
-	
-	[^<:]+			{inserirTitulo(pagina,yytext);}
-	:				{;}
-	
+	.*:.*			BEGIN(INITIAL);
+	[^<]+			{inserirTitulo(pagina,yytext);}
+		
 	"</title>"	    BEGIN(PAGINA);
 		}
 
 <REVISAO>{
-	"<timestamp>"	{BEGIN(DATA);}
-	"<username>"	{BEGIN(NOMEAUTOR);}
-	"|imagem"[ ]*=[ ]*		{BEGIN(IMAGEM);}
-	==              {BEGIN(SECCAO);}
-   	===            {BEGIN(SUBSECCAO);}
-   	[w]{3}\.	    {BEGIN(LINKEXTERNO);}
-	[[]{2}			{BEGIN(LINKINTERNO);}
-	.|[\n\t\r]		{;}
-	"</revision>"	{BEGIN(PAGINA);}
+	"<timestamp>"		{BEGIN(DATA);}
+	"<username>"		{BEGIN(NOMEAUTOR);}
+	"|imagem"[ ]*=[ ]*	{BEGIN(IMAGEM);}
+	[=]{2}            		{BEGIN(SECCAO);}
+   	[=]{3,}           	{BEGIN(SUBSECCAO);}
+   	[w]{3}\.	    	{BEGIN(LINKEXTERNO);}
+	[[]{2}				{BEGIN(LINKINTERNO);}
+	.|[\n\t\r]			{;}
+	"</revision>"		{BEGIN(PAGINA);}
 		 }
 
 <IMAGEM>{
-	[^\.]+		{inserirImagem(pagina,yytext);}
-	".png"		{BEGIN(REVISAO);}
-	".bmp"		{BEGIN(REVISAO);}
-	".jpg"		{BEGIN(REVISAO);}
+	[^\.]+					{inserirImagem(pagina,yytext);}
+	\.[a-z]{3,}[\n]			{BEGIN(REVISAO);}
+	\.						{BEGIN(REVISAO);}
 
 }
 
@@ -90,15 +88,15 @@
 			 }
 
 <SECCAO>{
-	[^=]+		{inserirSeccao(pagina,yytext);}
-	==			{BEGIN(REVISAO);}		
+	[^=]+			{inserirSeccao(pagina,yytext);}
+	[=]{2}			{BEGIN(REVISAO);}		
 		}
 
 <SUBSECCAO>{
-	[^=]+       {inserirSubseccao(pagina,yytext);}
+	[^=]+       	{inserirSubseccao(pagina,yytext);}
 
-    .|[\n\t\r]	{;}
-    ===         {BEGIN(REVISAO);}
+    
+    [=]{3,}        {BEGIN(REVISAO);}
 
 			}
 
