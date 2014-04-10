@@ -3,6 +3,82 @@
 #include<string.h>
 #include<stdlib.h>
 
+
+
+Seccoes inverte(Seccoes sec){
+	Seccoes seca = NULL;
+	
+	while(sec){
+		Seccoes novo = sec->proxima;
+		sec->proxima = seca;
+		seca = sec;
+		sec = novo;
+	}
+	return seca;
+	
+}
+SubSeccoes inverteSub(SubSeccoes sec){
+	SubSeccoes seca = NULL;
+	
+	while(sec){
+		SubSeccoes novo = sec->proximo;
+		sec->proximo = seca;
+		seca = sec;
+		sec = novo;
+	}
+	free(sec);return seca;
+	
+}
+
+
+void freeSeccoes(Seccoes sec){
+	Seccoes tmp;
+	SubSeccoes tmpSub; 
+        while (sec){
+			tmp = sec;
+			SubSeccoes subSec = sec->subSeccoes;
+			while(subSec){
+				tmpSub=subSec;
+				subSec=subSec->proximo;
+				free(tmpSub);
+			}
+			sec = sec->proxima;
+			free(tmp);
+        }
+}
+
+void freelink(Links link){
+   
+        
+        Links tmp;
+
+        while (link){
+			tmp = link;
+			link = link->proximo;
+			free(tmp);
+        }
+    
+}
+
+
+void freePagina(Pagina pagina){
+   
+        
+        Pagina tmp;
+
+        while (pagina){
+			tmp = pagina;
+			freeSeccoes(pagina->seccoes);
+			freelink(pagina->linksExternos);
+			freelink(pagina->linksInternos);
+			pagina = pagina->proxima;
+			free(tmp);
+        }
+    
+}
+
+
+
 Pagina iniciarPagina() {
 
 	Pagina pagina = (Pagina) malloc(sizeof(struct pagina));

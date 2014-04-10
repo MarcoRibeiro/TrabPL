@@ -1,5 +1,5 @@
-#include "estruturas.h"
 
+#include "pagina.h"
 
 #include <stdio.h>
 #include <string.h>
@@ -15,7 +15,7 @@ void imprimeLinkInternos(FILE * out,Pagina pagina){
 		olink=olink->proximo;
 			}
 	
-
+	
 }
 
 void troca(char * w, char c, char x){
@@ -31,30 +31,7 @@ void troca(char * w, char c, char x){
 
 
 
-Seccoes inverte(Seccoes sec){
-	Seccoes seca = NULL;
-	
-	while(sec){
-		Seccoes novo = sec->proxima;
-		sec->proxima = seca;
-		seca = sec;
-		sec = novo;
-	}
-	return seca;
-	
-}
-SubSeccoes inverteSub(SubSeccoes sec){
-	SubSeccoes seca = NULL;
-	
-	while(sec){
-		SubSeccoes novo = sec->proximo;
-		sec->proximo = seca;
-		seca = sec;
-		sec = novo;
-	}
-	return seca;
-	
-}
+
 
 void imprimeSeccoes(FILE * out,Pagina pagina){
 	Seccoes aux = pagina->seccoes;
@@ -87,7 +64,7 @@ void imprimeLinkExternos(FILE * out,Pagina pagina){
 	Links olink = pagina->linksExternos;
 	
 	while(olink){
-;
+
 		fprintf(out, "<br><a href=\"http://www.%s\">%s</a>", olink->link, olink->link);
 		olink=olink->proximo;
 			}
@@ -226,53 +203,6 @@ fputs("</html>",artpage);
 
 } 
 
-void freeSeccoes(Seccoes sec){
-	Seccoes tmp;
-	SubSeccoes tmpSub; 
-        while (sec){
-			tmp = sec;
-			SubSeccoes subSec = sec->subSeccoes;
-			while(subSec){
-				tmpSub=subSec;
-				subSec=subSec->proximo;
-				free(tmpSub);
-			}
-			sec = sec->proxima;
-			free(tmp);
-        }
-}
-
-void freelink(Links link){
-   
-        
-        Links tmp;
-
-        while (link){
-			tmp = link;
-			link = link->proximo;
-			free(tmp);
-        }
-    
-}
-
-
-void freePagina(Pagina pagina){
-   
-        
-        Pagina tmp;
-
-        while (pagina){
-			tmp = pagina;
-			freeSeccoes(pagina->seccoes);
-			freelink(pagina->linksExternos);
-			freelink(pagina->linksInternos);
-			pagina = pagina->proxima;
-			free(tmp);
-        }
-    
-}
-
-
 
 void imprimeIndex(FILE *out,ArrayPaginas array,int i){
 	
@@ -281,7 +211,7 @@ void imprimeIndex(FILE *out,ArrayPaginas array,int i){
 			fprintf(out, "<li><a href=\"%s.html\">%s</a></li>",aux->titulo,aux->titulo);
 			aux=aux->proxima;
 		}
-		freePagina(aux);
+		
 
 }
 
@@ -404,7 +334,7 @@ strcat(nome, ".html");
 file = fopen(nome, "w+");
 geraArtigo(file, pagina);
 fclose(file);
-
+//freePagina(pagina);
 
 }
 

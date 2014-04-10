@@ -1,4 +1,4 @@
-IN=test5.xml
+IN=ptwiki.xml
 NAME=superWiki
 objects=pagina.o htmlgen.o
 flag=-c
@@ -11,7 +11,7 @@ $(NAME).c:$(FLEX).fl
 	flex -o  $(NAME).c $(FLEX).fl  
 pagina.o:pagina.c pagina.h estruturas.h
 	gcc $(flag) pagina.c
-htmlgen.o:htmlgen.c htmlgen.h estruturas.h
+htmlgen.o:htmlgen.c htmlgen.h estruturas.h 
 	gcc $(flag) htmlgen.c
 clean:
 	$(RM) $(objects) $(NAME).c 

@@ -36,7 +36,7 @@
 
 <TITULO>{
 	.*:.*			BEGIN(INITIAL);
-	[^<]+			{inserirTitulo(pagina,yytext);}
+	[^<]+			{inserirTitulo(pagina,yytext);printf("%s\n",yytext);}
 		
 	"</title>"	    BEGIN(PAGINA);
 		}
@@ -81,6 +81,7 @@
 			 }
 
 <LINKINTERNO>{
+	
 	[^\]:]+/"|" 		{inserirLinkInterno(pagina,yytext);}	
 	[^\]:|]+/\]\] 		{inserirLinkInterno(pagina,yytext);}	
 	.|[\n\t\r]		{BEGIN(REVISAO);}	
@@ -88,7 +89,7 @@
 
 <SECCAO>{
 	[^=]+			{inserirSeccao(pagina,yytext);seccao=1;}
-	[=]{2}			{BEGIN(REVISAO);}		
+	[=]+			{BEGIN(REVISAO);}		
 		}
 
 <SUBSECCAO>{
@@ -99,8 +100,7 @@
 						seccao=1;}
 						}
 
-    
-    [=]{3,}        {BEGIN(REVISAO);}
+    [=]+       {BEGIN(REVISAO);}
 
 			}
 

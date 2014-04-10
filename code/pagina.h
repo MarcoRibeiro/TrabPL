@@ -14,5 +14,10 @@ void inserirSeccao(Pagina pagina, char* seccao);
 void inserirImagem(Pagina pagina, char* imagem);
 void inserirSubseccao(Pagina pagina, char* subseccao);
 void inserirPagina(ArrayPaginas paginas,Pagina pagina);
+void freeSeccoes(Seccoes sec);
+void freelink(Links link);
+void freePagina(Pagina pagina);
+Seccoes inverte(Seccoes sec);
+SubSeccoes inverteSub(SubSeccoes sec);
 ArrayPaginas iniciar();
 #endif
