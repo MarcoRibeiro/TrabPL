@@ -58,7 +58,7 @@ SubSeccoes inverteSub(SubSeccoes sec){
 
 void imprimeSeccoes(FILE * out,Pagina pagina){
 	Seccoes aux = pagina->seccoes;
-	
+	if(aux){
 	aux=inverte(aux);
 	
 	while(aux){
@@ -76,6 +76,9 @@ void imprimeSeccoes(FILE * out,Pagina pagina){
 		
 		aux=aux->proxima;
 		fputs("</details>", out);
+	}
+	}else{
+		fputs("<strong>Não exitem secções!</strong>", out);
 	}
 	
 }
@@ -288,8 +291,10 @@ void imprimeIndice(FILE *indice,ArrayPaginas array){
 	int i=0;
 	int letra = 'A';
 	while(i<26){
-		if(array->paginas[i]){
-		fprintf(indice,"<li><a>%c <span class=\"caret\"></span></a>",letra);
+		if(!(array->paginas[i])){
+		fprintf(indice,"<li><a>%c</a></li>",letra);
+		}else{
+		fprintf(indice,"<li><a><font color=\"black\"><strong>%c</strong></font> <span color=\"black\" class=\"caret\"></span></a>",letra);
 			fputs("<div>",indice);
 				fputs("<ul>",indice);
 				imprimeIndex(indice,array,i);

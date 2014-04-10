@@ -24,15 +24,14 @@
 
 %%
 	
-	
-	
+	int seccao = 0;	
 "<page>"		{BEGIN(PAGINA);pagina = iniciarPagina();}
 
 <PAGINA>{
 	"<title>" 		{BEGIN(TITULO);}
 	"<revision>"	{BEGIN(REVISAO);}
 	.|[\n\t\r]		{;}
-	"</page>"		{inserirPagina(array,pagina);criaPagina(pagina);BEGIN(INITIAL);}
+	"</page>"		{inserirPagina(array,pagina);criaPagina(pagina);seccao =0;BEGIN(INITIAL);}
 		}
 
 <TITULO>{
@@ -49,7 +48,7 @@
 	[=]{2}            		{BEGIN(SECCAO);}
    	[=]{3,}           	{BEGIN(SUBSECCAO);}
    	[w]{3}\.	    	{BEGIN(LINKEXTERNO);}
-	[[]{2}				{BEGIN(LINKINTERNO);}
+	[\[]{2}				{BEGIN(LINKINTERNO);}
 	.|[\n\t\r]			{;}
 	"</revision>"		{BEGIN(PAGINA);}
 		 }
@@ -82,18 +81,23 @@
 			 }
 
 <LINKINTERNO>{
-	[^]:]+/"|" 		{inserirLinkInterno(pagina,yytext);}	
-	[^]:|]+/]] 		{inserirLinkInterno(pagina,yytext);}	
+	[^\]:]+/"|" 		{inserirLinkInterno(pagina,yytext);}	
+	[^\]:|]+/\]\] 		{inserirLinkInterno(pagina,yytext);}	
 	.|[\n\t\r]		{BEGIN(REVISAO);}	
 			 }
 
 <SECCAO>{
-	[^=]+			{inserirSeccao(pagina,yytext);}
+	[^=]+			{inserirSeccao(pagina,yytext);seccao=1;}
 	[=]{2}			{BEGIN(REVISAO);}		
 		}
 
 <SUBSECCAO>{
-	[^=]+       	{inserirSubseccao(pagina,yytext);}
+	[^=]+       	{if(seccao==1){
+						inserirSubseccao(pagina,yytext);
+						}else{
+						inserirSeccao(pagina,yytext);
+						seccao=1;}
+						}
 
     
     [=]{3,}        {BEGIN(REVISAO);}
@@ -114,13 +118,7 @@ int main(int argc, char *argv[]){
 	array = iniciar();
 	yylex();
 	geraIndice(array);
-	printf("link Int %d\n",array->paginas[0]->numLinksInt);
-	printf("link Ext %d\n",array->paginas[0]->numLinksExt);
-	printf("seccoes %d\n",array->paginas[0]->numSeccoes);
-	printf("titulo %s\n",array->paginas[0]->titulo);
-	printf("data %s\n",array->paginas[0]->data);
-	printf("imagem %s\n",array->paginas[0]->imagem);
-	printf("nomeAutor %s\n",array->paginas[0]->nomeAutor);
+	
 
 	system("google-chrome ~/TrabaPL/code/final/index.html");
 

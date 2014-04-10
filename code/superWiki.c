@@ -385,8 +385,8 @@ static void yy_fatal_error (yyconst char msg[]  );
 	*yy_cp = '\0'; \
 	(yy_c_buf_p) = yy_cp;
 
-#define YY_NUM_RULES 35
-#define YY_END_OF_BUFFER 36
+#define YY_NUM_RULES 36
+#define YY_END_OF_BUFFER 37
 /* This struct is not used in this scanner,
    but its presence is necessary. */
 struct yy_trans_info
@@ -398,25 +398,25 @@ static yyconst flex_int16_t yy_accept[195] =
     {   0,
         0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
         0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
-        0,    0,    0,    0,   36,   34,   34,   34,    4,    4,
-        4,    7,    7,    6,   35,   15,   15,   15,   15,   15,
-       15,   15,   20,   35,   35,   35,   23,   35,   26,   26,
-       26,   29,   29,   29,   29,   30,   35,   32,   35,   17,
-       19,    0,    0,    0,    0,    7,    7,    6,    0,    6,
-        6,    6,    0,    6,    0,    0,    0,   12,   14,    0,
-        0,   20,   21,    0,   23,    0,    0,    0,    0,    0,
-       27,    0,   30,   31,   32,    0,   17,    0,    0,    0,
+        0,    0,    0,    0,   37,   35,   35,   35,    4,    4,
+        4,    7,    7,    6,   36,   16,   16,   16,   16,   16,
+       16,   16,   21,   36,   36,   36,   24,   36,   27,   27,
+       27,   30,   30,   30,   30,   31,   36,   33,   36,   18,
+       20,    0,    0,    0,    0,    7,    7,    6,    0,    6,
+        6,    6,    0,    6,    0,    0,    0,   12,   15,    0,
+        0,   21,   22,    0,   24,    0,    0,    0,    0,    0,
+       28,    0,   31,   32,   33,    0,   18,    0,    0,    0,
 
-        0,    0,    6,    0,    0,    0,    0,   12,    0,    0,
-        0,    0,   25,   28,   31,   33,    0,    0,    0,    0,
-        0,    0,    0,    0,    0,   13,    0,    0,    0,   33,
+        0,    0,    6,    0,    0,    0,    0,   13,    0,    0,
+        0,    0,   26,   29,   34,    0,    0,    0,    0,    0,
+        0,    0,    0,    0,   13,   14,    0,    0,    0,   34,
         0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
-        0,    0,   18,    0,    1,    0,    0,    0,    0,    0,
+        0,    0,   19,    0,    1,    0,    0,    0,    0,    0,
         0,    0,    0,    0,    0,    5,    0,    2,    0,    0,
         0,    0,    0,    0,    0,    0,    8,    0,    0,    0,
         0,   11,    0,    0,    0,    0,    0,    0,   11,    0,
-        0,    3,    0,    0,   10,    0,    0,   16,    9,    0,
-       24,    0,   22,    0
+        0,    3,    0,    0,   10,    0,    0,   17,    9,    0,
+       25,    0,   23,    0
 
     } ;
 
@@ -462,27 +462,27 @@ static yyconst flex_int32_t yy_meta[34] =
 
 static yyconst flex_int16_t yy_base[226] =
     {   0,
-        0,    1,    2,    3,    5,   12,   20,   52,  497,  496,
-        3,    5,  499,  498,   85,  118,   23,   24,  496,  495,
-      494,  493,  496,  495,  500,  511,  511,  473,  511,  511,
-       16,   25,    0,   33,   30,  511,  511,   17,  488,  482,
-      464,  474,    0,  511,    0,  485,    0,  486,  511,  511,
-      486,   11,   32,  511,  458,    0,  480,    0,  479,    0,
-        0,  471,  461,  467,  464,   55,    0,   63,  476,   65,
-       67,  475,   51,  474,  454,  459,  451,  468,  511,  445,
-      453,    0,    0,  468,    0,  444,  467,    1,   44,  456,
-      438,  437,    0,  459,    0,  458,    0,    0,  447,  449,
+        0,    1,    2,    3,    5,   12,   20,   52,  496,  495,
+        3,    5,  498,  497,   85,  118,   23,   24,  495,  494,
+      493,  492,  495,  494,  499,  510,  510,  472,  510,  510,
+       16,   25,    0,   33,   30,  510,  510,   17,  487,  481,
+      463,  473,    0,  510,    0,  484,    0,  485,  510,  510,
+      485,   11,   32,  510,  457,    0,  479,    0,  478,    0,
+        0,  470,  460,  466,  463,   55,    0,   63,  475,   65,
+       67,  474,   51,  473,  453,  458,  450,  467,  510,  444,
+      452,    0,    0,  467,    0,  443,  466,    1,   44,  455,
+      437,  436,    0,  510,    0,  458,    0,    0,  447,  449,
 
       434,  435,  455,   61,  443,  438,  441,  449,  452,  440,
-      427,  427,   44,  511,  443,  442,    0,  432,  430,  428,
-      426,   70,  416,  427,  416,  511,  420,  418,  419,  416,
+      427,  427,   44,  510,  443,    0,  433,  431,  429,  427,
+       70,  417,  428,  419,  433,  510,  420,  418,  419,  416,
       414,  398,  379,  362,  366,   75,  353,  340,  341,  345,
-      340,  328,  511,  344,  511,  324,  297,  289,   71,  122,
-      120,  131,  124,  127,  121,  511,  119,  511,   94,  122,
+      340,  328,  510,  344,  510,  324,  297,  289,   71,  122,
+      120,  131,  124,  127,  121,  510,  119,  510,   94,  122,
       125,  118,   94,  112,  122,  114,  129,  111,  112,  113,
        99,  127,  101,  101,  112,   93,   90,  104,  110,   96,
-       93,  511,  100,   99,  511,   85,   96,  511,  511,   80,
-      511,   80,  511,  511,  151,  162,  173,  184,  195,  206,
+       93,  510,  100,   99,  510,   85,   96,  510,  510,   80,
+      510,   80,  510,  510,  151,  162,  173,  184,  195,  206,
 
       217,  228,  239,  250,  261,  272,  283,  294,  305,  316,
       327,  338,  349,  358,  369,  380,  391,  402,  413,   70,
@@ -503,8 +503,8 @@ static yyconst flex_int16_t yy_def[226] =
       216,  216,  217,  194,  218,  194,  219,  223,  194,  194,
 
       194,  194,  221,  210,  194,  194,  194,  194,  194,  194,
-      194,  194,  222,  194,  194,  194,  224,  194,  194,  194,
-      194,  210,  194,  194,  194,  194,  194,  194,  194,  194,
+      194,  194,  222,  194,  194,  224,  194,  194,  194,  194,
+      210,  194,  194,  194,  194,  194,  194,  194,  194,  194,
       225,  194,  194,  194,  194,  210,  194,  194,  194,  194,
       194,  194,  194,  225,  194,  194,  194,  194,  210,  194,
       194,  194,  194,  194,  194,  194,  194,  194,  210,  194,
@@ -518,17 +518,17 @@ static yyconst flex_int16_t yy_def[226] =
       194,  194,  194,  194,  194
     } ;
 
-static yyconst flex_int16_t yy_nxt[545] =
+static yyconst flex_int16_t yy_nxt[544] =
     {   0,
       194,   27,   27,   30,   30,   87,   88,   33,   28,   28,
        31,   31,   34,   35,   33,   45,   46,   45,   46,   34,
        35,   37,   63,   75,   53,   53,   90,   67,   38,   39,
        54,   54,   68,   69,   40,   67,   73,   74,   54,   54,
        71,   72,   64,   91,   65,   76,   77,   90,   87,   88,
-      131,   41,   42,   37,  117,   55,   55,   67,   74,   90,
+      131,   41,   42,   37,  116,   55,   55,   67,   74,   90,
        38,   39,   68,   69,   91,   67,   40,   67,   74,   67,
        71,   72,   71,   72,   71,   72,   91,   74,   74,  104,
-       98,  122,   74,   41,   42,   49,   50,   49,   49,  159,
+       98,  121,   74,   41,   42,   49,   50,   49,   49,  159,
       193,   49,   49,   49,   49,   49,  149,  171,  136,   49,
 
        49,   74,  171,  172,  167,  192,  191,  190,  172,  189,
@@ -568,21 +568,21 @@ static yyconst flex_int16_t yy_nxt[545] =
        95,   95,   95,   97,   97,   97,  143,   97,   97,   97,
        97,   97,   97,   97,   72,  130,   72,   72,   72,   72,
        72,   72,   72,   72,   72,  113,  113,  142,  141,  140,
-      113,  113,  139,  113,  144,  138,  137,  135,  134,  133,
-      132,  130,  115,  144,  129,  128,  127,  126,  108,  125,
-      124,  123,  103,  121,  120,  119,  118,  116,  115,   91,
-       91,  114,   88,  112,  111,  110,  109,  108,  107,  106,
-      105,  103,  103,   74,  102,  101,  100,   99,   96,   94,
-       91,   88,   86,   84,   81,   80,   79,   78,   62,  194,
+      113,  113,  125,  113,  144,  139,  138,  137,  135,  134,
+      133,  132,  130,  144,  129,  128,  127,  126,  125,  124,
+      123,  122,  103,  120,  119,  118,  117,  115,   91,   91,
+      114,   88,  112,  111,  110,  109,  108,  107,  106,  105,
+      103,  103,   74,  102,  101,  100,   99,   96,   94,   91,
+       88,   86,   84,   81,   80,   79,   78,   62,  194,   61,
 
-       61,   61,   59,   59,   57,   57,   48,   48,   44,   44,
-       25,  194,  194,  194,  194,  194,  194,  194,  194,  194,
+       61,   59,   59,   57,   57,   48,   48,   44,   44,   25,
       194,  194,  194,  194,  194,  194,  194,  194,  194,  194,
       194,  194,  194,  194,  194,  194,  194,  194,  194,  194,
-      194,  194,  194,  194
+      194,  194,  194,  194,  194,  194,  194,  194,  194,  194,
+      194,  194,  194
     } ;
 
-static yyconst flex_int16_t yy_chk[545] =
+static yyconst flex_int16_t yy_chk[544] =
     {   0,
         0,    1,    2,    3,    4,   88,   88,    5,    1,    2,
         3,    4,    5,    5,    6,   11,   11,   12,   12,    6,
@@ -591,9 +591,9 @@ static yyconst flex_int16_t yy_chk[545] =
        34,   34,   31,   52,   31,   38,   38,   53,  113,  113,
       224,    7,    7,    8,  223,   17,   18,   66,   73,   89,
         8,    8,   66,   66,   53,   68,    8,   70,  104,   71,
-       68,   68,   70,   70,   71,   71,   89,  122,  149,   73,
+       68,   68,   70,   70,   71,   71,   89,  121,  149,   73,
       220,  104,  136,    8,    8,   15,   15,   15,   15,  149,
-      192,   15,   15,   15,   15,   15,  136,  163,  122,   15,
+      192,   15,   15,   15,   15,   15,  136,  163,  121,   15,
 
        15,  159,  171,  163,  159,  190,  187,  186,  171,  184,
       183,  181,  180,  179,  178,  177,  176,   15,   16,   16,
@@ -632,25 +632,25 @@ static yyconst flex_int16_t yy_chk[545] =
       218,  218,  218,  219,  219,  219,  131,  219,  219,  219,
       219,  219,  219,  219,  221,  130,  221,  221,  221,  221,
       221,  221,  221,  221,  221,  222,  222,  129,  128,  127,
-      222,  222,  125,  222,  225,  124,  123,  121,  120,  119,
-      118,  116,  115,  225,  112,  111,  110,  109,  108,  107,
-      106,  105,  103,  102,  101,  100,   99,   96,   94,   92,
-       91,   90,   87,   86,   84,   81,   80,   78,   77,   76,
-       75,   74,   72,   69,   65,   64,   63,   62,   59,   57,
-       55,   51,   48,   46,   42,   41,   40,   39,   28,   25,
+      222,  222,  125,  222,  225,  124,  123,  122,  120,  119,
+      118,  117,  115,  225,  112,  111,  110,  109,  108,  107,
+      106,  105,  103,  102,  101,  100,   99,   96,   92,   91,
+       90,   87,   86,   84,   81,   80,   78,   77,   76,   75,
+       74,   72,   69,   65,   64,   63,   62,   59,   57,   55,
+       51,   48,   46,   42,   41,   40,   39,   28,   25,   24,
 
-       24,   23,   22,   21,   20,   19,   14,   13,   10,    9,
+       23,   22,   21,   20,   19,   14,   13,   10,    9,  194,
       194,  194,  194,  194,  194,  194,  194,  194,  194,  194,
       194,  194,  194,  194,  194,  194,  194,  194,  194,  194,
       194,  194,  194,  194,  194,  194,  194,  194,  194,  194,
-      194,  194,  194,  194
+      194,  194,  194
     } ;
 
 /* Table of booleans, true if rule could match eol. */
-static yyconst flex_int32_t yy_rule_can_match_eol[36] =
+static yyconst flex_int32_t yy_rule_can_match_eol[37] =
     {   0,
-0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 
-    1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0,     };
+0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 
+    0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0,     };
 
 static yy_state_type yy_last_accepting_state;
 static char *yy_last_accepting_cpos;
@@ -885,9 +885,8 @@ YY_DECL
 #line 25 "flexWiki.fl"
 
 	
-	
-	
-#line 891 "superWiki.c"
+	int seccao = 0;	
+#line 890 "superWiki.c"
 
 	if ( !(yy_init) )
 		{
@@ -946,7 +945,7 @@ yy_match:
 			yy_current_state = yy_nxt[yy_base[yy_current_state] + (unsigned int) yy_c];
 			++yy_cp;
 			}
-		while ( yy_base[yy_current_state] != 511 );
+		while ( yy_base[yy_current_state] != 510 );
 
 yy_find_action:
 		yy_act = yy_accept[yy_current_state];
@@ -982,215 +981,225 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 29 "flexWiki.fl"
+#line 28 "flexWiki.fl"
 {BEGIN(PAGINA);pagina = iniciarPagina();}
 	YY_BREAK
 
 case 2:
 YY_RULE_SETUP
-#line 32 "flexWiki.fl"
+#line 31 "flexWiki.fl"
 {BEGIN(TITULO);}
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 33 "flexWiki.fl"
+#line 32 "flexWiki.fl"
 {BEGIN(REVISAO);}
 	YY_BREAK
 case 4:
 /* rule 4 can match eol */
 YY_RULE_SETUP
-#line 34 "flexWiki.fl"
+#line 33 "flexWiki.fl"
 {;}
 	YY_BREAK
 case 5:
 YY_RULE_SETUP
-#line 35 "flexWiki.fl"
-{inserirPagina(array,pagina);criaPagina(pagina);BEGIN(INITIAL);}
+#line 34 "flexWiki.fl"
+{inserirPagina(array,pagina);criaPagina(pagina);seccao =0;BEGIN(INITIAL);}
 	YY_BREAK
 
 
 case 6:
 YY_RULE_SETUP
-#line 39 "flexWiki.fl"
+#line 38 "flexWiki.fl"
 BEGIN(INITIAL);
 	YY_BREAK
 case 7:
 /* rule 7 can match eol */
 YY_RULE_SETUP
-#line 40 "flexWiki.fl"
+#line 39 "flexWiki.fl"
 {inserirTitulo(pagina,yytext);}
 	YY_BREAK
 case 8:
 YY_RULE_SETUP
-#line 42 "flexWiki.fl"
+#line 41 "flexWiki.fl"
 BEGIN(PAGINA);
 	YY_BREAK
 
 
 case 9:
 YY_RULE_SETUP
-#line 46 "flexWiki.fl"
+#line 45 "flexWiki.fl"
 {BEGIN(DATA);}
 	YY_BREAK
 case 10:
 YY_RULE_SETUP
-#line 47 "flexWiki.fl"
+#line 46 "flexWiki.fl"
 {BEGIN(NOMEAUTOR);}
 	YY_BREAK
 case 11:
 YY_RULE_SETUP
-#line 48 "flexWiki.fl"
+#line 47 "flexWiki.fl"
 {BEGIN(IMAGEM);}
 	YY_BREAK
 case 12:
 YY_RULE_SETUP
-#line 49 "flexWiki.fl"
+#line 48 "flexWiki.fl"
 {BEGIN(SECCAO);}
 	YY_BREAK
 case 13:
 YY_RULE_SETUP
-#line 51 "flexWiki.fl"
-{BEGIN(LINKEXTERNO);}
+#line 49 "flexWiki.fl"
+{BEGIN(SUBSECCAO);}
 	YY_BREAK
 case 14:
 YY_RULE_SETUP
-#line 52 "flexWiki.fl"
-{BEGIN(LINKINTERNO);}
+#line 50 "flexWiki.fl"
+{BEGIN(LINKEXTERNO);}
 	YY_BREAK
 case 15:
-/* rule 15 can match eol */
 YY_RULE_SETUP
-#line 53 "flexWiki.fl"
-{;}
+#line 51 "flexWiki.fl"
+{BEGIN(LINKINTERNO);}
 	YY_BREAK
 case 16:
+/* rule 16 can match eol */
 YY_RULE_SETUP
-#line 54 "flexWiki.fl"
+#line 52 "flexWiki.fl"
+{;}
+	YY_BREAK
+case 17:
+YY_RULE_SETUP
+#line 53 "flexWiki.fl"
 {BEGIN(PAGINA);}
 	YY_BREAK
 
 
-case 17:
-/* rule 17 can match eol */
-YY_RULE_SETUP
-#line 58 "flexWiki.fl"
-{inserirImagem(pagina,yytext);}
-	YY_BREAK
 case 18:
 /* rule 18 can match eol */
 YY_RULE_SETUP
-#line 59 "flexWiki.fl"
-{BEGIN(REVISAO);}
+#line 57 "flexWiki.fl"
+{inserirImagem(pagina,yytext);}
 	YY_BREAK
 case 19:
+/* rule 19 can match eol */
 YY_RULE_SETUP
-#line 60 "flexWiki.fl"
+#line 58 "flexWiki.fl"
 {BEGIN(REVISAO);}
 	YY_BREAK
-
-
 case 20:
-/* rule 20 can match eol */
 YY_RULE_SETUP
-#line 65 "flexWiki.fl"
-{inserirData(pagina,yytext);BEGIN(HORA);}
+#line 59 "flexWiki.fl"
+{BEGIN(REVISAO);}
 	YY_BREAK
 
 
 case 21:
 /* rule 21 can match eol */
 YY_RULE_SETUP
-#line 70 "flexWiki.fl"
+#line 64 "flexWiki.fl"
+{inserirData(pagina,yytext);BEGIN(HORA);}
+	YY_BREAK
+
+
+case 22:
+/* rule 22 can match eol */
+YY_RULE_SETUP
+#line 69 "flexWiki.fl"
 {inserirHora(pagina,yytext+1);BEGIN(HORA);}
 	YY_BREAK
-case 22:
+case 23:
 YY_RULE_SETUP
-#line 71 "flexWiki.fl"
+#line 70 "flexWiki.fl"
 {BEGIN(REVISAO);}
 	YY_BREAK
 
 
-case 23:
-/* rule 23 can match eol */
+case 24:
+/* rule 24 can match eol */
 YY_RULE_SETUP
-#line 75 "flexWiki.fl"
+#line 74 "flexWiki.fl"
 {inserirNomeAutor(pagina,yytext);}
 	YY_BREAK
-case 24:
-YY_RULE_SETUP
-#line 76 "flexWiki.fl"
-{BEGIN(REVISAO);}
-	YY_BREAK
-
-
 case 25:
 YY_RULE_SETUP
-#line 80 "flexWiki.fl"
-{inserirLinkExterno(pagina,yytext);}
-	YY_BREAK
-case 26:
-/* rule 26 can match eol */
-YY_RULE_SETUP
-#line 81 "flexWiki.fl"
+#line 75 "flexWiki.fl"
 {BEGIN(REVISAO);}
 	YY_BREAK
 
 
+case 26:
+YY_RULE_SETUP
+#line 79 "flexWiki.fl"
+{inserirLinkExterno(pagina,yytext);}
+	YY_BREAK
 case 27:
 /* rule 27 can match eol */
+YY_RULE_SETUP
+#line 80 "flexWiki.fl"
+{BEGIN(REVISAO);}
+	YY_BREAK
+
+
+case 28:
+/* rule 28 can match eol */
 *yy_cp = (yy_hold_char); /* undo effects of setting up yytext */
 (yy_c_buf_p) = yy_cp -= 1;
+YY_DO_BEFORE_ACTION; /* set up yytext again */
+YY_RULE_SETUP
+#line 84 "flexWiki.fl"
+{inserirLinkInterno(pagina,yytext);}	
+	YY_BREAK
+case 29:
+/* rule 29 can match eol */
+*yy_cp = (yy_hold_char); /* undo effects of setting up yytext */
+(yy_c_buf_p) = yy_cp -= 2;
 YY_DO_BEFORE_ACTION; /* set up yytext again */
 YY_RULE_SETUP
 #line 85 "flexWiki.fl"
 {inserirLinkInterno(pagina,yytext);}	
 	YY_BREAK
-case 28:
-/* rule 28 can match eol */
-*yy_cp = (yy_hold_char); /* undo effects of setting up yytext */
-(yy_c_buf_p) = yy_cp -= 2;
-YY_DO_BEFORE_ACTION; /* set up yytext again */
+case 30:
+/* rule 30 can match eol */
 YY_RULE_SETUP
 #line 86 "flexWiki.fl"
-{inserirLinkInterno(pagina,yytext);}	
-	YY_BREAK
-case 29:
-/* rule 29 can match eol */
-YY_RULE_SETUP
-#line 87 "flexWiki.fl"
 {BEGIN(REVISAO);}	
 	YY_BREAK
 
 
-case 30:
-/* rule 30 can match eol */
+case 31:
+/* rule 31 can match eol */
+YY_RULE_SETUP
+#line 90 "flexWiki.fl"
+{inserirSeccao(pagina,yytext);seccao=1;}
+	YY_BREAK
+case 32:
 YY_RULE_SETUP
 #line 91 "flexWiki.fl"
-{inserirSeccao(pagina,yytext);}
-	YY_BREAK
-case 31:
-YY_RULE_SETUP
-#line 92 "flexWiki.fl"
 {BEGIN(REVISAO);}		
 	YY_BREAK
 
 
-case 32:
-/* rule 32 can match eol */
-YY_RULE_SETUP
-#line 96 "flexWiki.fl"
-{inserirSubseccao(pagina,yytext);}
-	YY_BREAK
 case 33:
+/* rule 33 can match eol */
 YY_RULE_SETUP
-#line 99 "flexWiki.fl"
+#line 95 "flexWiki.fl"
+{if(seccao==1){
+						inserirSubseccao(pagina,yytext);
+						}else{
+						inserirSeccao(pagina,yytext);
+						seccao=1;}
+						}
+	YY_BREAK
+case 34:
+YY_RULE_SETUP
+#line 103 "flexWiki.fl"
 {BEGIN(REVISAO);}
 	YY_BREAK
 
-case 34:
-/* rule 34 can match eol */
+case 35:
+/* rule 35 can match eol */
 YY_RULE_SETUP
-#line 103 "flexWiki.fl"
+#line 107 "flexWiki.fl"
 {;} 
 	YY_BREAK
 case YY_STATE_EOF(INITIAL):
@@ -1205,15 +1214,15 @@ case YY_STATE_EOF(LINKINTERNO):
 case YY_STATE_EOF(SECCAO):
 case YY_STATE_EOF(SUBSECCAO):
 case YY_STATE_EOF(IMAGEM):
-#line 105 "flexWiki.fl"
+#line 109 "flexWiki.fl"
 { ; return 1;}
 	YY_BREAK
-case 35:
+case 36:
 YY_RULE_SETUP
-#line 107 "flexWiki.fl"
+#line 111 "flexWiki.fl"
 ECHO;
 	YY_BREAK
-#line 1217 "superWiki.c"
+#line 1226 "superWiki.c"
 
 	case YY_END_OF_BUFFER:
 		{
@@ -2221,7 +2230,7 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 107 "flexWiki.fl"
+#line 111 "flexWiki.fl"
 
 
 
@@ -2233,13 +2242,7 @@ int main(int argc, char *argv[]){
 	array = iniciar();
 	yylex();
 	geraIndice(array);
-	printf("link Int %d\n",array->paginas[0]->numLinksInt);
-	printf("link Ext %d\n",array->paginas[0]->numLinksExt);
-	printf("seccoes %d\n",array->paginas[0]->numSeccoes);
-	printf("titulo %s\n",array->paginas[0]->titulo);
-	printf("data %s\n",array->paginas[0]->data);
-	printf("imagem %s\n",array->paginas[0]->imagem);
-	printf("nomeAutor %s\n",array->paginas[0]->nomeAutor);
+	
 
 	system("google-chrome ~/TrabaPL/code/final/index.html");
 
